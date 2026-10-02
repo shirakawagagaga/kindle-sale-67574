@@ -19,6 +19,7 @@ jobs:
             "https://r.jina.ai/https://kintyaku.net/sale",
             "https://yapi.ta2o.net/kndlsl/pickup/",
             "https://kinpome.com/kindle-sale2/",
+            "https://r.jina.ai/https://kinpome.com/kindle-sale2/",
           ]
           out={}
           for u in urls:
