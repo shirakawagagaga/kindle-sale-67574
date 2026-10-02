@@ -92,16 +92,16 @@ jobs:
           seq -w 1 46 | xargs -P 8 -I{} sh -c '
             u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-{}"
             body=$(curl -L --max-time 20 -s "$u" || true)
-            if echo "$body" | grep -q "対象冊数 67,574"; then
-              printf "%s" "$u" > autumn_sale_url.txt
+            if echo "$body" | grep -q "Title: 【75%OFF】Kindle本 秋の特別セール"; then
+              printf "%s\n" "$u" >> autumn_sale_urls.txt
               printf "%s" "$body" > autumn_sale_page.txt
             fi
           '
-          test -s autumn_sale_url.txt
+          test -s autumn_sale_urls.txt
       - name: Commit diagnostic
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json autumn_sale_url.txt autumn_sale_page.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json autumn_sale_urls.txt autumn_sale_page.txt 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
