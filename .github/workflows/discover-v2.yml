@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   issues:
     types: [opened]
+  schedule:
+    - cron: '*/5 * * * *'
 jobs:
   discover:
     runs-on: ubuntu-latest
