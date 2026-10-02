@@ -17,9 +17,13 @@ jobs:
             "https://r.jina.ai/http://kintyaku.net/sale",
             "https://r.jina.ai/https://kintyaku.net/sale",
             "https://r.jina.ai/https://kintyaku.net/sale?page=2",
+            "https://r.jina.ai/https://kintyaku.net/sale?p=2",
+            "https://r.jina.ai/https://kintyaku.net/sale?paged=2",
+            "https://r.jina.ai/https://kintyaku.net/sale/2",
+            "https://r.jina.ai/https://kintyaku.net/sale/page/2",
             "https://r.jina.ai/https://kintyaku.net/sale?page=3",
-            "https://r.jina.ai/https://kintyaku.net/sale?page=4",
-            "https://r.jina.ai/https://kintyaku.net/sale?page=5",
+            "https://r.jina.ai/https://kintyaku.net/sale/3",
+            "https://r.jina.ai/https://kintyaku.net/sale/page/3",
             "https://r.jina.ai/http://kintyaku.net/sale/osusume",
             "https://r.jina.ai/https://kintyaku.net/sale",
             "https://yapi.ta2o.net/kndlsl/pickup/",
@@ -31,6 +35,8 @@ jobs:
             try:
               r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=45)
               item={"status":r.status_code,"len":len(r.text),"final":r.url}
+              m=re.search(r"一覧は軽量化のため分割表示しています[^\n]{0,120}",r.text)
+              if m: item["page_marker"]=m.group(0)
               if "kinpome.com" in u:
                 import re
                 item["scripts"]=re.findall(r"<script[^>]+src=[\'\"]([^\'\"]+)",r.text,re.I)
