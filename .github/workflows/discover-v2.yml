@@ -15,6 +15,7 @@ jobs:
           import requests,json,html
           urls=[
             "https://r.jina.ai/http://kintyaku.net/sale",
+            "https://r.jina.ai/https://kintyaku.net/sale",
             "https://r.jina.ai/http://kintyaku.net/sale/osusume",
             "https://r.jina.ai/https://kintyaku.net/sale",
             "https://yapi.ta2o.net/kndlsl/pickup/",
@@ -45,7 +46,7 @@ jobs:
                     if len(hits)>=30:
                       break
                 item["hits"]=hits
-              if "r.jina.ai/https://kinpome.com" in u:
+              if "r.jina.ai/https://kinpome.com" in u or "r.jina.ai/https://kintyaku.net" in u:
                 item["body_head"]=r.text[:20000]
 
               out[u]=item
