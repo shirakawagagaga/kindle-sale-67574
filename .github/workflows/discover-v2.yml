@@ -119,6 +119,7 @@ jobs:
           grep -R -l -E "秋の特別セール|p202609-25|20260925" sitemap_*.txt > kintyaku_sitemap_hits.txt || true
       - name: Extract Autumn page from Kinseri sales index
         run: |
+          set +e
           python - <<'PY'
           import requests,re
           u="https://yapi.ta2o.net/kndlsl/sales/"
@@ -139,6 +140,7 @@ jobs:
           open("kinseri_autumn_urls.txt","w",encoding="utf-8").write("\n".join(urls))
           print("status",r.status_code,"len",len(s),"hits",len(hits),"urls",urls[:20])
           PY
+          set -e
       - name: Probe Kinseri current pickup through reader
         run: |
           u="https://r.jina.ai/https://yapi.ta2o.net/kndlsl/pickup/"
