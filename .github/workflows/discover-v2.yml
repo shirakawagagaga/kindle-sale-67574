@@ -89,19 +89,15 @@ jobs:
       - name: Probe dedicated 2026-09-25 sale pages
         run: |
           # Probe 9/25 dedicated sale IDs to locate the Autumn Special Sale page
-          : > autumn_sale_urls.txt
           seq -w 1 46 | xargs -P 8 -I{} sh -c '
             u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-{}"
             title=$(curl -L --max-time 20 -s "$u" | grep -m1 "^Title:" || true)
-            case "$title" in *秋の特別セール*) echo "$u";; esac
-          ' > autumn_sale_urls.txt
-          test -s autumn_sale_urls.txt
-          u=$(head -1 autumn_sale_urls.txt)
-          curl -L --max-time 30 -s "$u" > autumn_sale_page.txt
+            printf "%s\\t%s\\n" "{}" "$title"
+          ' | sort -n > september25_titles.txt
       - name: Commit diagnostic
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json autumn_sale_urls.txt autumn_sale_page.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json september25_titles.txt 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
