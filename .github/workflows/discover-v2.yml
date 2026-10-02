@@ -1,0 +1,49 @@
+name: discover-kindle-sale-v2
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch sale pages
+        run: |
+          python - <<'PY'
+          import requests,re,json,html
+          urls=[
+            "https://kintyaku.net/sale",
+            "https://kintyaku.net/sale/osusume",
+            "https://yapi.ta2o.net/kndlsl/pickup/",
+          ]
+          out={}
+          for u in urls:
+            try:
+              r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=45)
+              print("URL",u,"STATUS",r.status_code,"LEN",len(r.text),"FINAL",r.url)
+              item={"status":r.status_code,"len":len(r.text),"final":r.url}
+              if r.ok:
+                links=[]
+                for m in re.finditer(r'<a\\b[^>]*href=["\\\']([^"\\\']+)["\\\'][^>]*>(.*?)</a>',r.text,re.I|re.S):
+                  href=html.unescape(m.group(1))
+                  text=re.sub(r'<[^>]+>',' ',m.group(2))
+                  text=' '.join(html.unescape(text).split())
+                  hay=(text+" "+href).lower()
+                  if "67574" in hay or "秋の特別セール" in hay:
+                    links.append({"text":text[:500],"href":href})
+                item["matching_links"]=links
+              out[u]=item
+            except Exception as e:
+              print("ERR",u,repr(e))
+              out[u]={"error":repr(e)}
+          open("diagnostic-v2.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add diagnostic-v2.json
+          git diff --cached --quiet || git commit -m "Add sale page diagnostic v2"
+          git push
