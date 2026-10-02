@@ -61,7 +61,8 @@ jobs:
                     item["autumn_contexts"].append(r.text[max(0,p-2500):p+5000])
                     pos=p+len(needle)
                     if len(item["autumn_contexts"])>=20: break
-                item["sale_links"]=re.findall(r"https://kintyaku\.net/sale/[^\\s)\\]]+",r.text)
+                item["sale_links"]=re.findall(r"https://kintyaku\\.net/sale/[^\\s)\\]]+",r.text)
+                item["page_links"]=re.findall(r"https://kintyaku\\.net/[^\\s)\\]]*(?:page|p=[^\\s)\\]]*)[^\\s)\\]]*",r.text)[:200]
 
               out[u]=item
             except Exception as e:
