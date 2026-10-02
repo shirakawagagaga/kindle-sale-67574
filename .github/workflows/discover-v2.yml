@@ -53,6 +53,14 @@ jobs:
               if "r.jina.ai/https://kinpome.com" in u or "r.jina.ai/https://kintyaku.net" in u:
                 item["body_head"]=r.text[:20000]
                 item["body_tail"]=r.text[-12000:]
+                item["next_contexts"]=[]
+                pos=0
+                while True:
+                  p=r.text.find("次へ",pos)
+                  if p<0: break
+                  item["next_contexts"].append(r.text[max(0,p-1000):p+1500])
+                  pos=p+2
+                  if len(item["next_contexts"])>=10: break
                 item["autumn_contexts"]=[]
                 for needle in ["秋の特別セール","67574"]:
                   pos=0
