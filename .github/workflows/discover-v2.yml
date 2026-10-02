@@ -133,6 +133,11 @@ jobs:
               if len(out)>=20: break
           open("kinseri_autumn_context.txt","w",encoding="utf-8").write("\n\n---\n\n".join(out))
           PY
+      - name: Inspect candidate Amazon node responses
+        run: |
+          for node in 22273253051 22273253011 22273253001 22273253151 22273253251 22273253351; do
+            curl -L --max-time 20 -s -A "Mozilla/5.0" "https://www.amazon.co.jp/b/?node=$node" > "amazon_$node.html" || true
+          done
       - name: Probe Amazon sale node candidates
         run: |
           : > amazon_node_probe.txt
@@ -150,6 +155,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt kinseri_sales_index.txt kinseri_autumn_index_context.txt kinseri_autumn_urls.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt kinseri_sales_index.txt kinseri_autumn_index_context.txt kinseri_autumn_urls.txt amazon_*.html 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
