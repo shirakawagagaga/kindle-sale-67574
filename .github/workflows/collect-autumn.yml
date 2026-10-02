@@ -1,0 +1,97 @@
+name: collect-autumn-corpus
+
+on:
+  push:
+    paths-ignore:
+      - "autumn_asins_merged.json"
+      - "autumn_collection_log.json"
+  workflow_dispatch:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: "*/15 * * * *"
+
+concurrency:
+  group: autumn-corpus
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'issues' || contains(github.event.issue.title, 'Autumn corpus')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect all Autumn sale pages through alternate proxy
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python - <<'PY'
+          import concurrent.futures, json, re, time, requests
+          from pathlib import Path
+
+          BASES = [
+              "https://kintyaku-net.translate.goog/sale/p202609-25-{n:02d}?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en",
+              "https://r.jina.ai/http://kintyaku.net/sale/p202609-25-{n:02d}",
+          ]
+          expected = 67574
+
+          def fetch(n):
+              headers={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/154 Safari/537.36"}
+              for base in BASES:
+                  url=base.format(n=n)
+                  for attempt in range(3):
+                      try:
+                          r=requests.get(url,headers=headers,timeout=60)
+                          txt=r.text
+                          asins=set(re.findall(r'(?:https?://)?(?:www\\.)?amazon\\.co\\.jp/dp/([A-Z0-9]{10})',txt))
+                          if r.status_code == 200 and len(asins) >= 50:
+                              return n, sorted(asins), r.status_code, url, len(txt), ""
+                      except Exception as e:
+                          err=repr(e)
+                      time.sleep(1.5*(attempt+1))
+              return n, [], None, "", 0, "all attempts failed"
+
+          results={}
+          with concurrent.futures.ThreadPoolExecutor(max_workers=16) as ex:
+              futs=[ex.submit(fetch,n) for n in range(1,227)]
+              for fut in concurrent.futures.as_completed(futs):
+                  n,asins,status,url,length,err=fut.result()
+                  results[n]={"asins":asins,"status":status,"url":url,"length":length,"error":err}
+                  done=len(results)
+                  total=sum(len(v["asins"]) for v in results.values())
+                  print(f"{done}/226 page={n} asins={len(asins)} cumulative={total}",flush=True)
+
+          all_asins=sorted({a for v in results.values() for a in v["asins"]})
+          missing=[n for n in range(1,227) if not results[n]["asins"]]
+          counts=[len(results[n]["asins"]) for n in range(1,227)]
+
+          out={
+              "expected": expected,
+              "unique_asins": len(all_asins),
+              "pages_attempted": 226,
+              "pages_with_asins": 226-len(missing),
+              "pages_missing": missing,
+              "min_page_count": min(counts),
+              "max_page_count": max(counts),
+              "sum_page_asins": sum(counts),
+              "asins": all_asins
+          }
+          Path("autumn_asins_merged.json").write_text(json.dumps(out,ensure_ascii=False),encoding="utf-8")
+          Path("autumn_collection_log.json").write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding="utf-8")
+          print("FINAL_UNIQUE_ASINS",len(all_asins),flush=True)
+          print("EXPECTED",expected,flush=True)
+          print("MISSING_PAGES",missing,flush=True)
+          if len(all_asins) < expected:
+              raise SystemExit(f"Corpus incomplete: {len(all_asins)} / {expected}")
+          PY
+
+      - name: Commit completed corpus
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add autumn_asins_merged.json autumn_collection_log.json
+          git commit -m "Collect complete Autumn sale ASIN corpus"
+          git push
