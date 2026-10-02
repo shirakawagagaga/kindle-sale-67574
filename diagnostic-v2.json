@@ -1,0 +1,18 @@
+{
+  "https://kintyaku.net/sale": {
+    "status": 403,
+    "len": 5286,
+    "final": "https://kintyaku.net/sale"
+  },
+  "https://kintyaku.net/sale/osusume": {
+    "status": 403,
+    "len": 5332,
+    "final": "https://kintyaku.net/sale/osusume"
+  },
+  "https://yapi.ta2o.net/kndlsl/pickup/": {
+    "status": 200,
+    "len": 893700,
+    "final": "https://yapi.ta2o.net/kndlsl/pickup/",
+    "matching_links": []
+  }
+}
