@@ -97,7 +97,7 @@ jobs:
       - name: Probe Kintyaku linked September pages
         run: |
           for id in 42 35; do
-            curl -L --max-time 45 -s "https://r.jina.ai/https://kintyaku.net/sale/p202609-25-$(printf '%02d' $id)" > "kintyaku_p$id.txt" || true
+            curl -L --max-time 45 -s "https://r.jina.ai/http://kintyaku.net/sale/p202609-25-$(printf '%02d' $id)" > "kintyaku_p$id.txt" || true
           done
       - name: Search Kintyaku sitemap for Autumn sale
         run: |
