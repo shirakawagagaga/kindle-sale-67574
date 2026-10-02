@@ -2,6 +2,8 @@ name: discover-kindle-sale-v2
 on:
   push:
   workflow_dispatch:
+  issues:
+    types: [opened]
 jobs:
   discover:
     runs-on: ubuntu-latest
