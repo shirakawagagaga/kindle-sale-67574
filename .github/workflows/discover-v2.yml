@@ -89,15 +89,15 @@ jobs:
       - name: Probe dedicated 2026-09-25 sale pages
         run: |
           # Probe 9/25 dedicated sale IDs to locate the Autumn Special Sale page
-          for i in $(seq -w 1 46); do
-            u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-$i"
+          seq -w 1 46 | xargs -P 8 -I{} sh -c '
+            u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-{}"
             body=$(curl -L --max-time 20 -s "$u" || true)
             if echo "$body" | grep -q "対象冊数 67,574"; then
-              echo "$u" > autumn_sale_url.txt
-              echo "$body" > autumn_sale_page.txt
-              break
+              printf "%s" "$u" > autumn_sale_url.txt
+              printf "%s" "$body" > autumn_sale_page.txt
             fi
-          done
+          '
+          test -s autumn_sale_url.txt
       - name: Commit diagnostic
         run: |
           git config user.name github-actions
