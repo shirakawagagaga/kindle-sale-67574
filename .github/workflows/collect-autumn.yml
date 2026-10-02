@@ -1,10 +1,6 @@
 name: collect-autumn-corpus
 
 on:
-  push:
-    paths-ignore:
-      - "autumn_asins_merged.json"
-      - "autumn_collection_log.json"
   workflow_dispatch:
   issues:
     types: [opened]
@@ -24,68 +20,104 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Collect all Autumn sale pages through alternate proxy
+      - name: Discover the real "all 67574" entry and crawl its pagination graph
         env:
           PYTHONUNBUFFERED: "1"
         run: |
           python - <<'PY'
           import concurrent.futures, json, re, time, requests
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin, urlparse
           from pathlib import Path
 
-          BASES = [
-              "https://kintyaku-net.translate.goog/sale/p202609-25-{n:02d}?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en",
-              "https://r.jina.ai/http://kintyaku.net/sale/p202609-25-{n:02d}",
-          ]
-          expected = 67574
+          EXPECTED=67574
+          HEAD={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/154 Safari/537.36"}
 
-          def fetch(n):
-              headers={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/154 Safari/537.36"}
-              for base in BASES:
-                  url=base.format(n=n)
+          def proxies(url):
+              p=urlparse(url)
+              clean=f"{p.scheme}://{p.netloc}{p.path}"
+              if p.query: clean += "?"+p.query
+              yield "https://"+p.netloc.replace(".","-")+".translate.goog"+p.path+"?"+p.query+("&" if p.query else "")+"_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en"
+              yield "https://r.jina.ai/http://"+p.netloc+p.path+(("?"+p.query) if p.query else "")
+
+          def get(url):
+              for u in proxies(url):
                   for attempt in range(3):
                       try:
-                          r=requests.get(url,headers=headers,timeout=60)
-                          txt=r.text
-                          asins=set(re.findall(r'(?:https?://)?(?:www\\.)?amazon\\.co\\.jp/dp/([A-Z0-9]{10})',txt))
-                          if r.status_code == 200 and len(asins) >= 50:
-                              return n, sorted(asins), r.status_code, url, len(txt), ""
-                      except Exception as e:
-                          err=repr(e)
+                          r=requests.get(u,headers=HEAD,timeout=60)
+                          if r.status_code==200 and len(r.text)>1000:
+                              return r.text,u
+                      except Exception:
+                          pass
                       time.sleep(1.5*(attempt+1))
-              return n, [], None, "", 0, "all attempts failed"
+              return "", ""
 
-          results={}
-          with concurrent.futures.ThreadPoolExecutor(max_workers=16) as ex:
-              futs=[ex.submit(fetch,n) for n in range(1,227)]
-              for fut in concurrent.futures.as_completed(futs):
-                  n,asins,status,url,length,err=fut.result()
-                  results[n]={"asins":asins,"status":status,"url":url,"length":length,"error":err}
-                  done=len(results)
-                  total=sum(len(v["asins"]) for v in results.values())
-                  print(f"{done}/226 page={n} asins={len(asins)} cumulative={total}",flush=True)
+          main,used=get("https://kintyaku.net/sale")
+          if not main:
+              raise SystemExit("Could not fetch Kintyaku sale index")
 
-          all_asins=sorted({a for v in results.values() for a in v["asins"]})
-          missing=[n for n in range(1,227) if not results[n]["asins"]]
-          counts=[len(results[n]["asins"]) for n in range(1,227)]
+          soup=BeautifulSoup(main,"html.parser")
+          seed=None
+          for a in soup.find_all("a",href=True):
+              t=a.get_text(" ",strip=True)
+              h=urljoin("https://kintyaku.net",a["href"])
+              if "全67574冊" in t or ("67574" in t and "/sale/" in h):
+                  seed=h
+                  break
+          if not seed:
+              # Search raw HTML for the exact link text when translation changes DOM structure.
+              m=re.search(r'href=["\']([^"\']+)["\'][^>]*>[^<]*全67574冊',main,re.I)
+              if m: seed=urljoin("https://kintyaku.net",m.group(1))
+          if not seed:
+              raise SystemExit("Could not discover the real all-67574 URL from Kintyaku")
 
-          out={
-              "expected": expected,
-              "unique_asins": len(all_asins),
-              "pages_attempted": 226,
-              "pages_with_asins": 226-len(missing),
-              "pages_missing": missing,
-              "min_page_count": min(counts),
-              "max_page_count": max(counts),
-              "sum_page_asins": sum(counts),
-              "asins": all_asins
-          }
+          print("DISCOVERED_SEED",seed,flush=True)
+
+          # Crawl the actual pagination graph rather than assuming page numbers.
+          seen=set()
+          queue=[seed]
+          pages={}
+          while queue:
+              batch=[]
+              while queue and len(batch)<12:
+                  u=queue.pop(0)
+                  if u not in seen:
+                      seen.add(u); batch.append(u)
+              if not batch: continue
+
+              def one(u):
+                  txt,proxy=get(u)
+                  return u,txt,proxy
+              with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:
+                  for u,txt,proxy in ex.map(one,batch):
+                      pages[u]={"proxy":proxy,"length":len(txt)}
+                      if not txt: continue
+                      asins=set(re.findall(r'(?:https?://)?(?:www\\.)?amazon\\.co\\.jp/(?:dp|gp/product)/([A-Z0-9]{10})',txt))
+                      pages[u]["asins"]=sorted(asins)
+                      s=BeautifulSoup(txt,"html.parser")
+                      links=set()
+                      for a in s.find_all("a",href=True):
+                          h=urljoin("https://kintyaku.net",a["href"])
+                          p=urlparse(h)
+                          if p.netloc.endswith("kintyaku.net") and p.path.startswith("/sale/") and h not in seen:
+                              # Stay on the discovered sale-list namespace.
+                              if "p202609-25-" in p.path or h==seed:
+                                  links.add(h)
+                      pages[u]["links"]=sorted(links)
+                      queue.extend(sorted(links))
+              print("PAGES_SEEN",len(seen),"QUEUE",len(queue),flush=True)
+              if len(seen)>1000:
+                  raise SystemExit("Pagination graph unexpectedly large; aborting for safety")
+
+          all_asins=sorted({a for p in pages.values() for a in p.get("asins",[])})
+          out={"expected":EXPECTED,"unique_asins":len(all_asins),"seed":seed,
+               "pages_seen":len(pages),"pages_with_asins":sum(bool(p.get("asins")) for p in pages.values()),
+               "asins":all_asins}
           Path("autumn_asins_merged.json").write_text(json.dumps(out,ensure_ascii=False),encoding="utf-8")
-          Path("autumn_collection_log.json").write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding="utf-8")
+          Path("autumn_collection_log.json").write_text(json.dumps(pages,ensure_ascii=False,indent=2),encoding="utf-8")
           print("FINAL_UNIQUE_ASINS",len(all_asins),flush=True)
-          print("EXPECTED",expected,flush=True)
-          print("MISSING_PAGES",missing,flush=True)
-          if len(all_asins) < expected:
-              raise SystemExit(f"Corpus incomplete: {len(all_asins)} / {expected}")
+          if len(all_asins)<EXPECTED:
+              raise SystemExit(f"Corpus incomplete: {len(all_asins)} / {EXPECTED}")
           PY
 
       - name: Commit completed corpus
