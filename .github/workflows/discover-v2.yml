@@ -94,6 +94,23 @@ jobs:
             title=$(curl -L --max-time 20 -s "$u" | grep -m1 "^Title:" || true)
             printf "%s\\t%s\\n" "{}" "$title"
           ' | sort -n > september25_titles.txt
+      - name: Probe Kinseri current pickup through reader
+        run: |
+          u="https://r.jina.ai/https://yapi.ta2o.net/kndlsl/pickup/"
+          curl -L --max-time 60 -s "$u" > kinseri_reader.txt || true
+          python - <<'PY'
+          p=open("kinseri_reader.txt",encoding="utf-8",errors="ignore").read()
+          out=[]
+          for needle in ["秋の特別セール","6万冊以上","64418"]:
+            pos=0
+            while True:
+              i=p.find(needle,pos)
+              if i<0: break
+              out.append(p[max(0,i-3000):i+5000])
+              pos=i+len(needle)
+              if len(out)>=20: break
+          open("kinseri_autumn_context.txt","w",encoding="utf-8").write("\n\n---\n\n".join(out))
+          PY
       - name: Probe Amazon sale node candidates
         run: |
           : > amazon_node_probe.txt
@@ -111,6 +128,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
