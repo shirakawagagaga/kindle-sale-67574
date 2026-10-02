@@ -96,6 +96,8 @@ jobs:
             case "$title" in *秋の特別セール*) echo "$u";; esac
           ' > autumn_sale_urls.txt
           test -s autumn_sale_urls.txt
+          u=$(head -1 autumn_sale_urls.txt)
+          curl -L --max-time 30 -s "$u" > autumn_sale_page.txt
       - name: Commit diagnostic
         run: |
           git config user.name github-actions
