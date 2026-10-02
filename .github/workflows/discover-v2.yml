@@ -18,12 +18,19 @@ jobs:
             "https://r.jina.ai/http://kintyaku.net/sale/osusume",
             "https://r.jina.ai/https://kintyaku.net/sale",
             "https://yapi.ta2o.net/kndlsl/pickup/",
+            "https://kinpome.com/kindle-sale2/",
           ]
           out={}
           for u in urls:
             try:
               r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=45)
               item={"status":r.status_code,"len":len(r.text),"final":r.url}
+              if "kinpome.com" in u:
+                import re
+                item["scripts"]=re.findall(r"<script[^>]+src=[\'\"]([^\'\"]+)",r.text,re.I)
+                item["hrefs"]=re.findall(r"href=[\'\"]([^\'\"]+)",r.text,re.I)[:3000]
+                item["api_refs"]=re.findall(r".{0,150}(?:ajax|api|json|graphql|wp-json).{0,300}",r.text,re.I)[:100]
+
               if r.ok:
                 hits=[]
                 for needle in ["秋の特別セール","9月25日","10月8日","67574"]:
