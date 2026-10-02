@@ -4,6 +4,8 @@ on:
     paths:
       - '.github/workflows/probe-autumn.yml'
   workflow_dispatch:
+  issues:
+    types: [opened]
   schedule:
     - cron: '*/15 * * * *'
 
