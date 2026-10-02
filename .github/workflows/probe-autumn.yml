@@ -42,3 +42,36 @@ jobs:
           git add autumn_p91_raw.txt autumn_p91_extract.json autumn_p91_probe.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Probe Autumn 67574 sale page"
           git push
+
+      - name: Locate Autumn sale link from Kinseri
+        run: |
+          python - <<'PY'
+          import requests,re,json
+          urls=[
+            "https://yapi.ta2o.net/kndlsl/",
+            "https://r.jina.ai/https://yapi.ta2o.net/kndlsl/",
+            "https://r.jina.ai/http://yapi.ta2o.net/kndlsl/",
+          ]
+          hits=[]
+          for u in urls:
+            try:
+              r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=60)
+              s=r.text
+              pos=s.find("秋の特別セール")
+              if pos>=0:
+                hits.append({"url":u,"status":r.status_code,"len":len(s),
+                             "context":s[max(0,pos-12000):pos+20000],
+                             "links":re.findall(r'https?://[^"\\s<>]+',s[max(0,pos-12000):pos+20000])})
+              else:
+                hits.append({"url":u,"status":r.status_code,"len":len(s),"context":""})
+            except Exception as e:
+              hits.append({"url":u,"error":repr(e)})
+          json.dump(hits,open("kinseri_autumn_probe.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
+          PY
+      - name: Commit result
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add kinseri_autumn_probe.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Probe Kinseri Autumn sale link"
+          git push
