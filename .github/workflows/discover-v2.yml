@@ -94,6 +94,28 @@ jobs:
             title=$(curl -L --max-time 20 -s "$u" | grep -m1 "^Title:" || true)
             printf "%s\\t%s\\n" "{}" "$title"
           ' | sort -n > september25_titles.txt
+      - name: Extract Autumn page from Kinseri sales index
+        run: |
+          python - <<'PY'
+          import requests,re
+          u="https://yapi.ta2o.net/kndlsl/sales/"
+          r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=60)
+          s=r.text
+          hits=[]
+          for needle in ["秋の特別セール","6万冊以上","75%オフ"]:
+            pos=0
+            while True:
+              i=s.find(needle,pos)
+              if i<0: break
+              hits.append(s[max(0,i-5000):i+8000])
+              pos=i+len(needle)
+              if len(hits)>=20: break
+          open("kinseri_sales_index.txt","w",encoding="utf-8").write(s)
+          open("kinseri_autumn_index_context.txt","w",encoding="utf-8").write("\n\n---\n\n".join(hits))
+          urls=re.findall(r'href=["\\\']([^"\\\']+)["\\\'][^>]*>[^<]*(?:秋の特別セール|6万冊以上|75%オフ)',s,re.I|re.S)
+          open("kinseri_autumn_urls.txt","w",encoding="utf-8").write("\n".join(urls))
+          print("status",r.status_code,"len",len(s),"hits",len(hits),"urls",urls[:20])
+          PY
       - name: Probe Kinseri current pickup through reader
         run: |
           u="https://r.jina.ai/https://yapi.ta2o.net/kndlsl/pickup/"
@@ -128,6 +150,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt kinseri_sales_index.txt kinseri_autumn_index_context.txt kinseri_autumn_urls.txt 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
