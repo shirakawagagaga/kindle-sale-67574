@@ -12,7 +12,7 @@ jobs:
       - name: Fetch sale pages
         run: |
           python - <<'PY'
-          import requests,json,html
+          import requests,json,html,re
           urls=[
             "https://r.jina.ai/http://kintyaku.net/sale",
             "https://r.jina.ai/https://kintyaku.net/sale",
