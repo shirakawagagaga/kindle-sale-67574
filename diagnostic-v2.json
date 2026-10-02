@@ -22,5 +22,13 @@
     "len": 893700,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
+  },
+  "https://kinpome.com/kindle-sale2/": {
+    "status": 403,
+    "len": 5440,
+    "final": "https://kinpome.com/kindle-sale2/",
+    "scripts": [],
+    "hrefs": [],
+    "api_refs": []
   }
 }
