@@ -33,7 +33,7 @@ jobs:
                   hay=(text+" "+href).lower()
                   if "67574" in hay or "秋の特別セール" in hay or "2026年9月25日" in hay or "9月25日" in hay:
                     links.append({"text":text[:500],"href":href})
-                item["matching_links"]=links
+                item["matching_links"]=links\n                flat=re.sub(r"<[^>]+>"," ",r.text)\n                flat=" ".join(html.unescape(flat).split())\n                item["autumn_contexts"]=re.findall(r".{0,500}(?:秋の特別セール|9月25日|10月8日).{0,800}",flat,re.I)[:20]\n                item["sale_url_candidates"]=sorted(set(re.findall(r"https?://[^\\s<>]+",r.text)))[:5000]
               out[u]=item
             except Exception as e:
               print("ERR",u,repr(e))
