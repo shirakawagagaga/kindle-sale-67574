@@ -1,0 +1,42 @@
+name: probe-autumn-corpus
+on:
+  issues:
+    types: [opened]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch suspected 67,574-book page
+        run: |
+          python - <<'PY'
+          import requests,re,json
+          urls=[
+            "https://r.jina.ai/https://kintyaku.net/sale/p202609-25-91",
+            "https://r.jina.ai/http://kintyaku.net/sale/p202609-25-91",
+          ]
+          out=[]
+          for u in urls:
+            try:
+              r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=60)
+              out.append({"url":u,"status":r.status_code,"len":len(r.text),"head":r.text[:5000]})
+              if r.ok:
+                open("autumn_p91_raw.txt","w",encoding="utf-8").write(r.text)
+                links=re.findall(r'https://www\\.amazon\\.co\\.jp/dp/([A-Z0-9]{10})',r.text)
+                nodes=re.findall(r'(?:node=|bbn=)([0-9]{8,15})',r.text)
+                all_k=re.findall(r'https://kintyaku\\.net/sale/[^\\s)\\]]+',r.text)
+                json.dump({"url":u,"status":r.status_code,"len":len(r.text),"asins":sorted(set(links)),"nodes":sorted(set(nodes)),"kintyaku_links":sorted(set(all_k))},open("autumn_p91_extract.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
+            except Exception as e:
+              out.append({"url":u,"error":repr(e)})
+          json.dump(out,open("autumn_p91_probe.json","w",encoding="utf-8"),ensure_ascii=False,indent=2)
+          PY
+      - name: Commit result
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add autumn_p91_raw.txt autumn_p91_extract.json autumn_p91_probe.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Probe Autumn 67574 sale page"
+          git push
