@@ -45,6 +45,9 @@ jobs:
                     if len(hits)>=30:
                       break
                 item["hits"]=hits
+              if "r.jina.ai/https://kinpome.com" in u:
+                item["body_head"]=r.text[:20000]
+
               out[u]=item
             except Exception as e:
               out[u]={"error":repr(e)}
