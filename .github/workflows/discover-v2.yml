@@ -100,6 +100,16 @@ jobs:
             u="https://kintyaku-net.translate.goog/sale/p202609-25-$(printf '%02d' $id)?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en"
             curl -L --max-time 45 -s "$u" > "kintyaku_p$id.txt" || true
           done
+      - name: Probe Kinseri RSS feeds
+        run: |
+          : > kinseri_rss_hits.txt
+          for u in https://yapi.ta2o.net/kndlsl/rss.xml https://yapi.ta2o.net/kndlsl/rss https://yapi.ta2o.net/kndlsl/feed.xml https://yapi.ta2o.net/kndlsl/feed/; do
+            body=$(curl -L --max-time 30 -s "$u" || true)
+            if echo "$body" | grep -q "秋の特別セール"; then
+              echo "$u" >> kinseri_rss_hits.txt
+              echo "$body" > kinseri_rss.xml
+            fi
+          done
       - name: Search Kintyaku sitemap for Autumn sale
         run: |
           for u in https://r.jina.ai/https://kintyaku.net/sitemap.xml https://r.jina.ai/https://kintyaku.net/wp-sitemap.xml https://r.jina.ai/https://kintyaku.net/wp-sitemap-posts-sale-1.xml https://r.jina.ai/https://kintyaku.net/sitemap_index.xml; do
@@ -168,6 +178,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt kinseri_sales_index.txt kinseri_autumn_index_context.txt kinseri_autumn_urls.txt amazon_*.html sitemap_*.txt kintyaku_sitemap_hits.txt kintyaku_p*.txt 2>/dev/null || git add diagnostic-v2.json
+          git add diagnostic-v2.json september25_titles.txt amazon_node_probe.txt amazon_reader.txt amazon_reader_head.txt kinseri_reader.txt kinseri_autumn_context.txt kinseri_sales_index.txt kinseri_autumn_index_context.txt kinseri_autumn_urls.txt amazon_*.html sitemap_*.txt kintyaku_sitemap_hits.txt kintyaku_p*.txt kinseri_rss_hits.txt kinseri_rss.xml 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
