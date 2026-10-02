@@ -70,7 +70,7 @@ jobs:
                   pos=p+2
                   if len(item["next_contexts"])>=10: break
                 item["autumn_contexts"]=[]
-                for needle in ["秋の特別セール","67574"]:
+                for needle in ["秋の特別セール","67574","75%OFF","9月25","10月8"]:
                   pos=0
                   while True:
                     p=r.text.find(needle,pos)
