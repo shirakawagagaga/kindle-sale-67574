@@ -86,10 +86,22 @@ jobs:
               out[u]={"error":repr(e)}
           open("diagnostic-v2.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2))
           PY
+      - name: Probe dedicated 2026-09-25 sale pages
+        run: |
+          # Probe 9/25 dedicated sale IDs to locate the Autumn Special Sale page
+          for i in $(seq -w 1 46); do
+            u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-$i"
+            body=$(curl -L --max-time 20 -s "$u" || true)
+            if echo "$body" | grep -q "秋の特別セール"; then
+              echo "$u" > autumn_sale_url.txt
+              echo "$body" > autumn_sale_page.txt
+              break
+            fi
+          done
       - name: Commit diagnostic
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add diagnostic-v2.json
+          git add diagnostic-v2.json autumn_sale_url.txt autumn_sale_page.txt 2>/dev/null || git add diagnostic-v2.json
           git diff --cached --quiet || git commit -m "Refresh sale discovery diagnostic"
           git push
