@@ -31,7 +31,7 @@ jobs:
                   text=re.sub(r'<[^>]+>',' ',m.group(2))
                   text=' '.join(html.unescape(text).split())
                   hay=(text+" "+href).lower()
-                  if "67574" in hay or "秋の特別セール" in hay:
+                  if "67574" in hay or "秋の特別セール" in hay or "2026年9月25日" in hay or "9月25日" in hay:
                     links.append({"text":text[:500],"href":href})
                 item["matching_links"]=links
               out[u]=item
