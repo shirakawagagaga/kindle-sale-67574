@@ -14,8 +14,9 @@ jobs:
           python - <<'PY'
           import requests,json,html
           urls=[
-            "https://kintyaku.net/sale",
-            "https://kintyaku.net/sale/osusume",
+            "https://r.jina.ai/http://kintyaku.net/sale",
+            "https://r.jina.ai/http://kintyaku.net/sale/osusume",
+            "https://r.jina.ai/https://kintyaku.net/sale",
             "https://yapi.ta2o.net/kndlsl/pickup/",
           ]
           out={}
