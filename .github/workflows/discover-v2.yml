@@ -52,6 +52,7 @@ jobs:
                 item["hits"]=hits
               if "r.jina.ai/https://kinpome.com" in u or "r.jina.ai/https://kintyaku.net" in u:
                 item["body_head"]=r.text[:20000]
+                item["body_tail"]=r.text[-12000:]
                 item["autumn_contexts"]=[]
                 for needle in ["秋の特別セール","67574"]:
                   pos=0
