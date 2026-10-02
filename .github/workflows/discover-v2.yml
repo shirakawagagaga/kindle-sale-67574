@@ -89,15 +89,12 @@ jobs:
       - name: Probe dedicated 2026-09-25 sale pages
         run: |
           # Probe 9/25 dedicated sale IDs to locate the Autumn Special Sale page
+          : > autumn_sale_urls.txt
           seq -w 1 46 | xargs -P 8 -I{} sh -c '
             u="https://r.jina.ai/https://kintyaku.net/sale/p202609-25-{}"
-            body=$(curl -L --max-time 20 -s "$u" || true)
-            title=$(printf "%s" "$body" | grep -m1 "^Title:" || true)
-            if echo "$title" | grep -q "秋の特別セール"; then
-              printf "%s\n" "$u" >> autumn_sale_urls.txt
-              printf "%s" "$body" > autumn_sale_page.txt
-            fi
-          '
+            title=$(curl -L --max-time 20 -s "$u" | grep -m1 "^Title:" || true)
+            case "$title" in *秋の特別セール*) echo "$u";; esac
+          ' > autumn_sale_urls.txt
           test -s autumn_sale_urls.txt
       - name: Commit diagnostic
         run: |
