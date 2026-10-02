@@ -122,7 +122,7 @@ jobs:
           python - <<'PY'
           import requests,re
           u="https://yapi.ta2o.net/kndlsl/sales/"
-          r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=60)
+          r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=20)
           s=r.text
           hits=[]
           for needle in ["秋の特別セール","6万冊以上","75%オフ"]:
