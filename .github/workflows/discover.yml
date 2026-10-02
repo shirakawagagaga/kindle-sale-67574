@@ -1,0 +1,47 @@
+name: discover-kindle-sale
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch sale pages
+        run: |
+          python - <<'PY'
+          import requests,re,json
+          from bs4 import BeautifulSoup
+          urls=[
+            "https://kintyaku.net/sale",
+            "https://kintyaku.net/sale/osusume",
+            "https://yapi.ta2o.net/kndlsl/pickup/",
+          ]
+          out={}
+          for u in urls:
+            try:
+              r=requests.get(u,headers={"User-Agent":"Mozilla/5.0"},timeout=30)
+              print("URL",u,"STATUS",r.status_code,"LEN",len(r.text))
+              out[u]={"status":r.status_code,"len":len(r.text),"final":r.url}
+              if r.ok:
+                soup=BeautifulSoup(r.text,"html.parser")
+                links=[]
+                for a in soup.find_all("a",href=True):
+                  t=" ".join(a.stripped_strings)
+                  h=a["href"]
+                  if "67574" in t or "67574" in h or "秋の特別セール" in t or "秋の特別セール" in h:
+                    links.append({"text":t[:300],"href":h})
+                out[u]["links"]=links
+            except Exception as e:
+              print("ERR",u,repr(e)); out[u]={"error":repr(e)}
+          open("diagnostic.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit diagnostic
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add diagnostic.json
+          git diff --cached --quiet || git commit -m "Add sale page diagnostic"
+          git push
