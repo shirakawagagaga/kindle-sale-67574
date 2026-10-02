@@ -20,6 +20,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install scraper dependencies
+        run: python -m pip install --disable-pip-version-check beautifulsoup4 requests
+
       - name: Discover the real "all 67574" entry and crawl its pagination graph
         env:
           PYTHONUNBUFFERED: "1"
