@@ -1,13 +1,21 @@
 {
-  "https://kintyaku.net/sale": {
-    "status": 403,
-    "len": 5286,
-    "final": "https://kintyaku.net/sale"
+  "https://r.jina.ai/http://kintyaku.net/sale": {
+    "status": 200,
+    "len": 258424,
+    "final": "https://r.jina.ai/http://kintyaku.net/sale",
+    "hits": []
   },
-  "https://kintyaku.net/sale/osusume": {
-    "status": 403,
-    "len": 5332,
-    "final": "https://kintyaku.net/sale/osusume"
+  "https://r.jina.ai/http://kintyaku.net/sale/osusume": {
+    "status": 200,
+    "len": 44376,
+    "final": "https://r.jina.ai/http://kintyaku.net/sale/osusume",
+    "hits": []
+  },
+  "https://r.jina.ai/https://kintyaku.net/sale": {
+    "status": 200,
+    "len": 258498,
+    "final": "https://r.jina.ai/https://kintyaku.net/sale",
+    "hits": []
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
