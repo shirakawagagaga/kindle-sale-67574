@@ -76,9 +76,16 @@ jobs:
 
           print("DISCOVERED_SEED",seed,flush=True)
 
-          # Crawl the actual pagination graph rather than assuming page numbers.
+          # Crawl every discoverable Autumn-sale page plus its pagination graph.
+          # Do not assume sequential page numbers or a single namespace pattern.
           seen=set()
           queue=[seed]
+          for a in soup.find_all("a",href=True):
+              h=urljoin("https://kintyaku.net",a["href"])
+              t=a.get_text(" ",strip=True)
+              if urlparse(h).netloc.endswith("kintyaku.net") and urlparse(h).path.startswith("/sale/"):
+                  if ("202609-25" in h or "秋の特別セール" in t or "67574" in t):
+                      queue.append(h)
           pages={}
           while queue:
               batch=[]
@@ -103,8 +110,8 @@ jobs:
                           h=urljoin("https://kintyaku.net",a["href"])
                           p=urlparse(h)
                           if p.netloc.endswith("kintyaku.net") and p.path.startswith("/sale/") and h not in seen:
-                              # Stay on the discovered sale-list namespace.
-                              if "p202609-25-" in p.path or h==seed:
+                              # Keep all same-event sale/pagination links; page IDs need not be sequential.
+                              if ("202609-25" in h or h==seed):
                                   links.add(h)
                       pages[u]["links"]=sorted(links)
                       queue.extend(sorted(links))
