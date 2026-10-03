@@ -95,7 +95,7 @@ jobs:
                   for u,txt,proxy in ex.map(one,batch):
                       pages[u]={"proxy":proxy,"length":len(txt)}
                       if not txt: continue
-                      asins=set(re.findall(r'(?:https?://)?(?:www\\.)?amazon\\.co\\.jp/(?:dp|gp/product)/([A-Z0-9]{10})',txt))
+                      asins=set(re.findall(r'(?:https?://)?(?:www\.)?amazon\.co\.jp/(?:dp|gp/product)/([A-Z0-9]{10})',txt,re.I))
                       pages[u]["asins"]=sorted(asins)
                       s=BeautifulSoup(txt,"html.parser")
                       links=set()
@@ -119,6 +119,7 @@ jobs:
           Path("autumn_asins_merged.json").write_text(json.dumps(out,ensure_ascii=False),encoding="utf-8")
           Path("autumn_collection_log.json").write_text(json.dumps(pages,ensure_ascii=False,indent=2),encoding="utf-8")
           print("FINAL_UNIQUE_ASINS",len(all_asins),flush=True)
+          print('SOURCE_KINTYAKU_UNIQUE',len(all_asins),flush=True)
           if len(all_asins)<EXPECTED:
               raise SystemExit(f"Corpus incomplete: {len(all_asins)} / {EXPECTED}")
           PY
