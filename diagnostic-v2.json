@@ -127,11 +127,11 @@
   },
   "https://r.jina.ai/https://kintyaku.net/sale/page/5": {
     "status": 200,
-    "len": 226,
+    "len": 268,
     "final": "https://r.jina.ai/https://kintyaku.net/sale/page/5",
     "hits": [],
-    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/page/5\n\nWarning: This is a cached snapshot of the original page, consider retry with caching opt-out.\n\nMarkdown Content:\nEnable JavaScript and cookies to continue\n",
-    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/page/5\n\nWarning: This is a cached snapshot of the original page, consider retry with caching opt-out.\n\nMarkdown Content:\nEnable JavaScript and cookies to continue\n",
+    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/page/5\n\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\nEnable JavaScript and cookies to continue\n",
+    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/page/5\n\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\nEnable JavaScript and cookies to continue\n",
     "next_contexts": [],
     "autumn_contexts": [],
     "sale_links": [],
@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1097286,
+    "len": 1096676,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
