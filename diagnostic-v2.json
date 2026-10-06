@@ -1,7 +1,7 @@
 {
   "https://r.jina.ai/http://kintyaku.net/sale": {
     "status": 200,
-    "len": 446,
+    "len": 582,
     "final": "https://r.jina.ai/http://kintyaku.net/sale",
     "hits": []
   },
@@ -139,13 +139,13 @@
   },
   "https://r.jina.ai/http://kintyaku.net/sale/osusume": {
     "status": 200,
-    "len": 454,
+    "len": 352,
     "final": "https://r.jina.ai/http://kintyaku.net/sale/osusume",
     "hits": []
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1080855,
+    "len": 1080581,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
