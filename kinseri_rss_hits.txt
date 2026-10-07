@@ -1,0 +1,2 @@
+https://yapi.ta2o.net/kndlsl/rss.xml
+https://yapi.ta2o.net/kndlsl/rss
