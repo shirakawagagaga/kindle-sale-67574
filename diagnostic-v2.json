@@ -55,11 +55,11 @@
   },
   "https://r.jina.ai/https://kintyaku.net/sale/2": {
     "status": 200,
-    "len": 485,
+    "len": 450,
     "final": "https://r.jina.ai/https://kintyaku.net/sale/2",
     "hits": [],
-    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/2\n\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
-    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/2\n\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale/2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
     "next_contexts": [],
     "autumn_contexts": [],
     "sale_links": [],
@@ -155,7 +155,9 @@
     "final": "https://kinpome.com/kindle-sale2/",
     "scripts": [],
     "hrefs": [],
-    "api_refs": []
+    "api_refs": [
+      "GCYwf_Le326prN.hRkr7gN5ohr07dbsLerrqNlIhBuU_h0TFqLGguF8rT.jAq5LGTjPxTCYbGZ6D6oqZhJGZW_a.aC0xOWEsDFSkTMxaGC0UhQnXDnu0AzNE20YZx8QMFdoq6p9w4jXADZgFp6jXaxAPIe_Xc1KVF0ZG0PPaXYBYZXVcC9Kt4f4lP.EVqWZ.KsFfOcCGhhxZ1_TP.oafOjJekKztcuYIX_KatkgxCDAdspu8eS4Ul80EzGvqgbW_M5oraTWOV5UqiK46eKsMEC5sO_Fmcb7b2FjeiQR7SaX0wrrMzXM0gP3Hl4mqpxGCR3.fdsix73lskVK9K4pSbLIdbcN1DpyrfDXDBA.V0WZHlG1xuuE3yxcjXt.uBl7Zclz5PaJhiOucU8lAEm07rZIkOS4o3XlBzaoXwnJ.KzgMdSy5k7ouLOHkz9NDg9O6HV_fp"
+    ]
   },
   "https://r.jina.ai/https://kinpome.com/kindle-sale2/": {
     "status": 200,
