@@ -3,7 +3,7 @@ Title: Amazon.co.jp
 URL Source: https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051
 
 Markdown Content:
-![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:357-8115589-5367718:DTWF6FG8PYKAEQM4XYW2$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DDTWF6FG8PYKAEQM4XYW2:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
+![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:355-4873570-3494455:5MNSFQFCWNRZA8164DS8$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D5MNSFQFCWNRZA8164DS8:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 ## Skip to
 
 *   [Main content](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#skippedLink)

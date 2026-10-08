@@ -139,13 +139,13 @@
   },
   "https://r.jina.ai/http://kintyaku.net/sale/osusume": {
     "status": 200,
-    "len": 454,
+    "len": 44362,
     "final": "https://r.jina.ai/http://kintyaku.net/sale/osusume",
     "hits": []
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1087983,
+    "len": 1087543,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
