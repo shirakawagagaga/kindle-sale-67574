@@ -194,6 +194,8 @@ Markdown Content:
 
 [https://kintyaku.net/publisher-sales](https://kintyaku.net/publisher-sales)  
 
+[https://kintyaku.net/pub/2026-10-08-d73a570727](https://kintyaku.net/pub/2026-10-08-d73a570727)  
+
 [https://kintyaku.net/pub/2026-10-08-75e29c1dc4](https://kintyaku.net/pub/2026-10-08-75e29c1dc4)  
 
 [https://kintyaku.net/pub/2026-10-08-6cf405eb8c](https://kintyaku.net/pub/2026-10-08-6cf405eb8c)  
@@ -201,8 +203,6 @@ Markdown Content:
 [https://kintyaku.net/pub/2026-10-08-82da536419](https://kintyaku.net/pub/2026-10-08-82da536419)  
 
 [https://kintyaku.net/pub/2026-10-08-1cf2e4b260](https://kintyaku.net/pub/2026-10-08-1cf2e4b260)  
-
-[https://kintyaku.net/pub/2026-10-08-d73a570727](https://kintyaku.net/pub/2026-10-08-d73a570727)  
 
 [https://kintyaku.net/pub/2026-10-08-c98b118674](https://kintyaku.net/pub/2026-10-08-c98b118674)  
 
@@ -494,6 +494,18 @@ Markdown Content:
 
 [https://kintyaku.net/news/2026-07-07](https://kintyaku.net/news/2026-07-07)  
 
+[https://kintyaku.net/sale/p202610-08-20](https://kintyaku.net/sale/p202610-08-20)  
+2026-10-08
+
+[https://kintyaku.net/sale/p202610-08-19](https://kintyaku.net/sale/p202610-08-19)  
+2026-10-08
+
+[https://kintyaku.net/sale/p202610-08-22](https://kintyaku.net/sale/p202610-08-22)  
+2026-10-08
+
+[https://kintyaku.net/sale/p202610-08-21](https://kintyaku.net/sale/p202610-08-21)  
+2026-10-08
+
 [https://kintyaku.net/sale/p202610-08-03](https://kintyaku.net/sale/p202610-08-03)  
 2026-10-08
 
@@ -518,9 +530,6 @@ Markdown Content:
 [https://kintyaku.net/sale/p202610-08-02](https://kintyaku.net/sale/p202610-08-02)  
 2026-10-08
 
-[https://kintyaku.net/sale/p202610-08-20](https://kintyaku.net/sale/p202610-08-20)  
-2026-10-08
-
 [https://kintyaku.net/sale/p202610-08-17](https://kintyaku.net/sale/p202610-08-17)  
 2026-10-08
 
@@ -531,9 +540,6 @@ Markdown Content:
 2026-10-08
 
 [https://kintyaku.net/sale/p202610-08-10](https://kintyaku.net/sale/p202610-08-10)  
-2026-10-08
-
-[https://kintyaku.net/sale/p202610-08-19](https://kintyaku.net/sale/p202610-08-19)  
 2026-10-08
 
 [https://kintyaku.net/sale/p202610-08-12](https://kintyaku.net/sale/p202610-08-12)  
