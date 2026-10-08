@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1219934,
+    "len": 1219439,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
