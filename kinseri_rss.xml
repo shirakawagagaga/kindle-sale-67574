@@ -13,90 +13,112 @@
         <dc:language>ja</dc:language> 
         <items>
         <rdf:Seq>
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-nico3.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-nico3.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-weekly.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sbc-aki.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-shuei-gj15.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-imp-aki.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-bunch.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-shinsho.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-grastcn.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-bn.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-kg.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-mega.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-reifan.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-sgk-sato.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-123-bb.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dega.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-seiya.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-nine.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-kg.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-mega.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-reifan.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-akiman.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-takara-maho.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-sgk-sato.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-mag-romeria.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-123-bb.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dega.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-seiya.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-sds-feel.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-nine.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-shakai.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-hks-ya110.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261002-kdkw-bl.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-amazo-sai.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261002-kdkw-bl.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-fp-be.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-amazo-sai.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-lovejossie.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-tv.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-dan.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-sports.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-guru.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-you.html" />
-        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-dai.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html" />
         <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-risei.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-dai.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-fca.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-tensura.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-yawajo.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html" />
+        <rdf:li rdf:resource="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html" />
         </rdf:Seq>
         </items>
     </channel>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html">
+        <title>[Kindleセール終了] 【最大75%オフ・6万冊以上】Kindle本 秋の特別セール (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html">【最大75%オフ・6万冊以上】Kindle本 秋の特別セール (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GN1MH6KH?tag=events-22">『戦争論』</a><a href="https://www.amazon.co.jp/dp/B08BNW8WDV?tag=events-22">『変幻退魔夜行 カルラ舞う!』</a><a href="https://www.amazon.co.jp/dp/B0BMPSDXJ9?tag=events-22">『1年で億り人になる』</a><a href="https://www.amazon.co.jp/dp/B0GC3JBXSN?tag=events-22">『一度読んだら絶対に忘れない金利の教科書』</a><a href="https://www.amazon.co.jp/dp/B07C8H8Y46?tag=events-22">『ドラゴン桜2』</a><a href="https://www.amazon.co.jp/dp/B07V3BMDM2?tag=events-22">『陰の実力者になりたくて!』</a><a href="https://www.amazon.co.jp/dp/B0GC267WDD?tag=events-22">『一度読んだら絶対に忘れない微分積分の教科…』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico.html">
         <title>[Kindleセール終了] 【最大50%オフ・6000冊以上】KADOKAWA Kindle本フェア (9/25〜10/8)</title>
@@ -107,11 +129,11 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html">
-        <title>[Kindleセール終了] 【最大75%オフ・6万冊以上】Kindle本 秋の特別セール (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kindle-aki.html">【最大75%オフ・6万冊以上】Kindle本 秋の特別セール (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GN1MH6KH?tag=events-22">『戦争論』</a><a href="https://www.amazon.co.jp/dp/B08BNW8WDV?tag=events-22">『変幻退魔夜行 カルラ舞う!』</a><a href="https://www.amazon.co.jp/dp/B0BMPSDXJ9?tag=events-22">『1年で億り人になる』</a><a href="https://www.amazon.co.jp/dp/B0GC3JBXSN?tag=events-22">『一度読んだら絶対に忘れない金利の教科書』</a><a href="https://www.amazon.co.jp/dp/B07C8H8Y46?tag=events-22">『ドラゴン桜2』</a><a href="https://www.amazon.co.jp/dp/B07V3BMDM2?tag=events-22">『陰の実力者になりたくて!』</a><a href="https://www.amazon.co.jp/dp/B0GC267WDD?tag=events-22">『一度読んだら絶対に忘れない微分積分の教科…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html">
+        <title>[Kindleセール終了] 【50%オフ＆期間限定無料・1200冊以上】KADOKAWA ニコニコカドカワ祭り2026  第1弾 コミック (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html">【50%オフ＆期間限定無料・1200冊以上】KADOKAWA ニコニコカドカワ祭り2026  第1弾 コミック (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07V3BMDM2?tag=events-22">『陰の実力者になりたくて!』</a><a href="https://www.amazon.co.jp/dp/B09FX7BKFH?tag=events-22">『異世界食堂 洋食のねこや』</a><a href="https://www.amazon.co.jp/dp/B08SBF2HT9?tag=events-22">『便利屋斎藤さん、異世界に行く』</a><a href="https://www.amazon.co.jp/dp/B0G1939CTS?tag=events-22">『おっさん異世界で最強になる』</a><a href="https://www.amazon.co.jp/dp/B089SD1P6H?tag=events-22">『アラフォー賢者の異世界生活日記』</a><a href="https://www.amazon.co.jp/dp/B0G199SG62?tag=events-22">『住所不定キャンパーはダンジョンでのんびり…』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -125,11 +147,11 @@
         <dc:date>2026-10-05T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html">
-        <title>[Kindleセール終了] 【50%オフ＆期間限定無料・1200冊以上】KADOKAWA ニコニコカドカワ祭り2026  第1弾 コミック (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-nico1.html">【50%オフ＆期間限定無料・1200冊以上】KADOKAWA ニコニコカドカワ祭り2026  第1弾 コミック (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07V3BMDM2?tag=events-22">『陰の実力者になりたくて!』</a><a href="https://www.amazon.co.jp/dp/B09FX7BKFH?tag=events-22">『異世界食堂 洋食のねこや』</a><a href="https://www.amazon.co.jp/dp/B08SBF2HT9?tag=events-22">『便利屋斎藤さん、異世界に行く』</a><a href="https://www.amazon.co.jp/dp/B0G1939CTS?tag=events-22">『おっさん異世界で最強になる』</a><a href="https://www.amazon.co.jp/dp/B089SD1P6H?tag=events-22">『アラフォー賢者の異世界生活日記』</a><a href="https://www.amazon.co.jp/dp/B0G199SG62?tag=events-22">『住所不定キャンパーはダンジョンでのんびり…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-weekly.html">
+        <title>[Kindleセール開始] 【50%オフ・1000冊以上】講談社 書籍10月祭 3週連続週替わりセール＜第2週 科学・テクノロジー50%OFF＞ (10/8〜10/14)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-weekly.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-weekly.html">【50%オフ・1000冊以上】講談社 書籍10月祭 3週連続週替わりセール＜第2週 科学・テクノロジー50%OFF＞ (10/8〜10/14)</a>]]></description>
+        
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -161,20 +183,20 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-bunch.html">
+        <title>[Kindleセール開始] 【10円〜】新潮社 バンチコミックス10月新刊フェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-bunch.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-bunch.html">【10円〜】新潮社 バンチコミックス10月新刊フェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B071V8F1LQ?tag=events-22">『間違った子を魔法少女にしてしまった』</a><a href="https://www.amazon.co.jp/dp/B0BJK5SGMB?tag=events-22">『妄想先生』</a><a href="https://www.amazon.co.jp/dp/B07N7553DJ?tag=events-22">『姫乃ちゃんに恋はまだ早い』</a><a href="https://www.amazon.co.jp/dp/B0H446T1W1?tag=events-22">『ブラガール』</a><a href="https://www.amazon.co.jp/dp/B0G11NM1ZM?tag=events-22">『私がどうしても殺してほしい5人のパパ』</a><a href="https://www.amazon.co.jp/dp/B0GR3ZFF2Y?tag=events-22">『空五倍子先生の書けない生活』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-shinsho.html">
         <title>[Kindleセール終了] 【50%オフ】講談社 全点半額！ 講談社現代新書、この秋の必読リスト (9/25〜10/8)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-shinsho.html</link>
         <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-shinsho.html">【50%オフ】講談社 全点半額！ 講談社現代新書、この秋の必読リスト (9/25〜10/8)</a>]]></description>
         <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00DKX4E3S?tag=events-22">『演劇入門』</a><a href="https://www.amazon.co.jp/dp/B00CU8JRIG?tag=events-22">『知的生活の方法』</a><a href="https://www.amazon.co.jp/dp/B07837MSL8?tag=events-22">『炎の牛肉教室!』</a><a href="https://www.amazon.co.jp/dp/B076P7NYVX?tag=events-22">『正しく読み、深く考える』</a><a href="https://www.amazon.co.jp/dp/B075G9QTBR?tag=events-22">『正しい本の読み方』</a><a href="https://www.amazon.co.jp/dp/B07519PV7H?tag=events-22">『ニッポンの奇祭』</a><a href="https://www.amazon.co.jp/dp/B074SJDDX4?tag=events-22">『ハプスブルク帝国』</a><a href="https://www.amazon.co.jp/dp/B071XCGLH3?tag=events-22">『部活があぶない』</a><a href="https://www.amazon.co.jp/dp/B06XKHNDGF?tag=events-22">『ビートたけしと北野武』</a><a href="https://www.amazon.co.jp/dp/B06XKL6FSX?tag=events-22">『カラー版 東京の森を歩く』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html">
-        <title>[Kindleセール終了] 【期間限定無料＆99円〜・300冊以上】一二三書房 ノヴァコミックス 9月新刊配信キャンペーン (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html">【期間限定無料＆99円〜・300冊以上】一二三書房 ノヴァコミックス 9月新刊配信キャンペーン (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F23PQ6XJ?tag=events-22">『水魔法なんて使えないと追放されたけど、水…』</a><a href="https://www.amazon.co.jp/dp/B0DNJ3H7BN?tag=events-22">『異世界メイドがやってきた』</a><a href="https://www.amazon.co.jp/dp/B0GMGL42G4?tag=events-22">『妹の配信に入り込んだらVTuber扱いされた件…』</a><a href="https://www.amazon.co.jp/dp/B0FF45YBY6?tag=events-22">『「幼馴染みがほしい」と呟いたらよく一緒に…』</a><a href="https://www.amazon.co.jp/dp/B0B9RQ5CBG?tag=events-22">『35歳の選択』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -188,6 +210,15 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html">
+        <title>[Kindleセール終了] 【期間限定無料＆99円〜・300冊以上】一二三書房 ノヴァコミックス 9月新刊配信キャンペーン (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-123-novac.html">【期間限定無料＆99円〜・300冊以上】一二三書房 ノヴァコミックス 9月新刊配信キャンペーン (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F23PQ6XJ?tag=events-22">『水魔法なんて使えないと追放されたけど、水…』</a><a href="https://www.amazon.co.jp/dp/B0DNJ3H7BN?tag=events-22">『異世界メイドがやってきた』</a><a href="https://www.amazon.co.jp/dp/B0GMGL42G4?tag=events-22">『妹の配信に入り込んだらVTuber扱いされた件…』</a><a href="https://www.amazon.co.jp/dp/B0FF45YBY6?tag=events-22">『「幼馴染みがほしい」と呟いたらよく一緒に…』</a><a href="https://www.amazon.co.jp/dp/B0B9RQ5CBG?tag=events-22">『35歳の選択』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-bn.html">
         <title>[Kindleセール終了] 【100円均一】スクウェア・エニックス 【ガンガン読もうぜ！スクエニ夏祭り!!2026】 月刊Ｇファンタジー バックナンバー特価 (9/18〜10/8)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-bn.html</link>
@@ -197,92 +228,29 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html">
-        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】秋田書店 秋の「刃牙」シリーズ大フェア！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html">【最大50%オフ＆期間限定無料】秋田書店 秋の「刃牙」シリーズ大フェア！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0H872GKN2?tag=events-22">『バキのわ!』</a><a href="https://www.amazon.co.jp/dp/B00AQY7IFK?tag=events-22">『グラップラー刃牙』</a><a href="https://www.amazon.co.jp/dp/B075N7NZPG?tag=events-22">『餓狼伝』</a><a href="https://www.amazon.co.jp/dp/B00ZR2C9JQ?tag=events-22">『メイキャッパー』</a><a href="https://www.amazon.co.jp/dp/B00JR0Q0YO?tag=events-22">『刃牙道』</a><a href="https://www.amazon.co.jp/dp/B00KBECO4K?tag=events-22">『バキどもえ』</a><a href="https://www.amazon.co.jp/dp/B00I3BN8MA?tag=events-22">『バキ外伝』</a><a href="https://www.amazon.co.jp/dp/B093BSCH39?tag=events-22">『バキ外伝 烈海王は異世界転生しても一向に…』</a><a href="https://www.amazon.co.jp/dp/B09H2DHNW1?tag=events-22">『新装版 範馬刃牙』</a><a href="https://www.amazon.co.jp/dp/B0CVRLTQ6V?tag=events-22">『刃牙らへん』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「サイコ×パスト 猟奇殺人潜入捜査」 最新14巻発売！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html">【50%オフ＆期間限定無料】秋田書店 「サイコ×パスト 猟奇殺人潜入捜査」 最新14巻発売！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09Y5MDB1C?tag=events-22">『サイコ×パスト』</a><a href="https://www.amazon.co.jp/dp/B0C2C7J5KF?tag=events-22">『「おかえり、パパ」』</a><a href="https://www.amazon.co.jp/dp/B0H1BR62K6?tag=events-22">『ましろくん』</a><a href="https://www.amazon.co.jp/dp/B09SPGNBJT?tag=events-22">『ババンババンバンバンパイア』</a><a href="https://www.amazon.co.jp/dp/B019DZSEV4?tag=events-22">『蟻の王』</a><a href="https://www.amazon.co.jp/dp/B01M36I1LL?tag=events-22">『レイリ』</a><a href="https://www.amazon.co.jp/dp/B01DUC3V14?tag=events-22">『AIの遺電子』</a><a href="https://www.amazon.co.jp/dp/B00T9M121Q?tag=events-22">『神さまの怨結び』</a><a href="https://www.amazon.co.jp/dp/B00YWMRNHK?tag=events-22">『QPトム＆ジェリー外伝』</a><a href="https://www.amazon.co.jp/dp/B00IRU3WI2?tag=events-22">『魔法少女サイト』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html">
-        <title>[Kindleセール開始] 【最大83%オフ＆期間限定無料】白泉社 大ヒットシリーズ！西形まい「GAME ～スーツの隙間～」最新話配信！スペシャルフェア (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html">【最大83%オフ＆期間限定無料】白泉社 大ヒットシリーズ！西形まい「GAME ～スーツの隙間～」最新話配信！スペシャルフェア (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B015W10BHI?tag=events-22">『GAME』</a><a href="https://www.amazon.co.jp/dp/B014PDIEQY?tag=events-22">『花の騎士』</a><a href="https://www.amazon.co.jp/dp/B014PDIE5U?tag=events-22">『ヴィーナス綺想曲』</a><a href="https://www.amazon.co.jp/dp/B014PDIFTA?tag=events-22">『リップ スモーク』</a><a href="https://www.amazon.co.jp/dp/B014PDIFA4?tag=events-22">『サイボーイ』</a><a href="https://www.amazon.co.jp/dp/B014PDIF4A?tag=events-22">『ダンシグラシ』</a><a href="https://www.amazon.co.jp/dp/B014PDIEKU?tag=events-22">『スイートブラック』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html">
-        <title>[Kindleセール開始] 【最大92%オフ＆期間限定無料】GANMA! 『時森さんが無防備です』新刊発売記念キャンペーン (10/4〜10/17)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html">【最大92%オフ＆期間限定無料】GANMA! 『時森さんが無防備です』新刊発売記念キャンペーン (10/4〜10/17)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CWCBWNVR?tag=events-22">『家に帰るといつもくっころが居る』</a><a href="https://www.amazon.co.jp/dp/B0CQ4FHR3F?tag=events-22">『最強勇者パーティーは愛が知りたい』</a><a href="https://www.amazon.co.jp/dp/B0D96NSH4K?tag=events-22">『きゃたぴランド』</a><a href="https://www.amazon.co.jp/dp/B0C3C76GJ5?tag=events-22">『時森さんが無防備です!!』</a><a href="https://www.amazon.co.jp/dp/B07ZSHLS97?tag=events-22">『魔王の人事』</a><a href="https://www.amazon.co.jp/dp/B0CGL74M91?tag=events-22">『ご隠居魔王さまの返り咲き』</a><a href="https://www.amazon.co.jp/dp/B0CY195SS1?tag=events-22">『多数欠』</a><a href="https://www.amazon.co.jp/dp/B0HKW4SSMD?tag=events-22">『ボクはまだ夫ですか?』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「モーレツ！浦安鉄筋家族」 最新3巻発売！！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html">【50%オフ＆期間限定無料】秋田書店 「モーレツ！浦安鉄筋家族」 最新3巻発売！！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GMH1MZBG?tag=events-22">『モーレツ!浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B0166B6U1Y?tag=events-22">『少女聖典』</a><a href="https://www.amazon.co.jp/dp/B072JTKB45?tag=events-22">『英雄!シーザーさん』</a><a href="https://www.amazon.co.jp/dp/B018WYQWRU?tag=events-22">『吸血鬼すぐ死ぬ』</a><a href="https://www.amazon.co.jp/dp/B00QPSXEGS?tag=events-22">『ベルリンは鐘』</a><a href="https://www.amazon.co.jp/dp/B00KQJHWWO?tag=events-22">『セトウツミ』</a><a href="https://www.amazon.co.jp/dp/B00J02Y1S6?tag=events-22">『いきいきごんぼZ』</a><a href="https://www.amazon.co.jp/dp/B00FR1KVI8?tag=events-22">『毎度!浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B00BLEZCQ6?tag=events-22">『元祖! 浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B00D44I3SA?tag=events-22">『浦安鉄筋家族』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html">
-        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 10月新刊発売特集 第1弾 (10/7〜10/27)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 10月新刊発売特集 第1弾 (10/7〜10/27)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GC5Q2HJY?tag=events-22">『おっさん冒険者の遅れた英雄譚』</a><a href="https://www.amazon.co.jp/dp/B0BKSPQCP4?tag=events-22">『世界最強の魔女、始めました』</a><a href="https://www.amazon.co.jp/dp/B0FK4S3BV7?tag=events-22">『あなたのお城の小人さん』</a><a href="https://www.amazon.co.jp/dp/B0DL5FC6R1?tag=events-22">『社畜剣聖、配信者になる』</a><a href="https://www.amazon.co.jp/dp/B0G48B65LF?tag=events-22">『貴族転生』</a><a href="https://www.amazon.co.jp/dp/B0CW18Z89G?tag=events-22">『滅亡国家のやり直し 今日から始める軍師生…』</a><a href="https://www.amazon.co.jp/dp/B0BQYS6X4W?tag=events-22">『転生勇者の気まま旅』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html">
-        <title>[Kindleセール開始] 【無料＆50%オフなど】一二三書房 ラワーレコミックス10月新刊配信キャンペーン (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html">【無料＆50%オフなど】一二三書房 ラワーレコミックス10月新刊配信キャンペーン (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HJVWRLX7?tag=events-22">『煌めけ☆アイドルアカデミー1』</a><a href="https://www.amazon.co.jp/dp/B0G4611M1R?tag=events-22">『二度目の人生では、お飾り王妃になりません…』</a><a href="https://www.amazon.co.jp/dp/B0FYNFMB6X?tag=events-22">『クーデレ魔法師ととろあま「つがい」契約1』</a><a href="https://www.amazon.co.jp/dp/B0FC6Z6FQD?tag=events-22">『王宮侍女アンナの日常1』</a><a href="https://www.amazon.co.jp/dp/B0FT5PC5DK?tag=events-22">『裏庭のドア、異世界に繋がる』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html">
-        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】小学館 『ホテル・インヒューマンズ』 アニメ2期放送記念フェア！ (10/4〜11/2)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html">【最大50%オフ＆期間限定無料】小学館 『ホテル・インヒューマンズ』 アニメ2期放送記念フェア！ (10/4〜11/2)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DHCDZ79C?tag=events-22">『ラウルと吸血鬼』</a><a href="https://www.amazon.co.jp/dp/B0CJJDW4V3?tag=events-22">『リリア・プレグナント・ザ・ワールド・エン…』</a><a href="https://www.amazon.co.jp/dp/B09H2ML3YL?tag=events-22">『ホテル・インヒューマンズ』</a><a href="https://www.amazon.co.jp/dp/B0BR5GSRJ2?tag=events-22">『ガレキ!』</a><a href="https://www.amazon.co.jp/dp/B09YHDKPCP?tag=events-22">『弱体化勇者のリスタート』</a><a href="https://www.amazon.co.jp/dp/B09H2LDB3D?tag=events-22">『廃妃は再び玉座に昇る』</a><a href="https://www.amazon.co.jp/dp/B093L3YFPR?tag=events-22">『誰そ彼に海が泣く』</a><a href="https://www.amazon.co.jp/dp/B07VVKZJFB?tag=events-22">『ヴァンピアーズ』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html">
-        <title>[Kindleセール終了] 【無料＆50%オフ】スターツ出版 Berry's Fantasy人気作品完結＆新作続々配信記念キャンペーン (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html">【無料＆50%オフ】スターツ出版 Berry's Fantasy人気作品完結＆新作続々配信記念キャンペーン (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F93KJ6D6?tag=events-22">『双子王子の継母になりまして』</a><a href="https://www.amazon.co.jp/dp/B0GTQ2QJCZ?tag=events-22">『天才魔導具師ルシアはスローライフを送りた…』</a><a href="https://www.amazon.co.jp/dp/B0DHV1DHN7?tag=events-22">『離縁予定の捨てられ令嬢ですが、なぜか次期…』</a><a href="https://www.amazon.co.jp/dp/B0BBMB8JMX?tag=events-22">『聖女になんてなりませんっ!』</a><a href="https://www.amazon.co.jp/dp/B0B4MRLK8B?tag=events-22">『メイドに転生したら、うっかり竜王様の胃袋…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html">
+        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ！スクエニ夏祭り!!2026】 9月新刊発売特集 第3弾 (9/18〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ！スクエニ夏祭り!!2026】 9月新刊発売特集 第3弾 (9/18〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B08PNPF3YV?tag=events-22">『黒執事』</a><a href="https://www.amazon.co.jp/dp/B00OAX6T7G?tag=events-22">『賭ケグルイ』</a><a href="https://www.amazon.co.jp/dp/B09P1KDY1G?tag=events-22">『推しが兄になりました』</a><a href="https://www.amazon.co.jp/dp/B0DYL792WW?tag=events-22">『童顔な上司は好きですか?』</a><a href="https://www.amazon.co.jp/dp/B0DYKNBQ4J?tag=events-22">『お飾りの皇妃?なにそれ天職です!』</a><a href="https://www.amazon.co.jp/dp/B07TRLFM88?tag=events-22">『氷属性男子とクールな同僚女子』</a><a href="https://www.amazon.co.jp/dp/B0GX2WG8JJ?tag=events-22">『スノードロップ〜あなたの死を望みます』</a><a href="https://www.amazon.co.jp/dp/B0FK4RM5SW?tag=events-22">『ルルの亡霊屋敷』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html">
-        <title>[Kindleセール終了] 【50%オフ＆期間限定無料】秋田書店 あなたの読みたいがここに！全方位にスキなし！ AKITA最新異世界ファンタジーコミックフェア (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html">【50%オフ＆期間限定無料】秋田書店 あなたの読みたいがここに！全方位にスキなし！ AKITA最新異世界ファンタジーコミックフェア (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FC69WZ4S?tag=events-22">『放課後ファンタジー』</a><a href="https://www.amazon.co.jp/dp/B0BTPF7RD1?tag=events-22">『転生無敗の異世界賢者』</a><a href="https://www.amazon.co.jp/dp/B0F1CPQSTL?tag=events-22">『忘れられ師の英雄譚』</a><a href="https://www.amazon.co.jp/dp/B0DMVNJRVD?tag=events-22">『運送屋のおっさんがなぜか副業で絶対無敵剣…』</a><a href="https://www.amazon.co.jp/dp/B0D6YNZTPQ?tag=events-22">『ダンジョンが現れて5年、15歳でダンジョン…』</a><a href="https://www.amazon.co.jp/dp/B0CNPQ6J1Z?tag=events-22">『転生荷運び人の異世界攻略法』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html">
-        <title>[Kindleセール終了] 【最大30%オフ】KADOKAWA 男子ラノベキャンペーン (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html">【最大30%オフ】KADOKAWA 男子ラノベキャンペーン (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GX2VP9J1?tag=events-22">『人生逆転4』</a><a href="https://www.amazon.co.jp/dp/B0FHJTYHPW?tag=events-22">『騎士爵家』</a><a href="https://www.amazon.co.jp/dp/B0GF8W1MV6?tag=events-22">『異世界アジト2』</a><a href="https://www.amazon.co.jp/dp/B0FWQ931LW?tag=events-22">『勇者からは逃げられない』</a><a href="https://www.amazon.co.jp/dp/B0DWDMDJH8?tag=events-22">『転生した空間魔法使いは正体隠して目立ちた…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html">
+        <title>[Kindleセール終了] 【最大30%オフ】光文社 『はたらく人文知』発売記念！ 人生×人文  最大30％OFFキャンペーン (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html">【最大30%オフ】光文社 『はたらく人文知』発売記念！ 人生×人文  最大30％OFFキャンペーン (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HHR54D7H?tag=events-22">『はたらく人文知』</a><a href="https://www.amazon.co.jp/dp/B0G51N67MD?tag=events-22">『性的であるとはどのようなことか』</a><a href="https://www.amazon.co.jp/dp/B0G1M42ZPF?tag=events-22">『これからの社会のために哲学ができること』</a><a href="https://www.amazon.co.jp/dp/B0DYSRC53K?tag=events-22">『弁論術』</a><a href="https://www.amazon.co.jp/dp/B0D62BTR4Z?tag=events-22">『「ふつうの暮らし」を美学する』</a><a href="https://www.amazon.co.jp/dp/B0CTZZBGVC?tag=events-22">『嫉妬論』</a><a href="https://www.amazon.co.jp/dp/B0CDVZPYZR?tag=events-22">『不自由な社会で自由に生きる』</a><a href="https://www.amazon.co.jp/dp/B0BV22VGZX?tag=events-22">『友情を哲学する』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -296,38 +264,11 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】KADOKAWA 【FLOS COMIC】 2026年10月刊新刊連動キャンペーン (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html">【50%オフ＆期間限定無料】KADOKAWA 【FLOS COMIC】 2026年10月刊新刊連動キャンペーン (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FDVGDTH7?tag=events-22">『この結婚はどうせうまくいかない』</a><a href="https://www.amazon.co.jp/dp/B0G4SYLD5D?tag=events-22">『田舎者にはよくわかりません ぼんやり辺境…』</a><a href="https://www.amazon.co.jp/dp/B0CW1B75DW?tag=events-22">『できるメイド様』</a><a href="https://www.amazon.co.jp/dp/B08D8SDW41?tag=events-22">『悪役令嬢、セシリア・シルビィは死にたくな…』</a><a href="https://www.amazon.co.jp/dp/B0HK28XLY1?tag=events-22">『魔王城ホテルの悪役令嬢』</a><a href="https://www.amazon.co.jp/dp/B0HK2KJQ6J?tag=events-22">『公爵家の長女でした』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html">
-        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】秋田書店 「きみは四葉のクローバー」最新11巻＆「閻魔の教室」最新7巻発売！！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html">【最大50%オフ＆期間限定無料】秋田書店 「きみは四葉のクローバー」最新11巻＆「閻魔の教室」最新7巻発売！！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HD5WSDY7?tag=events-22">『東京逃避行』</a><a href="https://www.amazon.co.jp/dp/B0FH1P8N7H?tag=events-22">『閻魔の教室』</a><a href="https://www.amazon.co.jp/dp/B0DK6YP4KR?tag=events-22">『きみは四葉のクローバー』</a><a href="https://www.amazon.co.jp/dp/B0DGQ69FVB?tag=events-22">『まりも兄弟の茶飯事』</a><a href="https://www.amazon.co.jp/dp/B00CIU6G2Q?tag=events-22">『フルアヘッド!ココ』</a><a href="https://www.amazon.co.jp/dp/B01MDVGVJA?tag=events-22">『六道の悪女たち』</a><a href="https://www.amazon.co.jp/dp/B013DZ3O10?tag=events-22">『DRAGON SEEKERS』</a><a href="https://www.amazon.co.jp/dp/B00IXEU1BI?tag=events-22">『薔薇王の葬列』</a><a href="https://www.amazon.co.jp/dp/B00I8F3N9E?tag=events-22">『サンセットローズ』</a><a href="https://www.amazon.co.jp/dp/B00FJ2CD18?tag=events-22">『囚人リク』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「タイカの理性」最新8巻＆「ちょっと聞いてよ！宮澤さん」最新1巻発売！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html">【50%オフ＆期間限定無料】秋田書店 「タイカの理性」最新8巻＆「ちょっと聞いてよ！宮澤さん」最新1巻発売！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F1CRS8KJ?tag=events-22">『タイカの理性』</a><a href="https://www.amazon.co.jp/dp/B01N6EJJTC?tag=events-22">『BEASTARS』</a><a href="https://www.amazon.co.jp/dp/B0DMVNN6CF?tag=events-22">『来々亭のラッコさん』</a><a href="https://www.amazon.co.jp/dp/B09MQFZ25N?tag=events-22">『SANDA』</a><a href="https://www.amazon.co.jp/dp/B093BRMMNJ?tag=events-22">『貼りまわれ!こいぬ』</a><a href="https://www.amazon.co.jp/dp/B07LGMGK2N?tag=events-22">『いたちちち』</a><a href="https://www.amazon.co.jp/dp/B0799HZQ2Q?tag=events-22">『BEAST COMPLEX』</a><a href="https://www.amazon.co.jp/dp/B0F1CQH8X8?tag=events-22">『ウシミツガオ』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html">
-        <title>[Kindleセール終了] 【50%オフ】KADOKAWA 『てんびん』アニメの続きは小説＆コミックで！ 雲雀湯フェア (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html">【50%オフ】KADOKAWA 『てんびん』アニメの続きは小説＆コミックで！ 雲雀湯フェア (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B08W9DKPT9?tag=events-22">『転校先の清楚可憐な美少女が、昔男子と思っ…』</a><a href="https://www.amazon.co.jp/dp/B0FM2DC2ZY?tag=events-22">『孤高なカノジョと、彼女の部屋でシてること』</a><a href="https://www.amazon.co.jp/dp/B0CNJC3XC1?tag=events-22">『血の繋がらない私たちが家族になるたった一…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html">
+        <title>[Kindleセール終了] 【最大30%オフ】KADOKAWA 男子ラノベキャンペーン (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dlanove.html">【最大30%オフ】KADOKAWA 男子ラノベキャンペーン (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GX2VP9J1?tag=events-22">『人生逆転4』</a><a href="https://www.amazon.co.jp/dp/B0FHJTYHPW?tag=events-22">『騎士爵家』</a><a href="https://www.amazon.co.jp/dp/B0GF8W1MV6?tag=events-22">『異世界アジト2』</a><a href="https://www.amazon.co.jp/dp/B0FWQ931LW?tag=events-22">『勇者からは逃げられない』</a><a href="https://www.amazon.co.jp/dp/B0DWDMDJH8?tag=events-22">『転生した空間魔法使いは正体隠して目立ちた…』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -341,13 +282,13 @@
         <dc:date>2026-10-04T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html">
-        <title>[Kindleセール開始] 【最大50%オフ】文藝春秋 「侠飯シリーズ」フェア2026 (10/6〜10/19)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html">【最大50%オフ】文藝春秋 「侠飯シリーズ」フェア2026 (10/6〜10/19)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FSDL8CPM?tag=events-22">『侠飯11』</a><a href="https://www.amazon.co.jp/dp/B0HLCWSC4M?tag=events-22">『侠飯12 極旨スキマバイト篇』</a><a href="https://www.amazon.co.jp/dp/B0DJCQY8SL?tag=events-22">『合本 侠飯1』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】秋田書店 「きみは四葉のクローバー」最新11巻＆「閻魔の教室」最新7巻発売！！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-kimiha.html">【最大50%オフ＆期間限定無料】秋田書店 「きみは四葉のクローバー」最新11巻＆「閻魔の教室」最新7巻発売！！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HD5WSDY7?tag=events-22">『東京逃避行』</a><a href="https://www.amazon.co.jp/dp/B0FH1P8N7H?tag=events-22">『閻魔の教室』</a><a href="https://www.amazon.co.jp/dp/B0DK6YP4KR?tag=events-22">『きみは四葉のクローバー』</a><a href="https://www.amazon.co.jp/dp/B0DGQ69FVB?tag=events-22">『まりも兄弟の茶飯事』</a><a href="https://www.amazon.co.jp/dp/B00CIU6G2Q?tag=events-22">『フルアヘッド!ココ』</a><a href="https://www.amazon.co.jp/dp/B01MDVGVJA?tag=events-22">『六道の悪女たち』</a><a href="https://www.amazon.co.jp/dp/B013DZ3O10?tag=events-22">『DRAGON SEEKERS』</a><a href="https://www.amazon.co.jp/dp/B00IXEU1BI?tag=events-22">『薔薇王の葬列』</a><a href="https://www.amazon.co.jp/dp/B00I8F3N9E?tag=events-22">『サンセットローズ』</a><a href="https://www.amazon.co.jp/dp/B00FJ2CD18?tag=events-22">『囚人リク』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-reifan.html">
@@ -359,58 +300,31 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html">
-        <title>[Kindleセール開始] 【最大50%オフ】スターツ出版 ベリーズファンタジー10月新刊配信記念！人気ファンタジーフェア (10/5〜10/11)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html">【最大50%オフ】スターツ出版 ベリーズファンタジー10月新刊配信記念！人気ファンタジーフェア (10/5〜10/11)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HL7R95HN?tag=events-22">『人質同然で送られたお飾り妃は、平凡なフリ…』</a><a href="https://www.amazon.co.jp/dp/B0HL7TB2VC?tag=events-22">『お久しぶりです。「死んでこい」と言われた…』</a><a href="https://www.amazon.co.jp/dp/B0HL7VDRP1?tag=events-22">『転生公女は任期満了に伴い家族の元に帰らせ…』</a><a href="https://www.amazon.co.jp/dp/B0HL7VJKZH?tag=events-22">『「出来損ない」と言われた無自覚才女は、自…』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「魔入りました！入間くん」 最新51巻発売！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html">【50%オフ＆期間限定無料】秋田書店 「魔入りました！入間くん」 最新51巻発売！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B071JDQ44K?tag=events-22">『魔入りました!入間くん』</a><a href="https://www.amazon.co.jp/dp/B0CM37D1PN?tag=events-22">『魔入りました!入間くん if Episode of 魔フ…』</a><a href="https://www.amazon.co.jp/dp/B0CVRNR4CC?tag=events-22">『魔入りました!入間くん外伝』</a><a href="https://www.amazon.co.jp/dp/B0H86WCGS4?tag=events-22">『魔入りました!入間くん 僕同盟のゲーム道』</a><a href="https://www.amazon.co.jp/dp/B0GMGNX758?tag=events-22">『トントンの相談飯の夜明けぜよ』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html">
-        <title>[Kindleセール開始] 【最大90%オフ】KADOKAWA 電撃文庫 祝！アニメ化決定！ 次世代作品フェア (10/4〜10/17)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html">【最大90%オフ】KADOKAWA 電撃文庫 祝！アニメ化決定！ 次世代作品フェア (10/4〜10/17)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DKX5THYW?tag=events-22">『よって、初恋は証明された。』</a><a href="https://www.amazon.co.jp/dp/B0G6936KKL?tag=events-22">『とっておきの論理を、君と。』</a><a href="https://www.amazon.co.jp/dp/B0G3YR2F8S?tag=events-22">『こちら、終末停滞委員会。5』</a><a href="https://www.amazon.co.jp/dp/B0FJX4848Q?tag=events-22">『組織の宿敵と結婚したらめちゃ甘い4』</a><a href="https://www.amazon.co.jp/dp/B0FFKSNQ1C?tag=events-22">『この青春に、別解はない。』</a><a href="https://www.amazon.co.jp/dp/B014QIIFY4?tag=events-22">『WORLD END ECONOMiCA III』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html">
-        <title>[Kindleセール終了] 【50%オフ＆期間限定無料】KADOKAWA 【電撃コミックスNEXT】 2026年9月刊新刊連動キャンペーン (9/26〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html">【50%オフ＆期間限定無料】KADOKAWA 【電撃コミックスNEXT】 2026年9月刊新刊連動キャンペーン (9/26〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CPLD6D12?tag=events-22">『悪人面したB級冒険者 主人公とその幼馴染た…』</a><a href="https://www.amazon.co.jp/dp/B09ML8SQBZ?tag=events-22">『王都の外れの錬金術師』</a><a href="https://www.amazon.co.jp/dp/B08YRMZ6W3?tag=events-22">『真の実力はギリギリまで隠していようと思う』</a><a href="https://www.amazon.co.jp/dp/B0BY1JM9GK?tag=events-22">『嫌われ皇子のやりなおし』</a><a href="https://www.amazon.co.jp/dp/B0FLN8XRX1?tag=events-22">『転生した空間魔法使いは正体隠して目立ちた…』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-akiman.html">
+        <title>[Kindleセール開始] 【最大30%オフ＆期間限定無料】集英社 秋マン!!2026 週替わり2週目 (10/8〜10/14)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-akiman.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-akiman.html">【最大30%オフ＆期間限定無料】集英社 秋マン!!2026 週替わり2週目 (10/8〜10/14)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0789KBHR8?tag=events-22">『もっこり半兵衛』</a><a href="https://www.amazon.co.jp/dp/B084WS8GCR?tag=events-22">『あの人は昨日と同じ空を見上げてる』</a><a href="https://www.amazon.co.jp/dp/B0DT87NGNX?tag=events-22">『今日きみの手をとってあの空の下』</a><a href="https://www.amazon.co.jp/dp/B074K8Y1HC?tag=events-22">『スパデート』</a><a href="https://www.amazon.co.jp/dp/B0C7KZGY6B?tag=events-22">『ピース イン ハンド』</a><a href="https://www.amazon.co.jp/dp/B087CF9T1Y?tag=events-22">『隣の男はよく食べる』</a><a href="https://www.amazon.co.jp/dp/B0F1344KHF?tag=events-22">『ブラックリストの食えない男』</a><a href="https://www.amazon.co.jp/dp/B078B42JZC?tag=events-22">『サマータイムレンダ』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html">
-        <title>[Kindleセール開始] 【86%オフ＆期間限定無料】講談社 『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。』アニメ放送記念！人気異世界大集合フェア (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html">【86%オフ＆期間限定無料】講談社 『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。』アニメ放送記念！人気異世界大集合フェア (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09YTY7XHL?tag=events-22">『高度に発達した医学は魔法と区別がつかない』</a><a href="https://www.amazon.co.jp/dp/B0CGQWGD6R?tag=events-22">『世界最強の魔女、始めました』</a><a href="https://www.amazon.co.jp/dp/B09L7ZG2CC?tag=events-22">『転生貴族の万能開拓』</a><a href="https://www.amazon.co.jp/dp/B07YFWRRZY?tag=events-22">『実は俺、最強でした?』</a><a href="https://www.amazon.co.jp/dp/B0CP7M669X?tag=events-22">『魔術ギルド総帥』</a><a href="https://www.amazon.co.jp/dp/B0CLY2D4X1?tag=events-22">『最強で最速の無限レベルアップ』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-takara-maho.html">
+        <title>[Kindleセール開始] 【最大70%オフ】宝島社 「魔法少女育成計画restart」 アニメ放送開始記念フェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-takara-maho.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-takara-maho.html">【最大70%オフ】宝島社 「魔法少女育成計画restart」 アニメ放送開始記念フェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CY5Y8JGM?tag=events-22">『このマンガがすごい! comics 魔法少女育成…』</a><a href="https://www.amazon.co.jp/dp/B0CL6HKYJ4?tag=events-22">『魔法少女育成計画「赤」』</a><a href="https://www.amazon.co.jp/dp/B09VGCWPYM?tag=events-22">『魔法少女育成計画episodesΣ』</a><a href="https://www.amazon.co.jp/dp/B09Q5YYKH9?tag=events-22">『魔法少女育成計画「白」』</a><a href="https://www.amazon.co.jp/dp/B08X1VW28X?tag=events-22">『魔法少女育成計画 breakdown』</a><a href="https://www.amazon.co.jp/dp/B07YMM8C4X?tag=events-22">『魔法少女育成計画「黒』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「サイコ×パスト 猟奇殺人潜入捜査」 最新14巻発売！ (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-psy.html">【50%オフ＆期間限定無料】秋田書店 「サイコ×パスト 猟奇殺人潜入捜査」 最新14巻発売！ (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09Y5MDB1C?tag=events-22">『サイコ×パスト』</a><a href="https://www.amazon.co.jp/dp/B0C2C7J5KF?tag=events-22">『「おかえり、パパ」』</a><a href="https://www.amazon.co.jp/dp/B0H1BR62K6?tag=events-22">『ましろくん』</a><a href="https://www.amazon.co.jp/dp/B09SPGNBJT?tag=events-22">『ババンババンバンバンパイア』</a><a href="https://www.amazon.co.jp/dp/B019DZSEV4?tag=events-22">『蟻の王』</a><a href="https://www.amazon.co.jp/dp/B01M36I1LL?tag=events-22">『レイリ』</a><a href="https://www.amazon.co.jp/dp/B01DUC3V14?tag=events-22">『AIの遺電子』</a><a href="https://www.amazon.co.jp/dp/B00T9M121Q?tag=events-22">『神さまの怨結び』</a><a href="https://www.amazon.co.jp/dp/B00YWMRNHK?tag=events-22">『QPトム＆ジェリー外伝』</a><a href="https://www.amazon.co.jp/dp/B00IRU3WI2?tag=events-22">『魔法少女サイト』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html">
+        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 異世界転生したのでマンガ読みます 特集 (9/18〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 異世界転生したのでマンガ読みます 特集 (9/18〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DVBZG2SK?tag=events-22">『転生先は北の辺境でしたが精霊のおかげでけ…』</a><a href="https://www.amazon.co.jp/dp/B0D2L3TMND?tag=events-22">『老害レベル 異世界転生したら天誅し放題』</a><a href="https://www.amazon.co.jp/dp/B0CQYBM8WK?tag=events-22">『ダンジョン・ファーム』</a><a href="https://www.amazon.co.jp/dp/B0C3LF8TTY?tag=events-22">『英雄と賢者の転生婚』</a><a href="https://www.amazon.co.jp/dp/B0BWY5TPDD?tag=events-22">『回復ローションで魔王を倒すことになった。』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-sgk-sato.html">
@@ -422,56 +336,20 @@
         <dc:date>2026-10-06T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html">
-        <title>[Kindleセール終了] 【最大30%オフ】光文社 『はたらく人文知』発売記念！ 人生×人文  最大30％OFFキャンペーン (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kobun-jin.html">【最大30%オフ】光文社 『はたらく人文知』発売記念！ 人生×人文  最大30％OFFキャンペーン (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HHR54D7H?tag=events-22">『はたらく人文知』</a><a href="https://www.amazon.co.jp/dp/B0G51N67MD?tag=events-22">『性的であるとはどのようなことか』</a><a href="https://www.amazon.co.jp/dp/B0G1M42ZPF?tag=events-22">『これからの社会のために哲学ができること』</a><a href="https://www.amazon.co.jp/dp/B0DYSRC53K?tag=events-22">『弁論術』</a><a href="https://www.amazon.co.jp/dp/B0D62BTR4Z?tag=events-22">『「ふつうの暮らし」を美学する』</a><a href="https://www.amazon.co.jp/dp/B0CTZZBGVC?tag=events-22">『嫉妬論』</a><a href="https://www.amazon.co.jp/dp/B0CDVZPYZR?tag=events-22">『不自由な社会で自由に生きる』</a><a href="https://www.amazon.co.jp/dp/B0BV22VGZX?tag=events-22">『友情を哲学する』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html">
+        <title>[Kindleセール終了] 【50%オフ＆期間限定無料】KADOKAWA 【電撃コミックスNEXT】 2026年9月刊新刊連動キャンペーン (9/26〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260926-kdkw-dennext.html">【50%オフ＆期間限定無料】KADOKAWA 【電撃コミックスNEXT】 2026年9月刊新刊連動キャンペーン (9/26〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CPLD6D12?tag=events-22">『悪人面したB級冒険者 主人公とその幼馴染た…』</a><a href="https://www.amazon.co.jp/dp/B09ML8SQBZ?tag=events-22">『王都の外れの錬金術師』</a><a href="https://www.amazon.co.jp/dp/B08YRMZ6W3?tag=events-22">『真の実力はギリギリまで隠していようと思う』</a><a href="https://www.amazon.co.jp/dp/B0BY1JM9GK?tag=events-22">『嫌われ皇子のやりなおし』</a><a href="https://www.amazon.co.jp/dp/B0FLN8XRX1?tag=events-22">『転生した空間魔法使いは正体隠して目立ちた…』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html">
-        <title>[Kindleセール終了] 【最大50%オフ】KADOKAWA MFブックスW看板ヒロイン 新刊発売フェア (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html">【最大50%オフ】KADOKAWA MFブックスW看板ヒロイン 新刊発売フェア (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07JMKWXW1?tag=events-22">『魔導具師ダリヤはうつむかない』</a><a href="https://www.amazon.co.jp/dp/B0B3QM1JCN?tag=events-22">『永年雇用は可能でしょうか』</a><a href="https://www.amazon.co.jp/dp/B0FQ9Y62T8?tag=events-22">『護衛騎士ヨナスはふりむかない』</a><a href="https://www.amazon.co.jp/dp/B09284PLVM?tag=events-22">『服飾師ルチアはあきらめない』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html">
-        <title>[Kindleセール開始] 【最大90%オフ＆期間限定無料】芳文社 『孔明のヨメ。』など まんがタイムコミックス新刊配信記念キャンペーン (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html">【最大90%オフ＆期間限定無料】芳文社 『孔明のヨメ。』など まんがタイムコミックス新刊配信記念キャンペーン (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B01GVB6LS6?tag=events-22">『だって愛してる』</a><a href="https://www.amazon.co.jp/dp/B0C58TD35Y?tag=events-22">『まほろば小町ハルヒノさん』</a><a href="https://www.amazon.co.jp/dp/B0851D4JYS?tag=events-22">『和服な上司がいとおしい』</a><a href="https://www.amazon.co.jp/dp/B0158EKQ6U?tag=events-22">『孔明のヨメ。』</a><a href="https://www.amazon.co.jp/dp/B00V2W3S7W?tag=events-22">『軍神ちゃんとよばないで』</a><a href="https://www.amazon.co.jp/dp/B0F8BC8PB6?tag=events-22">『ムクカノ』</a><a href="https://www.amazon.co.jp/dp/B0H1FYY77S?tag=events-22">『星月夜工業高校ルナ同好会』</a><a href="https://www.amazon.co.jp/dp/B0GS15DPG1?tag=events-22">『どうにも不器用な夫婦でして。』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html">
-        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】朝日新聞出版 『末裔のほのか』新刊配信記念！ 朝日新聞出版×秋田書店 ホラーフェア (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html">【50%オフ＆期間限定無料】朝日新聞出版 『末裔のほのか』新刊配信記念！ 朝日新聞出版×秋田書店 ホラーフェア (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HLP7N3NV?tag=events-22">『末裔のほのか』</a><a href="https://www.amazon.co.jp/dp/B0HLP9PQQK?tag=events-22">『花菱夫妻の退魔帖』</a><a href="https://www.amazon.co.jp/dp/B08D3HPKNH?tag=events-22">『ある設計士の忌録』</a><a href="https://www.amazon.co.jp/dp/B009CN01PA?tag=events-22">『魔百合の恐怖報告』</a><a href="https://www.amazon.co.jp/dp/B00DU90MO2?tag=events-22">『悪霊退散大作戦』</a><a href="https://www.amazon.co.jp/dp/B08ZCJVLJ7?tag=events-22">『幻怪地帯』</a><a href="https://www.amazon.co.jp/dp/B01CJBIGZS?tag=events-22">『伊集院月丸の残念な霊能稼業』</a><a href="https://www.amazon.co.jp/dp/B00HFKHTQQ?tag=events-22">『栞と紙魚子』</a><a href="https://www.amazon.co.jp/dp/B009CN02NG?tag=events-22">『伊藤潤二傑作集』</a><a href="https://www.amazon.co.jp/dp/B00D44LLYI?tag=events-22">『不安の種』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html">
-        <title>[Kindleセール開始] 【20%オフ＆期間限定無料】白泉社 運命的な大恋愛が始まる！TVアニメ「彼方から」 放送記念・名作ファンタジーフェア！ (10/4〜10/19)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html">【20%オフ＆期間限定無料】白泉社 運命的な大恋愛が始まる！TVアニメ「彼方から」 放送記念・名作ファンタジーフェア！ (10/4〜10/19)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GY7YBDJQ?tag=events-22">『彼方から』</a><a href="https://www.amazon.co.jp/dp/B00N77DPEG?tag=events-22">『時間をとめて待っていて』</a><a href="https://www.amazon.co.jp/dp/B076VF8QPZ?tag=events-22">『魔法にかかった新学期』</a><a href="https://www.amazon.co.jp/dp/B07BS8VYZJ?tag=events-22">『偽りのフレイヤ』</a><a href="https://www.amazon.co.jp/dp/B01BOOORAY?tag=events-22">『ぼくは地球と歌う』</a><a href="https://www.amazon.co.jp/dp/B0166EJNAQ?tag=events-22">『愛蔵版 CIPHER』</a><a href="https://www.amazon.co.jp/dp/B00DMUDMIC?tag=events-22">『お伽もよう綾にしき』</a><a href="https://www.amazon.co.jp/dp/B012C0YFGK?tag=events-22">『八雲立つ』</a><a href="https://www.amazon.co.jp/dp/B00WEJEX9E?tag=events-22">『花よりも花の如く』</a><a href="https://www.amazon.co.jp/dp/B00DMUG6VC?tag=events-22">『獣王星 完全版』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html">
-        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 夏メディア化関連作品応援感謝キャンペーン (9/18〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 夏メディア化関連作品応援感謝キャンペーン (9/18〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0B683NKKV?tag=events-22">『スーパーの裏でヤニ吸うふたり』</a><a href="https://www.amazon.co.jp/dp/B09Y8YB5DP?tag=events-22">『黄泉のツガイ』</a><a href="https://www.amazon.co.jp/dp/B0833Y18YT?tag=events-22">『落第賢者の学院無双』</a><a href="https://www.amazon.co.jp/dp/B009T8RYBM?tag=events-22">『鋼の錬金術師』</a><a href="https://www.amazon.co.jp/dp/B0DR8JDVRY?tag=events-22">『片田舎のおっさん、剣聖になる外伝』</a><a href="https://www.amazon.co.jp/dp/B09YV2YRR5?tag=events-22">『ロクレイ』</a><a href="https://www.amazon.co.jp/dp/B07X35G136?tag=events-22">『ここは俺に任せて先に行けと言ってから10年…』</a><a href="https://www.amazon.co.jp/dp/B08772NMSY?tag=events-22">『獣神演武』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-mag-romeria.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】マッグガーデン 『ロメリア戦記』原作小説アニメ放送開始＆新刊配信記念キャンペーン (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-mag-romeria.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-mag-romeria.html">【最大50%オフ＆期間限定無料】マッグガーデン 『ロメリア戦記』原作小説アニメ放送開始＆新刊配信記念キャンペーン (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07K8PS1GF?tag=events-22">『転生貴族の異世界冒険録』</a><a href="https://www.amazon.co.jp/dp/B09HBX4ZDP?tag=events-22">『ロメリア戦記』</a><a href="https://www.amazon.co.jp/dp/B0H68LCXC3?tag=events-22">『竜伐のフィエラ』</a><a href="https://www.amazon.co.jp/dp/B0GHWYCYYY?tag=events-22">『首無の如き祟るもの』</a><a href="https://www.amazon.co.jp/dp/B0GTLNLBNN?tag=events-22">『魔術師の杖』</a><a href="https://www.amazon.co.jp/dp/B0DQP39HB4?tag=events-22">『かませ犬の王冠』</a><a href="https://www.amazon.co.jp/dp/B0GHWZPZLT?tag=events-22">『神詠みの舞人』</a><a href="https://www.amazon.co.jp/dp/B0DNSGJ9M7?tag=events-22">『魔王様のバグトラップ迷宮制作記』</a><a href="https://www.amazon.co.jp/dp/B0GP9KSVCX?tag=events-22">『即オチ魔法少女セイ』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -485,6 +363,24 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html">
+        <title>[Kindleセール終了] 【50%オフ＆期間限定無料】秋田書店 あなたの読みたいがここに！全方位にスキなし！ AKITA最新異世界ファンタジーコミックフェア (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-akita-isefan.html">【50%オフ＆期間限定無料】秋田書店 あなたの読みたいがここに！全方位にスキなし！ AKITA最新異世界ファンタジーコミックフェア (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FC69WZ4S?tag=events-22">『放課後ファンタジー』</a><a href="https://www.amazon.co.jp/dp/B0BTPF7RD1?tag=events-22">『転生無敗の異世界賢者』</a><a href="https://www.amazon.co.jp/dp/B0F1CPQSTL?tag=events-22">『忘れられ師の英雄譚』</a><a href="https://www.amazon.co.jp/dp/B0DMVNJRVD?tag=events-22">『運送屋のおっさんがなぜか副業で絶対無敵剣…』</a><a href="https://www.amazon.co.jp/dp/B0D6YNZTPQ?tag=events-22">『ダンジョンが現れて5年、15歳でダンジョン…』</a><a href="https://www.amazon.co.jp/dp/B0CNPQ6J1Z?tag=events-22">『転生荷運び人の異世界攻略法』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html">
+        <title>[Kindleセール終了] 【最大50%オフ】KADOKAWA MFブックスW看板ヒロイン 新刊発売フェア (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-mfbw.html">【最大50%オフ】KADOKAWA MFブックスW看板ヒロイン 新刊発売フェア (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07JMKWXW1?tag=events-22">『魔導具師ダリヤはうつむかない』</a><a href="https://www.amazon.co.jp/dp/B0B3QM1JCN?tag=events-22">『永年雇用は可能でしょうか』</a><a href="https://www.amazon.co.jp/dp/B0FQ9Y62T8?tag=events-22">『護衛騎士ヨナスはふりむかない』</a><a href="https://www.amazon.co.jp/dp/B09284PLVM?tag=events-22">『服飾師ルチアはあきらめない』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dega.html">
         <title>[Kindleセール終了] 【最大88%オフ】KADOKAWA 「出涸らし皇子」シリーズ累計部数200万部突破 記念フェア (9/25〜10/8)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-dega.html</link>
@@ -492,33 +388,6 @@
         <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07WRYM6KV?tag=events-22">『最強出涸らし皇子の暗躍帝位争い』</a><a href="https://www.amazon.co.jp/dp/B0HFM2NJ3H?tag=events-22">『最強出涸らし皇子の暗躍外典3 最強出涸らし…』</a><a href="https://www.amazon.co.jp/dp/B09GF3LBYZ?tag=events-22">『最強出涸らし皇子の暗躍外典 最強出涸らし…』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html">
-        <title>[Kindleセール開始] 【無料＆最大75%オフ】ヒーローズ 『仮面ライダークウガ』新刊配信記念キャンペーン (10/5〜10/12)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html">【無料＆最大75%オフ】ヒーローズ 『仮面ライダークウガ』新刊配信記念キャンペーン (10/5〜10/12)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B010RXMQCE?tag=events-22">『仮面ライダークウガ』</a><a href="https://www.amazon.co.jp/dp/B0BBTXYZ91?tag=events-22">『機動絶記ガンダムSEQUEL』</a><a href="https://www.amazon.co.jp/dp/B0DRCFP7J4?tag=events-22">『GiNVA』</a><a href="https://www.amazon.co.jp/dp/B0DJCSDQBJ?tag=events-22">『くびしょい勇者』</a><a href="https://www.amazon.co.jp/dp/B0GCCCVKCF?tag=events-22">『ゴトウ先生と古の角』</a><a href="https://www.amazon.co.jp/dp/B0CJV1LYKF?tag=events-22">『どく・どく・もり・もり』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html">
-        <title>[Kindleセール終了] 【期間限定無料】KADOKAWA 【角川コミックス・エース】 2026年9月刊新刊連動キャンペーン (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html">【期間限定無料】KADOKAWA 【角川コミックス・エース】 2026年9月刊新刊連動キャンペーン (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09FX7BKFH?tag=events-22">『異世界食堂 洋食のねこや』</a><a href="https://www.amazon.co.jp/dp/B0GX2YT711?tag=events-22">『義妹生活17』</a><a href="https://www.amazon.co.jp/dp/B0FLNCLC3C?tag=events-22">『隻眼錬金剣士のやり直し奇譚』</a><a href="https://www.amazon.co.jp/dp/B0HJBHDK1F?tag=events-22">『二代目聖女は戦わない』</a><a href="https://www.amazon.co.jp/dp/B0GMF4RBWQ?tag=events-22">『異世界の牧場を相続しました』</a><a href="https://www.amazon.co.jp/dp/B0HJ774F7Q?tag=events-22">『うお、でっっっか…ヒロインアンソロジー』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html">
-        <title>[Kindleセール開始] 【最大92%オフ＆期間限定無料】コアミックス異世界 新刊配信記念フェア (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html">【最大92%オフ＆期間限定無料】コアミックス異世界 新刊配信記念フェア (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GSQSY9C2?tag=events-22">『死に戻りの宝石姫は、二度目の人生を謳歌す…』</a><a href="https://www.amazon.co.jp/dp/B0FRS4VQDJ?tag=events-22">『とあるリーマン、もふもふタヌキと不思議な…』</a><a href="https://www.amazon.co.jp/dp/B0FPQ87HKY?tag=events-22">『最強公爵令嬢の辺境おしかけ婚 フラウリー…』</a><a href="https://www.amazon.co.jp/dp/B0CKZ1F1QP?tag=events-22">『異世界仕立て屋ソフィア 貧乏令嬢、現代知…』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-seiya.html">
@@ -530,6 +399,42 @@
         <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html">
+        <title>[Kindleセール開始] 【無料＆最大75%オフ】ヒーローズ 『仮面ライダークウガ』新刊配信記念キャンペーン (10/5〜10/12)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-heros-kamen.html">【無料＆最大75%オフ】ヒーローズ 『仮面ライダークウガ』新刊配信記念キャンペーン (10/5〜10/12)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B010RXMQCE?tag=events-22">『仮面ライダークウガ』</a><a href="https://www.amazon.co.jp/dp/B0BBTXYZ91?tag=events-22">『機動絶記ガンダムSEQUEL』</a><a href="https://www.amazon.co.jp/dp/B0DRCFP7J4?tag=events-22">『GiNVA』</a><a href="https://www.amazon.co.jp/dp/B0DJCSDQBJ?tag=events-22">『くびしょい勇者』</a><a href="https://www.amazon.co.jp/dp/B0GCCCVKCF?tag=events-22">『ゴトウ先生と古の角』</a><a href="https://www.amazon.co.jp/dp/B0CJV1LYKF?tag=events-22">『どく・どく・もり・もり』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-sds-feel.html">
+        <title>[Kindleセール開始] 【30%オフ＆期間限定無料】祥伝社 FEEL COMICSほか 10月新刊フェア!! (10/8〜10/22)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-sds-feel.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-sds-feel.html">【30%オフ＆期間限定無料】祥伝社 FEEL COMICSほか 10月新刊フェア!! (10/8〜10/22)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FYMT4V3Q?tag=events-22">『婚約者様、王女様を優先するならお好きにど…』</a><a href="https://www.amazon.co.jp/dp/B0FQV5HBZJ?tag=events-22">『美男と金子』</a><a href="https://www.amazon.co.jp/dp/B0BVM4ZCGN?tag=events-22">『再生のウズメ』</a><a href="https://www.amazon.co.jp/dp/B01N7IYT89?tag=events-22">『はぐちさん』</a><a href="https://www.amazon.co.jp/dp/B08XW6CWPL?tag=events-22">『こむぎびよりのコッペパン』</a><a href="https://www.amazon.co.jp/dp/B0CHVWDNC3?tag=events-22">『そろえてちょうだい? みちくさ編』</a><a href="https://www.amazon.co.jp/dp/B0154G91UY?tag=events-22">『そろえてちょうだい?』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html">
+        <title>[Kindleセール終了] 【期間限定無料】KADOKAWA 【角川コミックス・エース】 2026年9月刊新刊連動キャンペーン (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-ace.html">【期間限定無料】KADOKAWA 【角川コミックス・エース】 2026年9月刊新刊連動キャンペーン (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09FX7BKFH?tag=events-22">『異世界食堂 洋食のねこや』</a><a href="https://www.amazon.co.jp/dp/B0GX2YT711?tag=events-22">『義妹生活17』</a><a href="https://www.amazon.co.jp/dp/B0FLNCLC3C?tag=events-22">『隻眼錬金剣士のやり直し奇譚』</a><a href="https://www.amazon.co.jp/dp/B0HJBHDK1F?tag=events-22">『二代目聖女は戦わない』</a><a href="https://www.amazon.co.jp/dp/B0GMF4RBWQ?tag=events-22">『異世界の牧場を相続しました』</a><a href="https://www.amazon.co.jp/dp/B0HJ774F7Q?tag=events-22">『うお、でっっっか…ヒロインアンソロジー』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】KADOKAWA 【FLOS COMIC】 2026年10月刊新刊連動キャンペーン (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-kdkw-flos.html">【50%オフ＆期間限定無料】KADOKAWA 【FLOS COMIC】 2026年10月刊新刊連動キャンペーン (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FDVGDTH7?tag=events-22">『この結婚はどうせうまくいかない』</a><a href="https://www.amazon.co.jp/dp/B0G4SYLD5D?tag=events-22">『田舎者にはよくわかりません ぼんやり辺境…』</a><a href="https://www.amazon.co.jp/dp/B0CW1B75DW?tag=events-22">『できるメイド様』</a><a href="https://www.amazon.co.jp/dp/B08D8SDW41?tag=events-22">『悪役令嬢、セシリア・シルビィは死にたくな…』</a><a href="https://www.amazon.co.jp/dp/B0HK28XLY1?tag=events-22">『魔王城ホテルの悪役令嬢』</a><a href="https://www.amazon.co.jp/dp/B0HK2KJQ6J?tag=events-22">『公爵家の長女でした』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-nine.html">
         <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「ナインピークス NINE PEAKS」 最新21巻発売！ (10/7〜10/20)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-nine.html</link>
@@ -539,22 +444,112 @@
         <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html">
-        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 異世界転生したのでマンガ読みます 特集 (9/18〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-iseman.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 異世界転生したのでマンガ読みます 特集 (9/18〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DVBZG2SK?tag=events-22">『転生先は北の辺境でしたが精霊のおかげでけ…』</a><a href="https://www.amazon.co.jp/dp/B0D2L3TMND?tag=events-22">『老害レベル 異世界転生したら天誅し放題』</a><a href="https://www.amazon.co.jp/dp/B0CQYBM8WK?tag=events-22">『ダンジョン・ファーム』</a><a href="https://www.amazon.co.jp/dp/B0C3LF8TTY?tag=events-22">『英雄と賢者の転生婚』</a><a href="https://www.amazon.co.jp/dp/B0BWY5TPDD?tag=events-22">『回復ローションで魔王を倒すことになった。』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-shakai.html">
+        <title>[Kindleセール開始] 【50%オフ】新潮社 現代（イマ）を覗く、社会派コミックフェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-shakai.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-shincho-shakai.html">【50%オフ】新潮社 現代（イマ）を覗く、社会派コミックフェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DCNML2DJ?tag=events-22">『邦人奪還 自衛隊特殊部隊が動くとき』</a><a href="https://www.amazon.co.jp/dp/B0HHQT1T6Q?tag=events-22">『フレネミー』</a><a href="https://www.amazon.co.jp/dp/B08N4FDFCG?tag=events-22">『ケーキの切れない非行少年たち』</a><a href="https://www.amazon.co.jp/dp/B0HHQMVJ13?tag=events-22">『ひみつ』</a><a href="https://www.amazon.co.jp/dp/B0HD59V2Z3?tag=events-22">『介護とハイエナ』</a><a href="https://www.amazon.co.jp/dp/B0GR4FPPD4?tag=events-22">『モンスターマザー』</a><a href="https://www.amazon.co.jp/dp/B0D95CQQSS?tag=events-22">『教育虐待』</a><a href="https://www.amazon.co.jp/dp/B0DSCS73QG?tag=events-22">『#違法ガール 履歴書に書けない私の裏バイト』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html">
-        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ！スクエニ夏祭り!!2026】 9月新刊発売特集 第3弾 (9/18〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-sk.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ！スクエニ夏祭り!!2026】 9月新刊発売特集 第3弾 (9/18〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B08PNPF3YV?tag=events-22">『黒執事』</a><a href="https://www.amazon.co.jp/dp/B00OAX6T7G?tag=events-22">『賭ケグルイ』</a><a href="https://www.amazon.co.jp/dp/B09P1KDY1G?tag=events-22">『推しが兄になりました』</a><a href="https://www.amazon.co.jp/dp/B0DYL792WW?tag=events-22">『童顔な上司は好きですか?』</a><a href="https://www.amazon.co.jp/dp/B0DYKNBQ4J?tag=events-22">『お飾りの皇妃?なにそれ天職です!』</a><a href="https://www.amazon.co.jp/dp/B07TRLFM88?tag=events-22">『氷属性男子とクールな同僚女子』</a><a href="https://www.amazon.co.jp/dp/B0GX2WG8JJ?tag=events-22">『スノードロップ〜あなたの死を望みます』</a><a href="https://www.amazon.co.jp/dp/B0FK4RM5SW?tag=events-22">『ルルの亡霊屋敷』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】朝日新聞出版 『末裔のほのか』新刊配信記念！ 朝日新聞出版×秋田書店 ホラーフェア (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-asahi-horror.html">【50%オフ＆期間限定無料】朝日新聞出版 『末裔のほのか』新刊配信記念！ 朝日新聞出版×秋田書店 ホラーフェア (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HLP7N3NV?tag=events-22">『末裔のほのか』</a><a href="https://www.amazon.co.jp/dp/B0HLP9PQQK?tag=events-22">『花菱夫妻の退魔帖』</a><a href="https://www.amazon.co.jp/dp/B08D3HPKNH?tag=events-22">『ある設計士の忌録』</a><a href="https://www.amazon.co.jp/dp/B009CN01PA?tag=events-22">『魔百合の恐怖報告』</a><a href="https://www.amazon.co.jp/dp/B00DU90MO2?tag=events-22">『悪霊退散大作戦』</a><a href="https://www.amazon.co.jp/dp/B08ZCJVLJ7?tag=events-22">『幻怪地帯』</a><a href="https://www.amazon.co.jp/dp/B01CJBIGZS?tag=events-22">『伊集院月丸の残念な霊能稼業』</a><a href="https://www.amazon.co.jp/dp/B00HFKHTQQ?tag=events-22">『栞と紙魚子』</a><a href="https://www.amazon.co.jp/dp/B009CN02NG?tag=events-22">『伊藤潤二傑作集』</a><a href="https://www.amazon.co.jp/dp/B00D44LLYI?tag=events-22">『不安の種』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html">
+        <title>[Kindleセール開始] 【最大50%オフ】スターツ出版 ベリーズファンタジー10月新刊配信記念！人気ファンタジーフェア (10/5〜10/11)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-starts-berrysfan.html">【最大50%オフ】スターツ出版 ベリーズファンタジー10月新刊配信記念！人気ファンタジーフェア (10/5〜10/11)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HL7R95HN?tag=events-22">『人質同然で送られたお飾り妃は、平凡なフリ…』</a><a href="https://www.amazon.co.jp/dp/B0HL7TB2VC?tag=events-22">『お久しぶりです。「死んでこい」と言われた…』</a><a href="https://www.amazon.co.jp/dp/B0HL7VDRP1?tag=events-22">『転生公女は任期満了に伴い家族の元に帰らせ…』</a><a href="https://www.amazon.co.jp/dp/B0HL7VJKZH?tag=events-22">『「出来損ない」と言われた無自覚才女は、自…』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 10月新刊発売特集 第1弾 (10/7〜10/27)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-squeni-sk.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 10月新刊発売特集 第1弾 (10/7〜10/27)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GC5Q2HJY?tag=events-22">『おっさん冒険者の遅れた英雄譚』</a><a href="https://www.amazon.co.jp/dp/B0BKSPQCP4?tag=events-22">『世界最強の魔女、始めました』</a><a href="https://www.amazon.co.jp/dp/B0FK4S3BV7?tag=events-22">『あなたのお城の小人さん』</a><a href="https://www.amazon.co.jp/dp/B0DL5FC6R1?tag=events-22">『社畜剣聖、配信者になる』</a><a href="https://www.amazon.co.jp/dp/B0G48B65LF?tag=events-22">『貴族転生』</a><a href="https://www.amazon.co.jp/dp/B0CW18Z89G?tag=events-22">『滅亡国家のやり直し 今日から始める軍師生…』</a><a href="https://www.amazon.co.jp/dp/B0BQYS6X4W?tag=events-22">『転生勇者の気まま旅』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「タイカの理性」最新8巻＆「ちょっと聞いてよ！宮澤さん」最新1巻発売！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-taika.html">【50%オフ＆期間限定無料】秋田書店 「タイカの理性」最新8巻＆「ちょっと聞いてよ！宮澤さん」最新1巻発売！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F1CRS8KJ?tag=events-22">『タイカの理性』</a><a href="https://www.amazon.co.jp/dp/B01N6EJJTC?tag=events-22">『BEASTARS』</a><a href="https://www.amazon.co.jp/dp/B0DMVNN6CF?tag=events-22">『来々亭のラッコさん』</a><a href="https://www.amazon.co.jp/dp/B09MQFZ25N?tag=events-22">『SANDA』</a><a href="https://www.amazon.co.jp/dp/B093BRMMNJ?tag=events-22">『貼りまわれ!こいぬ』</a><a href="https://www.amazon.co.jp/dp/B07LGMGK2N?tag=events-22">『いたちちち』</a><a href="https://www.amazon.co.jp/dp/B0799HZQ2Q?tag=events-22">『BEAST COMPLEX』</a><a href="https://www.amazon.co.jp/dp/B0F1CQH8X8?tag=events-22">『ウシミツガオ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html">
+        <title>[Kindleセール開始] 【20%オフ＆期間限定無料】白泉社 運命的な大恋愛が始まる！TVアニメ「彼方から」 放送記念・名作ファンタジーフェア！ (10/4〜10/19)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-hks-kana.html">【20%オフ＆期間限定無料】白泉社 運命的な大恋愛が始まる！TVアニメ「彼方から」 放送記念・名作ファンタジーフェア！ (10/4〜10/19)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GY7YBDJQ?tag=events-22">『彼方から』</a><a href="https://www.amazon.co.jp/dp/B00N77DPEG?tag=events-22">『時間をとめて待っていて』</a><a href="https://www.amazon.co.jp/dp/B076VF8QPZ?tag=events-22">『魔法にかかった新学期』</a><a href="https://www.amazon.co.jp/dp/B07BS8VYZJ?tag=events-22">『偽りのフレイヤ』</a><a href="https://www.amazon.co.jp/dp/B01BOOORAY?tag=events-22">『ぼくは地球と歌う』</a><a href="https://www.amazon.co.jp/dp/B0166EJNAQ?tag=events-22">『愛蔵版 CIPHER』</a><a href="https://www.amazon.co.jp/dp/B00DMUDMIC?tag=events-22">『お伽もよう綾にしき』</a><a href="https://www.amazon.co.jp/dp/B012C0YFGK?tag=events-22">『八雲立つ』</a><a href="https://www.amazon.co.jp/dp/B00WEJEX9E?tag=events-22">『花よりも花の如く』</a><a href="https://www.amazon.co.jp/dp/B00DMUG6VC?tag=events-22">『獣王星 完全版』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】秋田書店 秋の「刃牙」シリーズ大フェア！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-baki.html">【最大50%オフ＆期間限定無料】秋田書店 秋の「刃牙」シリーズ大フェア！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0H872GKN2?tag=events-22">『バキのわ!』</a><a href="https://www.amazon.co.jp/dp/B00AQY7IFK?tag=events-22">『グラップラー刃牙』</a><a href="https://www.amazon.co.jp/dp/B075N7NZPG?tag=events-22">『餓狼伝』</a><a href="https://www.amazon.co.jp/dp/B00ZR2C9JQ?tag=events-22">『メイキャッパー』</a><a href="https://www.amazon.co.jp/dp/B00JR0Q0YO?tag=events-22">『刃牙道』</a><a href="https://www.amazon.co.jp/dp/B00KBECO4K?tag=events-22">『バキどもえ』</a><a href="https://www.amazon.co.jp/dp/B00I3BN8MA?tag=events-22">『バキ外伝』</a><a href="https://www.amazon.co.jp/dp/B093BSCH39?tag=events-22">『バキ外伝 烈海王は異世界転生しても一向に…』</a><a href="https://www.amazon.co.jp/dp/B09H2DHNW1?tag=events-22">『新装版 範馬刃牙』</a><a href="https://www.amazon.co.jp/dp/B0CVRLTQ6V?tag=events-22">『刃牙らへん』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html">
+        <title>[Kindleセール終了] 【無料＆50%オフ】スターツ出版 Berry's Fantasy人気作品完結＆新作続々配信記念キャンペーン (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-starts-berrysfan.html">【無料＆50%オフ】スターツ出版 Berry's Fantasy人気作品完結＆新作続々配信記念キャンペーン (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F93KJ6D6?tag=events-22">『双子王子の継母になりまして』</a><a href="https://www.amazon.co.jp/dp/B0GTQ2QJCZ?tag=events-22">『天才魔導具師ルシアはスローライフを送りた…』</a><a href="https://www.amazon.co.jp/dp/B0DHV1DHN7?tag=events-22">『離縁予定の捨てられ令嬢ですが、なぜか次期…』</a><a href="https://www.amazon.co.jp/dp/B0BBMB8JMX?tag=events-22">『聖女になんてなりませんっ!』</a><a href="https://www.amazon.co.jp/dp/B0B4MRLK8B?tag=events-22">『メイドに転生したら、うっかり竜王様の胃袋…』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「モーレツ！浦安鉄筋家族」 最新3巻発売！！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-ura.html">【50%オフ＆期間限定無料】秋田書店 「モーレツ！浦安鉄筋家族」 最新3巻発売！！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GMH1MZBG?tag=events-22">『モーレツ!浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B0166B6U1Y?tag=events-22">『少女聖典』</a><a href="https://www.amazon.co.jp/dp/B072JTKB45?tag=events-22">『英雄!シーザーさん』</a><a href="https://www.amazon.co.jp/dp/B018WYQWRU?tag=events-22">『吸血鬼すぐ死ぬ』</a><a href="https://www.amazon.co.jp/dp/B00QPSXEGS?tag=events-22">『ベルリンは鐘』</a><a href="https://www.amazon.co.jp/dp/B00KQJHWWO?tag=events-22">『セトウツミ』</a><a href="https://www.amazon.co.jp/dp/B00J02Y1S6?tag=events-22">『いきいきごんぼZ』</a><a href="https://www.amazon.co.jp/dp/B00FR1KVI8?tag=events-22">『毎度!浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B00BLEZCQ6?tag=events-22">『元祖! 浦安鉄筋家族』</a><a href="https://www.amazon.co.jp/dp/B00D44I3SA?tag=events-22">『浦安鉄筋家族』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html">
+        <title>[Kindleセール開始] 【最大50%オフ】文藝春秋 「侠飯シリーズ」フェア2026 (10/6〜10/19)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-bunshun-meshi.html">【最大50%オフ】文藝春秋 「侠飯シリーズ」フェア2026 (10/6〜10/19)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FSDL8CPM?tag=events-22">『侠飯11』</a><a href="https://www.amazon.co.jp/dp/B0HLCWSC4M?tag=events-22">『侠飯12 極旨スキマバイト篇』</a><a href="https://www.amazon.co.jp/dp/B0DJCQY8SL?tag=events-22">『合本 侠飯1』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html">
+        <title>[Kindleセール開始] 【最大90%オフ】KADOKAWA 電撃文庫 祝！アニメ化決定！ 次世代作品フェア (10/4〜10/17)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-kdkw-anime.html">【最大90%オフ】KADOKAWA 電撃文庫 祝！アニメ化決定！ 次世代作品フェア (10/4〜10/17)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DKX5THYW?tag=events-22">『よって、初恋は証明された。』</a><a href="https://www.amazon.co.jp/dp/B0G6936KKL?tag=events-22">『とっておきの論理を、君と。』</a><a href="https://www.amazon.co.jp/dp/B0G3YR2F8S?tag=events-22">『こちら、終末停滞委員会。5』</a><a href="https://www.amazon.co.jp/dp/B0FJX4848Q?tag=events-22">『組織の宿敵と結婚したらめちゃ甘い4』</a><a href="https://www.amazon.co.jp/dp/B0FFKSNQ1C?tag=events-22">『この青春に、別解はない。』</a><a href="https://www.amazon.co.jp/dp/B014QIIFY4?tag=events-22">『WORLD END ECONOMiCA III』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html">
+        <title>[Kindleセール開始] 【50%オフ＆期間限定無料】秋田書店 「魔入りました！入間くん」 最新51巻発売！ (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-akita-iruma.html">【50%オフ＆期間限定無料】秋田書店 「魔入りました！入間くん」 最新51巻発売！ (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B071JDQ44K?tag=events-22">『魔入りました!入間くん』</a><a href="https://www.amazon.co.jp/dp/B0CM37D1PN?tag=events-22">『魔入りました!入間くん if Episode of 魔フ…』</a><a href="https://www.amazon.co.jp/dp/B0CVRNR4CC?tag=events-22">『魔入りました!入間くん外伝』</a><a href="https://www.amazon.co.jp/dp/B0H86WCGS4?tag=events-22">『魔入りました!入間くん 僕同盟のゲーム道』</a><a href="https://www.amazon.co.jp/dp/B0GMGNX758?tag=events-22">『トントンの相談飯の夜明けぜよ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-hks-ya110.html">
@@ -566,11 +561,110 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】小学館 『ホテル・インヒューマンズ』 アニメ2期放送記念フェア！ (10/4〜11/2)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-hote.html">【最大50%オフ＆期間限定無料】小学館 『ホテル・インヒューマンズ』 アニメ2期放送記念フェア！ (10/4〜11/2)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DHCDZ79C?tag=events-22">『ラウルと吸血鬼』</a><a href="https://www.amazon.co.jp/dp/B0CJJDW4V3?tag=events-22">『リリア・プレグナント・ザ・ワールド・エン…』</a><a href="https://www.amazon.co.jp/dp/B09H2ML3YL?tag=events-22">『ホテル・インヒューマンズ』</a><a href="https://www.amazon.co.jp/dp/B0BR5GSRJ2?tag=events-22">『ガレキ!』</a><a href="https://www.amazon.co.jp/dp/B09YHDKPCP?tag=events-22">『弱体化勇者のリスタート』</a><a href="https://www.amazon.co.jp/dp/B09H2LDB3D?tag=events-22">『廃妃は再び玉座に昇る』</a><a href="https://www.amazon.co.jp/dp/B093L3YFPR?tag=events-22">『誰そ彼に海が泣く』</a><a href="https://www.amazon.co.jp/dp/B07VVKZJFB?tag=events-22">『ヴァンピアーズ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html">
+        <title>[Kindleセール終了] 【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 夏メディア化関連作品応援感謝キャンペーン (9/18〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260918-squeni-natsu.html">【最大50%オフ＆期間限定無料】スクウェア・エニックス 【ガンガン読もうぜ!スクエニ夏祭り!!2026】 夏メディア化関連作品応援感謝キャンペーン (9/18〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0B683NKKV?tag=events-22">『スーパーの裏でヤニ吸うふたり』</a><a href="https://www.amazon.co.jp/dp/B09Y8YB5DP?tag=events-22">『黄泉のツガイ』</a><a href="https://www.amazon.co.jp/dp/B0833Y18YT?tag=events-22">『落第賢者の学院無双』</a><a href="https://www.amazon.co.jp/dp/B009T8RYBM?tag=events-22">『鋼の錬金術師』</a><a href="https://www.amazon.co.jp/dp/B0DR8JDVRY?tag=events-22">『片田舎のおっさん、剣聖になる外伝』</a><a href="https://www.amazon.co.jp/dp/B09YV2YRR5?tag=events-22">『ロクレイ』</a><a href="https://www.amazon.co.jp/dp/B07X35G136?tag=events-22">『ここは俺に任せて先に行けと言ってから10年…』</a><a href="https://www.amazon.co.jp/dp/B08772NMSY?tag=events-22">『獣神演武』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html">
+        <title>[Kindleセール開始] 【最大92%オフ＆期間限定無料】GANMA! 『時森さんが無防備です』新刊発売記念キャンペーン (10/4〜10/17)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-ganma-toki.html">【最大92%オフ＆期間限定無料】GANMA! 『時森さんが無防備です』新刊発売記念キャンペーン (10/4〜10/17)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CWCBWNVR?tag=events-22">『家に帰るといつもくっころが居る』</a><a href="https://www.amazon.co.jp/dp/B0CQ4FHR3F?tag=events-22">『最強勇者パーティーは愛が知りたい』</a><a href="https://www.amazon.co.jp/dp/B0D96NSH4K?tag=events-22">『きゃたぴランド』</a><a href="https://www.amazon.co.jp/dp/B0C3C76GJ5?tag=events-22">『時森さんが無防備です!!』</a><a href="https://www.amazon.co.jp/dp/B07ZSHLS97?tag=events-22">『魔王の人事』</a><a href="https://www.amazon.co.jp/dp/B0CGL74M91?tag=events-22">『ご隠居魔王さまの返り咲き』</a><a href="https://www.amazon.co.jp/dp/B0CY195SS1?tag=events-22">『多数欠』</a><a href="https://www.amazon.co.jp/dp/B0HKW4SSMD?tag=events-22">『ボクはまだ夫ですか?』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html">
+        <title>[Kindleセール開始] 【最大83%オフ＆期間限定無料】白泉社 大ヒットシリーズ！西形まい「GAME ～スーツの隙間～」最新話配信！スペシャルフェア (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-game.html">【最大83%オフ＆期間限定無料】白泉社 大ヒットシリーズ！西形まい「GAME ～スーツの隙間～」最新話配信！スペシャルフェア (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B015W10BHI?tag=events-22">『GAME』</a><a href="https://www.amazon.co.jp/dp/B014PDIEQY?tag=events-22">『花の騎士』</a><a href="https://www.amazon.co.jp/dp/B014PDIE5U?tag=events-22">『ヴィーナス綺想曲』</a><a href="https://www.amazon.co.jp/dp/B014PDIFTA?tag=events-22">『リップ スモーク』</a><a href="https://www.amazon.co.jp/dp/B014PDIFA4?tag=events-22">『サイボーイ』</a><a href="https://www.amazon.co.jp/dp/B014PDIF4A?tag=events-22">『ダンシグラシ』</a><a href="https://www.amazon.co.jp/dp/B014PDIEKU?tag=events-22">『スイートブラック』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html">
+        <title>[Kindleセール開始] 【最大90%オフ＆期間限定無料】芳文社 『孔明のヨメ。』など まんがタイムコミックス新刊配信記念キャンペーン (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-hobun-mangatime.html">【最大90%オフ＆期間限定無料】芳文社 『孔明のヨメ。』など まんがタイムコミックス新刊配信記念キャンペーン (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B01GVB6LS6?tag=events-22">『だって愛してる』</a><a href="https://www.amazon.co.jp/dp/B0C58TD35Y?tag=events-22">『まほろば小町ハルヒノさん』</a><a href="https://www.amazon.co.jp/dp/B0851D4JYS?tag=events-22">『和服な上司がいとおしい』</a><a href="https://www.amazon.co.jp/dp/B0158EKQ6U?tag=events-22">『孔明のヨメ。』</a><a href="https://www.amazon.co.jp/dp/B00V2W3S7W?tag=events-22">『軍神ちゃんとよばないで』</a><a href="https://www.amazon.co.jp/dp/B0F8BC8PB6?tag=events-22">『ムクカノ』</a><a href="https://www.amazon.co.jp/dp/B0H1FYY77S?tag=events-22">『星月夜工業高校ルナ同好会』</a><a href="https://www.amazon.co.jp/dp/B0GS15DPG1?tag=events-22">『どうにも不器用な夫婦でして。』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html">
+        <title>[Kindleセール開始] 【86%オフ＆期間限定無料】講談社 『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。』アニメ放送記念！人気異世界大集合フェア (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-anime.html">【86%オフ＆期間限定無料】講談社 『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。』アニメ放送記念！人気異世界大集合フェア (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09YTY7XHL?tag=events-22">『高度に発達した医学は魔法と区別がつかない』</a><a href="https://www.amazon.co.jp/dp/B0CGQWGD6R?tag=events-22">『世界最強の魔女、始めました』</a><a href="https://www.amazon.co.jp/dp/B09L7ZG2CC?tag=events-22">『転生貴族の万能開拓』</a><a href="https://www.amazon.co.jp/dp/B07YFWRRZY?tag=events-22">『実は俺、最強でした?』</a><a href="https://www.amazon.co.jp/dp/B0CP7M669X?tag=events-22">『魔術ギルド総帥』</a><a href="https://www.amazon.co.jp/dp/B0CLY2D4X1?tag=events-22">『最強で最速の無限レベルアップ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html">
+        <title>[Kindleセール開始] 【無料＆50%オフなど】一二三書房 ラワーレコミックス10月新刊配信キャンペーン (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-123-ravale.html">【無料＆50%オフなど】一二三書房 ラワーレコミックス10月新刊配信キャンペーン (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HJVWRLX7?tag=events-22">『煌めけ☆アイドルアカデミー1』</a><a href="https://www.amazon.co.jp/dp/B0G4611M1R?tag=events-22">『二度目の人生では、お飾り王妃になりません…』</a><a href="https://www.amazon.co.jp/dp/B0FYNFMB6X?tag=events-22">『クーデレ魔法師ととろあま「つがい」契約1』</a><a href="https://www.amazon.co.jp/dp/B0FC6Z6FQD?tag=events-22">『王宮侍女アンナの日常1』</a><a href="https://www.amazon.co.jp/dp/B0FT5PC5DK?tag=events-22">『裏庭のドア、異世界に繋がる』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html">
+        <title>[Kindleセール開始] 【最大92%オフ＆期間限定無料】コアミックス異世界 新刊配信記念フェア (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-coamix-ise-sk.html">【最大92%オフ＆期間限定無料】コアミックス異世界 新刊配信記念フェア (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GSQSY9C2?tag=events-22">『死に戻りの宝石姫は、二度目の人生を謳歌す…』</a><a href="https://www.amazon.co.jp/dp/B0FRS4VQDJ?tag=events-22">『とあるリーマン、もふもふタヌキと不思議な…』</a><a href="https://www.amazon.co.jp/dp/B0FPQ87HKY?tag=events-22">『最強公爵令嬢の辺境おしかけ婚 フラウリー…』</a><a href="https://www.amazon.co.jp/dp/B0CKZ1F1QP?tag=events-22">『異世界仕立て屋ソフィア 貧乏令嬢、現代知…』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html">
+        <title>[Kindleセール終了] 【50%オフ】KADOKAWA 『てんびん』アニメの続きは小説＆コミックで！ 雲雀湯フェア (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kdkw-tenbin.html">【50%オフ】KADOKAWA 『てんびん』アニメの続きは小説＆コミックで！ 雲雀湯フェア (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B08W9DKPT9?tag=events-22">『転校先の清楚可憐な美少女が、昔男子と思っ…』</a><a href="https://www.amazon.co.jp/dp/B0FM2DC2ZY?tag=events-22">『孤高なカノジョと、彼女の部屋でシてること』</a><a href="https://www.amazon.co.jp/dp/B0CNJC3XC1?tag=events-22">『血の繋がらない私たちが家族になるたった一…』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html">
+        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】白泉社 「学園ベビーシッターズ」「かげきしょうじょ!!」 最新刊♪ LaLa＆メロディ新刊フェア (10/5〜10/19)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html">【最大50%オフ＆期間限定無料】白泉社 「学園ベビーシッターズ」「かげきしょうじょ!!」 最新刊♪ LaLa＆メロディ新刊フェア (10/5〜10/19)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B01CTV6JNY?tag=events-22">『かげきしょうじょ!!』</a><a href="https://www.amazon.co.jp/dp/B00DMUDXRW?tag=events-22">『学園ベビーシッターズ』</a><a href="https://www.amazon.co.jp/dp/B0FPVZKL8V?tag=events-22">『猫にワガママ』</a><a href="https://www.amazon.co.jp/dp/B0HH94RX7Y?tag=events-22">『落雷とメロウ』</a><a href="https://www.amazon.co.jp/dp/B0858YXQ63?tag=events-22">『髪を切りに来ました。』</a><a href="https://www.amazon.co.jp/dp/B0GQ32YZR1?tag=events-22">『邪命邪魅』</a><a href="https://www.amazon.co.jp/dp/B0GQ32VD2Q?tag=events-22">『Q研』</a><a href="https://www.amazon.co.jp/dp/B0DMV93QWQ?tag=events-22">『私のブルーガーネット』</a><a href="https://www.amazon.co.jp/dp/B0D3BVZ4NJ?tag=events-22">『ルーム・ツアーズ』</a><a href="https://www.amazon.co.jp/dp/B0D5H4V4ST?tag=events-22">『星影作品集「大嫌いなキミに」』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261002-kdkw-bl.html">
         <title>[Kindleセール終了] 【最大70%オフ】KADOKAWA ゆるキュンBLフェア 【第2弾】笑って読めるゆるキュンBL (10/2〜10/8)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20261002-kdkw-bl.html</link>
         <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261002-kdkw-bl.html">【最大70%オフ】KADOKAWA ゆるキュンBLフェア 【第2弾】笑って読めるゆるキュンBL (10/2〜10/8)</a>]]></description>
         <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09XTC742X?tag=events-22">『俺が主役なわけがない』</a><a href="https://www.amazon.co.jp/dp/B0G5XZCHDN?tag=events-22">『かわいい執事の作り方』</a><a href="https://www.amazon.co.jp/dp/B0H33BCLLR?tag=events-22">『なんか憑いてるオーカミくんっ!』</a><a href="https://www.amazon.co.jp/dp/B0GZJQ98NZ?tag=events-22">『君のまにまに、鈴木くん。』</a><a href="https://www.amazon.co.jp/dp/B0GWZ55RN5?tag=events-22">『受田と攻原』</a><a href="https://www.amazon.co.jp/dp/B0GSCYZCDZ?tag=events-22">『ポメくんは母国語で愛を囁く』</a><a href="https://www.amazon.co.jp/dp/B0GSD89C8M?tag=events-22">『十日間だけ無理してよ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-fp-be.html">
+        <title>[Kindleセール開始] 【最大60%オフ】ふゅーじょんぷろだくと Be『コミックBe vol.149』 アンソロジー新刊配信フェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-fp-be.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-fp-be.html">【最大60%オフ】ふゅーじょんぷろだくと Be『コミックBe vol.149』 アンソロジー新刊配信フェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HM37BF5Q?tag=events-22">『コミックBe vol.149』</a><a href="https://www.amazon.co.jp/dp/B0834KR1CN?tag=events-22">『訳アリ先輩の彼女になりました』</a><a href="https://www.amazon.co.jp/dp/B0CW1B5MSR?tag=events-22">『私の推しは地下にいる。』</a><a href="https://www.amazon.co.jp/dp/B0CW1FTFVC?tag=events-22">『リヒト君はヒト』</a><a href="https://www.amazon.co.jp/dp/B0C36JJ8K8?tag=events-22">『新世紀アイドル☆魅皇』</a><a href="https://www.amazon.co.jp/dp/B09YCC6QQZ?tag=events-22">『令和江戸百景ー浮世絵の場所全部行くし老舗…』</a><a href="https://www.amazon.co.jp/dp/B08R62TSH1?tag=events-22">『たいちゃんとこうたろう』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
@@ -584,15 +678,6 @@
         <dc:date>2026-10-06T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html">
-        <title>[Kindleセール開始] 【最大50%オフ＆期間限定無料】白泉社 「学園ベビーシッターズ」「かげきしょうじょ!!」 最新刊♪ LaLa＆メロディ新刊フェア (10/5〜10/19)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-lalamelo.html">【最大50%オフ＆期間限定無料】白泉社 「学園ベビーシッターズ」「かげきしょうじょ!!」 最新刊♪ LaLa＆メロディ新刊フェア (10/5〜10/19)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B01CTV6JNY?tag=events-22">『かげきしょうじょ!!』</a><a href="https://www.amazon.co.jp/dp/B00DMUDXRW?tag=events-22">『学園ベビーシッターズ』</a><a href="https://www.amazon.co.jp/dp/B0FPVZKL8V?tag=events-22">『猫にワガママ』</a><a href="https://www.amazon.co.jp/dp/B0HH94RX7Y?tag=events-22">『落雷とメロウ』</a><a href="https://www.amazon.co.jp/dp/B0858YXQ63?tag=events-22">『髪を切りに来ました。』</a><a href="https://www.amazon.co.jp/dp/B0GQ32YZR1?tag=events-22">『邪命邪魅』</a><a href="https://www.amazon.co.jp/dp/B0GQ32VD2Q?tag=events-22">『Q研』</a><a href="https://www.amazon.co.jp/dp/B0DMV93QWQ?tag=events-22">『私のブルーガーネット』</a><a href="https://www.amazon.co.jp/dp/B0D3BVZ4NJ?tag=events-22">『ルーム・ツアーズ』</a><a href="https://www.amazon.co.jp/dp/B0D5H4V4ST?tag=events-22">『星影作品集「大嫌いなキミに」』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-hks-lovejossie.html">
         <title>[Kindleセール開始] 【最大90%オフ＆期間限定無料】白泉社 Love Jossie 188号 配信記念フェア (10/7〜10/20)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20261007-hks-lovejossie.html</link>
@@ -600,15 +685,6 @@
         
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html">
-        <title>[Kindleセール開始] 【期間限定無料】小学館 『攫われた酒豪令嬢、蛮族を飲みつぶして成り上がる』＆『双子公爵の執心』新刊配信フェア！ (10/4〜10/17)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html">【期間限定無料】小学館 『攫われた酒豪令嬢、蛮族を飲みつぶして成り上がる』＆『双子公爵の執心』新刊配信フェア！ (10/4〜10/17)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HK3YXBDD?tag=events-22">『断末魔のコウザイ』</a><a href="https://www.amazon.co.jp/dp/B0H3NWC47J?tag=events-22">『攫われた酒豪令嬢、蛮族を飲みつぶして成り…』</a><a href="https://www.amazon.co.jp/dp/B0HK7XYJ8P?tag=events-22">『ザコオス♂』</a><a href="https://www.amazon.co.jp/dp/B0HDNY8JZG?tag=events-22">『双子公爵の執心』</a><a href="https://www.amazon.co.jp/dp/B0HK83DTJ7?tag=events-22">『1000円ヒーロー』</a><a href="https://www.amazon.co.jp/dp/B0HK88C896?tag=events-22">『大賢者リドルの時間逆行』</a><a href="https://www.amazon.co.jp/dp/B0HJQ7Y4RD?tag=events-22">『魔女の結婚』</a><a href="https://www.amazon.co.jp/dp/B0HJQ7HJ6N?tag=events-22">『かがみさまのお屋敷』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-tv.html">
@@ -620,85 +696,13 @@
         <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html">
-        <title>[Kindleセール開始] 【期間限定無料】小学館 『白衣の天使・和泉くんは女医を落とすまで諦めない』新刊配信フェア！ (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html">【期間限定無料】小学館 『白衣の天使・和泉くんは女医を落とすまで諦めない』新刊配信フェア！ (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0H2H3NL3S?tag=events-22">『陰キャな鶴屋くんの激重感情』</a><a href="https://www.amazon.co.jp/dp/B0GX2QBKSG?tag=events-22">『白衣の天使・和泉くんは女医を落とすまで諦…』</a><a href="https://www.amazon.co.jp/dp/B0DXF795H9?tag=events-22">『社長、お慕い申し上げます。』</a><a href="https://www.amazon.co.jp/dp/B0D2HRBQGV?tag=events-22">『世にも劣悪なエリート婚』</a><a href="https://www.amazon.co.jp/dp/B0C941DB3Z?tag=events-22">『女の引っ越しの9割は恋のせいである』</a><a href="https://www.amazon.co.jp/dp/B0B24JJQWQ?tag=events-22">『注文の多い玉の輿婚』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html">
-        <title>[Kindleセール終了] 【期間限定無料】講談社 エロに“あき”は来ない！ 良作たくさん実りました。オトナ向け特集 (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html">【期間限定無料】講談社 エロに“あき”は来ない！ 良作たくさん実りました。オトナ向け特集 (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CGQXTDKY?tag=events-22">『だれでも抱けるキミが好き』</a><a href="https://www.amazon.co.jp/dp/B0747J1WYZ?tag=events-22">『パラレルパラダイス』</a><a href="https://www.amazon.co.jp/dp/B0BD48CBLC?tag=events-22">『生徒会にも穴はある!』</a><a href="https://www.amazon.co.jp/dp/B08R9TFZLC?tag=events-22">『ハピエル』</a><a href="https://www.amazon.co.jp/dp/B0811TWVQC?tag=events-22">『タマロワ』</a><a href="https://www.amazon.co.jp/dp/B07FSM2K3F?tag=events-22">『未熟なふたりでございますが』</a><a href="https://www.amazon.co.jp/dp/B0GCKMLK8B?tag=events-22">『じゅーくぼっくす』</a><a href="https://www.amazon.co.jp/dp/B0FB337J71?tag=events-22">『ハードワーカー中田』</a><a href="https://www.amazon.co.jp/dp/B0DLZKWPTM?tag=events-22">『傷口と包帯』</a><a href="https://www.amazon.co.jp/dp/B0DHV2H2VH?tag=events-22">『愛妻の裏アカ』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-dan.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『旦那様はすべてを与える』 新刊記念！衝撃らぶフェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-dan.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-dan.html">【期間限定無料】小学館 『旦那様はすべてを与える』 新刊記念！衝撃らぶフェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CNXPL4QP?tag=events-22">『旦那様はすべてを与える』</a><a href="https://www.amazon.co.jp/dp/B0B5D5495R?tag=events-22">『もう、止まらないからここで…』</a><a href="https://www.amazon.co.jp/dp/B0F2HF4SB2?tag=events-22">『ごはん食べたら寝ましょうか』</a><a href="https://www.amazon.co.jp/dp/B0F2HFM5VM?tag=events-22">『犬とふたり』</a><a href="https://www.amazon.co.jp/dp/B0DYDJPCVH?tag=events-22">『匠サマは暴きたい』</a><a href="https://www.amazon.co.jp/dp/B0CWXT46QY?tag=events-22">『帝国軍人の初恋』</a><a href="https://www.amazon.co.jp/dp/B077YDJ7RT?tag=events-22">『男子、飼います!!』</a><a href="https://www.amazon.co.jp/dp/B0CQSLZLSF?tag=events-22">『感じたいのはキミにだけ』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html">
-        <title>[Kindleセール終了] 【期間限定無料】小学館 『名もなき魔物と二人の騎士』＆『愛でて春』など 話題作勢揃い！ＦＣ新刊配信フェア！ (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html">【期間限定無料】小学館 『名もなき魔物と二人の騎士』＆『愛でて春』など 話題作勢揃い！ＦＣ新刊配信フェア！ (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HGM67G6X?tag=events-22">『ミルモでポン!にゅ』</a><a href="https://www.amazon.co.jp/dp/B0HCZ93XR6?tag=events-22">『死神は、また恋をする。』</a><a href="https://www.amazon.co.jp/dp/B0H9R42J9R?tag=events-22">『過ぎたる愛は猛毒』</a><a href="https://www.amazon.co.jp/dp/B0FL7DN2X9?tag=events-22">『王子と騎士は男装聖女が死ぬほど愛おしい』</a><a href="https://www.amazon.co.jp/dp/B0GF7SSZK4?tag=events-22">『名もなき魔物と二人の騎士』</a><a href="https://www.amazon.co.jp/dp/B0FK9QQF47?tag=events-22">『好きっていえなくて死ぬ!』</a><a href="https://www.amazon.co.jp/dp/B0DNMBGKCV?tag=events-22">『もう好きでしょ、オレのこと』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html">
-        <title>[Kindleセール開始] 【期間限定無料】集英社 『こちら葛飾区亀有公園前派出所』最新203巻 配信開始！秋本治作品特集！ (10/3〜10/16)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html">【期間限定無料】集英社 『こちら葛飾区亀有公園前派出所』最新203巻 配信開始！秋本治作品特集！ (10/3〜10/16)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00A47VPIU?tag=events-22">『こちら葛飾区亀有公園前派出所』</a><a href="https://www.amazon.co.jp/dp/B0DJB5DK6P?tag=events-22">『TimeTuberゆかり』</a><a href="https://www.amazon.co.jp/dp/B076X3V451?tag=events-22">『Mr.Clice』</a><a href="https://www.amazon.co.jp/dp/B075SWXH5B?tag=events-22">『BLACK TIGER ブラックティガー』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html">
-        <title>[Kindleセール開始] 【期間限定無料】講談社 『ぐらんぶる』『僕だけが知ってるんだぜ』新刊配信 記念！ good！すぎるぞ青春マンガ特集 (10/7〜10/20)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html">【期間限定無料】講談社 『ぐらんぶる』『僕だけが知ってるんだぜ』新刊配信 記念！ good！すぎるぞ青春マンガ特集 (10/7〜10/20)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F5GG2RPQ?tag=events-22">『僕だけが知ってるんだぜ』</a><a href="https://www.amazon.co.jp/dp/B00OZ89TNC?tag=events-22">『ぐらんぶる』</a><a href="https://www.amazon.co.jp/dp/B009KYCTBK?tag=events-22">『謎の彼女X』</a><a href="https://www.amazon.co.jp/dp/B08HYX8FD1?tag=events-22">『メダリスト』</a><a href="https://www.amazon.co.jp/dp/B07RSZDY6G?tag=events-22">『ワンダンス』</a><a href="https://www.amazon.co.jp/dp/B00BB1ZTBM?tag=events-22">『監獄学園』</a><a href="https://www.amazon.co.jp/dp/B09H6ZPZW6?tag=events-22">『新・地獄堂霊界通信』</a><a href="https://www.amazon.co.jp/dp/B0CTHQPW4X?tag=events-22">『ワレワレハ』</a><a href="https://www.amazon.co.jp/dp/B0BQMBLLJ4?tag=events-22">『アオバノバスケ』</a><a href="https://www.amazon.co.jp/dp/B076CB51KW?tag=events-22">『大蜘蛛ちゃんフラッシュ・バック』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html">
-        <title>[Kindleセール終了] 【期間限定無料】集英社 『しっぽ街のコオ先生』（たらさわみち） 最新巻配信記念！ しあわせアニマル大集合フェア (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html">【期間限定無料】集英社 『しっぽ街のコオ先生』（たらさわみち） 最新巻配信記念！ しあわせアニマル大集合フェア (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07785CDVQ?tag=events-22">『しっぽ街のコオ先生』</a><a href="https://www.amazon.co.jp/dp/B0B68TBJML?tag=events-22">『マチたん! 街の探偵となまけないナマケモノ』</a><a href="https://www.amazon.co.jp/dp/B08Y8F8XX6?tag=events-22">『コギカツ〜コーギー活動記録』</a><a href="https://www.amazon.co.jp/dp/B0CF8Q4F7F?tag=events-22">『シッポがともだち』</a><a href="https://www.amazon.co.jp/dp/B0DJSCVS8V?tag=events-22">『母ときどきねこ』</a><a href="https://www.amazon.co.jp/dp/B06Y2JB19D?tag=events-22">『シマウマはワンワンと鳴く』</a><a href="https://www.amazon.co.jp/dp/B00EZ1B5BS?tag=events-22">『おいでよ 動物病院!』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html">
-        <title>[Kindleセール開始] 【期間限定無料】集英社 『超巡！超条先輩』アニメ放送開始記念！個性が大渋滞のギャグ・コメディマンガ特集！ (10/6〜10/19)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html">【期間限定無料】集英社 『超巡！超条先輩』アニメ放送開始記念！個性が大渋滞のギャグ・コメディマンガ特集！ (10/6〜10/19)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B018TPYYWC?tag=events-22">『左門くんはサモナー』</a><a href="https://www.amazon.co.jp/dp/B009GZKM9O?tag=events-22">『SKET DANCE モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B093L3255F?tag=events-22">『ウィッチウォッチ』</a><a href="https://www.amazon.co.jp/dp/B0CW19DV5D?tag=events-22">『超巡!超条先輩』</a><a href="https://www.amazon.co.jp/dp/B009GZJYZW?tag=events-22">『銀魂 モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B07KS2PKW7?tag=events-22">『思春期ルネサンス!ダビデ君』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html">
-        <title>[Kindleセール終了] 【期間限定無料】講談社 【講談社】映像化の続きを原作で！ この夏話題になった映像化を一挙おさらい特集！ (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html">【期間限定無料】講談社 【講談社】映像化の続きを原作で！ この夏話題になった映像化を一挙おさらい特集！ (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0C6PTSN4W?tag=events-22">『クロエマ』</a><a href="https://www.amazon.co.jp/dp/B08344H7YF?tag=events-22">『山口くんはワルくない』</a><a href="https://www.amazon.co.jp/dp/B00OZ89TNC?tag=events-22">『ぐらんぶる』</a><a href="https://www.amazon.co.jp/dp/B00BUL5O9K?tag=events-22">『GTO』</a><a href="https://www.amazon.co.jp/dp/B0CCNW2V9K?tag=events-22">『ヤニねこ』</a><a href="https://www.amazon.co.jp/dp/B07YKKVFJJ?tag=events-22">『おちたらおわり』</a><a href="https://www.amazon.co.jp/dp/B07K43H7TS?tag=events-22">『ブルーロック』</a><a href="https://www.amazon.co.jp/dp/B0BHD5JW3X?tag=events-22">『サンダー3』</a><a href="https://www.amazon.co.jp/dp/B0B58GKCZL?tag=events-22">『黒猫と魔女の教室』</a><a href="https://www.amazon.co.jp/dp/B09S3HBW2L?tag=events-22">『花織さんは転生しても喧嘩がしたい』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html">
-        <title>[Kindleセール開始] 【期間限定無料】小学館 『マロニエ王国の七人の騎士』 アニメ放送開始記念フェア！ (10/3〜10/16)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html">【期間限定無料】小学館 『マロニエ王国の七人の騎士』 アニメ放送開始記念フェア！ (10/3〜10/16)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FQNVVT9C?tag=events-22">『壁向こうの花園』</a><a href="https://www.amazon.co.jp/dp/B0F2HDVXTX?tag=events-22">『夜行の眼』</a><a href="https://www.amazon.co.jp/dp/B0C14DHL5Q?tag=events-22">『弱火の魔法 単話』</a><a href="https://www.amazon.co.jp/dp/B0CVLLRXGX?tag=events-22">『海が見える大井町』</a><a href="https://www.amazon.co.jp/dp/B074N5517Y?tag=events-22">『マロニエ王国の七人の騎士』</a><a href="https://www.amazon.co.jp/dp/B077882321?tag=events-22">『夢みる機械人形』</a><a href="https://www.amazon.co.jp/dp/B009SHW9GO?tag=events-22">『町でうわさの天狗の子』</a><a href="https://www.amazon.co.jp/dp/B009SHVW0S?tag=events-22">『雨無村役場産業課兼観光係』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
     </item>
 
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-sports.html">
@@ -719,83 +723,20 @@
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html">
-        <title>[Kindleセール開始] 【期間限定無料】白泉社 異世界ロマンス＆刺激LOVE人気新刊 ６作品入荷!!無料試し読みフェア (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html">【期間限定無料】白泉社 異世界ロマンス＆刺激LOVE人気新刊 ６作品入荷!!無料試し読みフェア (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CW29Q27V?tag=events-22">『乙女ゲームの最強キャラたちが私に執着する』</a><a href="https://www.amazon.co.jp/dp/B0FTYSSL8P?tag=events-22">『君を映して離さない』</a><a href="https://www.amazon.co.jp/dp/B0DYYZX4ZS?tag=events-22">『社交界の毒婦とよばれる私』</a><a href="https://www.amazon.co.jp/dp/B0D1XXGDZV?tag=events-22">『イットボーイハント』</a><a href="https://www.amazon.co.jp/dp/B0CH82L4S4?tag=events-22">『転生令嬢は腹黒騎士に攻略される』</a><a href="https://www.amazon.co.jp/dp/B0C8MZ5NFM?tag=events-22">『絶望令嬢の華麗なる離婚』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html">
+        <title>[Kindleセール開始] 【期間限定無料】講談社 『ぐらんぶる』『僕だけが知ってるんだぜ』新刊配信 記念！ good！すぎるぞ青春マンガ特集 (10/7〜10/20)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261007-kodan-good.html">【期間限定無料】講談社 『ぐらんぶる』『僕だけが知ってるんだぜ』新刊配信 記念！ good！すぎるぞ青春マンガ特集 (10/7〜10/20)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0F5GG2RPQ?tag=events-22">『僕だけが知ってるんだぜ』</a><a href="https://www.amazon.co.jp/dp/B00OZ89TNC?tag=events-22">『ぐらんぶる』</a><a href="https://www.amazon.co.jp/dp/B009KYCTBK?tag=events-22">『謎の彼女X』</a><a href="https://www.amazon.co.jp/dp/B08HYX8FD1?tag=events-22">『メダリスト』</a><a href="https://www.amazon.co.jp/dp/B07RSZDY6G?tag=events-22">『ワンダンス』</a><a href="https://www.amazon.co.jp/dp/B00BB1ZTBM?tag=events-22">『監獄学園』</a><a href="https://www.amazon.co.jp/dp/B09H6ZPZW6?tag=events-22">『新・地獄堂霊界通信』</a><a href="https://www.amazon.co.jp/dp/B0CTHQPW4X?tag=events-22">『ワレワレハ』</a><a href="https://www.amazon.co.jp/dp/B0BQMBLLJ4?tag=events-22">『アオバノバスケ』</a><a href="https://www.amazon.co.jp/dp/B076CB51KW?tag=events-22">『大蜘蛛ちゃんフラッシュ・バック』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+        <dc:date>2026-10-07T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html">
-        <title>[Kindleセール終了] 【期間限定無料】講談社 『恋スルシカク』ほか 大ヒット御礼！ オトナの恋愛マンガ特集 (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html">【期間限定無料】講談社 『恋スルシカク』ほか 大ヒット御礼！ オトナの恋愛マンガ特集 (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DQNJQS1Y?tag=events-22">『ヒーロー、独り占めしてもいいですか?』</a><a href="https://www.amazon.co.jp/dp/B0G4THCNSW?tag=events-22">『ココロ、恋にあらず。』</a><a href="https://www.amazon.co.jp/dp/B0DYV1JP5C?tag=events-22">『キスまで徒歩2秒』</a><a href="https://www.amazon.co.jp/dp/B0D6D637GZ?tag=events-22">『十九川くんが困らせてくる!』</a><a href="https://www.amazon.co.jp/dp/B08MTVVF4F?tag=events-22">『スイーツは定時のあとで』</a><a href="https://www.amazon.co.jp/dp/B08C7PJRC3?tag=events-22">『わたしのお嫁くん』</a><a href="https://www.amazon.co.jp/dp/B07HRLLRQG?tag=events-22">『あせとせっけん』</a><a href="https://www.amazon.co.jp/dp/B009KYCT6U?tag=events-22">『にこたま』</a><a href="https://www.amazon.co.jp/dp/B009KYBPWO?tag=events-22">『シマシマ』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html">
-        <title>[Kindleセール開始] 【期間限定無料】講談社 新刊配信記念！ 伸び盛りのヒット作たっぷりのヤンマガ新刊特集 (10/6〜10/19)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html">【期間限定無料】講談社 新刊配信記念！ 伸び盛りのヒット作たっぷりのヤンマガ新刊特集 (10/6〜10/19)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CGQXTDKY?tag=events-22">『だれでも抱けるキミが好き』</a><a href="https://www.amazon.co.jp/dp/B0723G567Y?tag=events-22">『1日外出録ハンチョウ』</a><a href="https://www.amazon.co.jp/dp/B0DXZ34SB3?tag=events-22">『妹は知っている』</a><a href="https://www.amazon.co.jp/dp/B0B28RGXQQ?tag=events-22">『追放された転生重騎士はゲーム知識で無双す…』</a><a href="https://www.amazon.co.jp/dp/B00AIFYU1M?tag=events-22">『いけない!ルナ先生』</a><a href="https://www.amazon.co.jp/dp/B0F9WGY9NX?tag=events-22">『ザ・ファブル』</a><a href="https://www.amazon.co.jp/dp/B0DHTZRV45?tag=events-22">『アマチュアビジランテ』</a><a href="https://www.amazon.co.jp/dp/B0DBYBV6Q7?tag=events-22">『無敗のふたり』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html">
-        <title>[Kindleセール開始] 【期間限定無料】小学館 『らんま1/2』アニメ第3期スタートフェア！ (10/3〜10/16)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html">【期間限定無料】小学館 『らんま1/2』アニメ第3期スタートフェア！ (10/3〜10/16)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09P51XPMH?tag=events-22">『~異伝・絵本草子』</a><a href="https://www.amazon.co.jp/dp/B09KTSK7V6?tag=events-22">『はじめラブコメ オガベベ』</a><a href="https://www.amazon.co.jp/dp/B07X7WWL91?tag=events-22">『MAO』</a><a href="https://www.amazon.co.jp/dp/B07XCNY816?tag=events-22">『ポンコツちゃん検証中』</a><a href="https://www.amazon.co.jp/dp/B06XKHLHL5?tag=events-22">『1ポンドの福音』</a><a href="https://www.amazon.co.jp/dp/B06XK88L1P?tag=events-22">『犬夜叉』</a><a href="https://www.amazon.co.jp/dp/B01D1Q4DRA?tag=events-22">『ねこったけ!』</a><a href="https://www.amazon.co.jp/dp/B01EH04BWQ?tag=events-22">『ふれるときこえる』</a><a href="https://www.amazon.co.jp/dp/B00UV5QJO0?tag=events-22">『境界のRINNE』</a><a href="https://www.amazon.co.jp/dp/B00DW6CK6G?tag=events-22">『プニャリン』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html">
-        <title>[Kindleセール開始] 【期間限定無料】集英社 マーガレット21号配信記念 (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html">【期間限定無料】集英社 マーガレット21号配信記念 (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HJGPXC3R?tag=events-22">『マーガレット』</a><a href="https://www.amazon.co.jp/dp/B01BLBM6US?tag=events-22">『僕に花のメランコリー』</a><a href="https://www.amazon.co.jp/dp/B08DNQF7V2?tag=events-22">『センチメンタル キス』</a><a href="https://www.amazon.co.jp/dp/B0C6DG3R65?tag=events-22">『氷の城壁 単行本版』</a><a href="https://www.amazon.co.jp/dp/B0D3LSPHBZ?tag=events-22">『片隅のハートビート』</a><a href="https://www.amazon.co.jp/dp/B0BZZ5QGHF?tag=events-22">『どうせ泣くなら恋がいい』</a><a href="https://www.amazon.co.jp/dp/B08BC26J6K?tag=events-22">『はじめての鮫島くん』</a><a href="https://www.amazon.co.jp/dp/B077BQT7XN?tag=events-22">『俺がつきあってやるよ』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html">
-        <title>[Kindleセール終了] 【期間限定無料】集英社 『ファントムバスターズ』アニメ化発表記念！ 男子たちの青春マンガキャンペーン！ (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html">【期間限定無料】集英社 『ファントムバスターズ』アニメ化発表記念！ 男子たちの青春マンガキャンペーン！ (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0B28PXZJG?tag=events-22">『カメリアのカーテン』</a><a href="https://www.amazon.co.jp/dp/B07MXBHQBH?tag=events-22">『ムーンランド』</a><a href="https://www.amazon.co.jp/dp/B009PL81YC?tag=events-22">『青の祓魔師 2 青の祓魔師 リマスター版』</a><a href="https://www.amazon.co.jp/dp/B00GN57EY6?tag=events-22">『SOUL CATCHER』</a><a href="https://www.amazon.co.jp/dp/B09MRZSFCV?tag=events-22">『ショーハショーテン!』</a><a href="https://www.amazon.co.jp/dp/B018TPYYWC?tag=events-22">『左門くんはサモナー』</a><a href="https://www.amazon.co.jp/dp/B009GZKOAQ?tag=events-22">『べるぜバブ モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B009GZJXU8?tag=events-22">『クロガネ』</a><a href="https://www.amazon.co.jp/dp/B08R6V96JN?tag=events-22">『高校生家族』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html">
-        <title>[Kindleセール開始] 【期間限定無料】集英社 『ワールドトリガー』最新30巻＆『英雄機関』最新 7巻配信中！武器や装備がカッコイイマンガ特集！ (10/3〜10/16)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html">【期間限定無料】集英社 『ワールドトリガー』最新30巻＆『英雄機関』最新 7巻配信中！武器や装備がカッコイイマンガ特集！ (10/3〜10/16)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00FB9HF6M?tag=events-22">『ワールドトリガー』</a><a href="https://www.amazon.co.jp/dp/B0DRN76PDT?tag=events-22">『英雄機関』</a><a href="https://www.amazon.co.jp/dp/B009PL8264?tag=events-22">『武装錬金』</a><a href="https://www.amazon.co.jp/dp/B009PL85V6?tag=events-22">『D.Gray‐man』</a><a href="https://www.amazon.co.jp/dp/B07S92JTTY?tag=events-22">『HEART GEAR』</a><a href="https://www.amazon.co.jp/dp/B08LYSV5PL?tag=events-22">『怪獣8号』</a><a href="https://www.amazon.co.jp/dp/B00RE0G7KG?tag=events-22">『ハイファイクラスタ』</a><a href="https://www.amazon.co.jp/dp/B07VGBHT79?tag=events-22">『トーキョー忍スクワッド』</a><a href="https://www.amazon.co.jp/dp/B0BBTPFC4H?tag=events-22">『ALIENS AREA』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html">
-        <title>[Kindleセール終了] 【期間限定無料】小学館 漫祭2026 第4弾 大ヒット作はここから生まれる。今読むべきネクストブレイク作品フェア！ (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html">【期間限定無料】小学館 漫祭2026 第4弾 大ヒット作はここから生まれる。今読むべきネクストブレイク作品フェア！ (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HDPCPPY1?tag=events-22">『教喰』</a><a href="https://www.amazon.co.jp/dp/B0GX2YGYCP?tag=events-22">『ザコオス♂』</a><a href="https://www.amazon.co.jp/dp/B0GQ9SH1CC?tag=events-22">『吾が君散るらむ』</a><a href="https://www.amazon.co.jp/dp/B0GMDSVG9S?tag=events-22">『コンクリートの船』</a><a href="https://www.amazon.co.jp/dp/B0GHYBRWMK?tag=events-22">『深淵探偵』</a><a href="https://www.amazon.co.jp/dp/B0G51MYNP9?tag=events-22">『生まれ変わってやり直させて』</a><a href="https://www.amazon.co.jp/dp/B0FTZ15B5J?tag=events-22">『好きっていえなくて死ぬ!』</a><a href="https://www.amazon.co.jp/dp/B0FP2BCBJN?tag=events-22">『カグライ』</a><a href="https://www.amazon.co.jp/dp/B0FRF54H3L?tag=events-22">『幼児A』</a><a href="https://www.amazon.co.jp/dp/B0FP29ZJW2?tag=events-22">『シルバーマウンテン』</a>など]]></content:encoded>
-        <dc:creator>yto</dc:creator>
-        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
-    </item>
-
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html">
-        <title>[Kindleセール開始] 【期間限定無料】集英社 待望のアニメ「PSYREN」放送開始記念！ 手に汗握る能力バトルキャンペーン！ (10/5〜10/18)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html">【期間限定無料】集英社 待望のアニメ「PSYREN」放送開始記念！ 手に汗握る能力バトルキャンペーン！ (10/5〜10/18)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00NXCWK6Y?tag=events-22">『血界戦線』</a><a href="https://www.amazon.co.jp/dp/B018TPYYJU?tag=events-22">『血界戦線 Back 2 Back』</a><a href="https://www.amazon.co.jp/dp/B0C691YGRL?tag=events-22">『血界戦線 Beat 3 Peat』</a><a href="https://www.amazon.co.jp/dp/B0CQY2DBW5?tag=events-22">『魔々勇々』</a><a href="https://www.amazon.co.jp/dp/B07QTFRSRD?tag=events-22">『ダークギャザリング』</a><a href="https://www.amazon.co.jp/dp/B0DVSCD21P?tag=events-22">『ギルデッドエネミー』</a><a href="https://www.amazon.co.jp/dp/B0B7RNDPJ9?tag=events-22">『戦奏教室』</a><a href="https://www.amazon.co.jp/dp/B0CW1F26S9?tag=events-22">『ゴーストフィクサーズ』</a><a href="https://www.amazon.co.jp/dp/B0D59KY3V4?tag=events-22">『願いのアストロ』</a><a href="https://www.amazon.co.jp/dp/B00BJ0F1OU?tag=events-22">『みえるひと』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『白衣の天使・和泉くんは女医を落とすまで諦めない』新刊配信フェア！ (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-sgk-haku.html">【期間限定無料】小学館 『白衣の天使・和泉くんは女医を落とすまで諦めない』新刊配信フェア！ (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0H2H3NL3S?tag=events-22">『陰キャな鶴屋くんの激重感情』</a><a href="https://www.amazon.co.jp/dp/B0GX2QBKSG?tag=events-22">『白衣の天使・和泉くんは女医を落とすまで諦…』</a><a href="https://www.amazon.co.jp/dp/B0DXF795H9?tag=events-22">『社長、お慕い申し上げます。』</a><a href="https://www.amazon.co.jp/dp/B0D2HRBQGV?tag=events-22">『世にも劣悪なエリート婚』</a><a href="https://www.amazon.co.jp/dp/B0C941DB3Z?tag=events-22">『女の引っ越しの9割は恋のせいである』</a><a href="https://www.amazon.co.jp/dp/B0B24JJQWQ?tag=events-22">『注文の多い玉の輿婚』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-05T00:00:00+09:00</dc:date>
     </item>
@@ -809,6 +750,87 @@
         <dc:date>2026-10-03T00:00:00+09:00</dc:date>
     </item>
 
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 『超巡！超条先輩』アニメ放送開始記念！個性が大渋滞のギャグ・コメディマンガ特集！ (10/6〜10/19)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-shuei-cho.html">【期間限定無料】集英社 『超巡！超条先輩』アニメ放送開始記念！個性が大渋滞のギャグ・コメディマンガ特集！ (10/6〜10/19)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B018TPYYWC?tag=events-22">『左門くんはサモナー』</a><a href="https://www.amazon.co.jp/dp/B009GZKM9O?tag=events-22">『SKET DANCE モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B093L3255F?tag=events-22">『ウィッチウォッチ』</a><a href="https://www.amazon.co.jp/dp/B0CW19DV5D?tag=events-22">『超巡!超条先輩』</a><a href="https://www.amazon.co.jp/dp/B009GZJYZW?tag=events-22">『銀魂 モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B07KS2PKW7?tag=events-22">『思春期ルネサンス!ダビデ君』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 マーガレット21号配信記念 (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-marga.html">【期間限定無料】集英社 マーガレット21号配信記念 (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HJGPXC3R?tag=events-22">『マーガレット』</a><a href="https://www.amazon.co.jp/dp/B01BLBM6US?tag=events-22">『僕に花のメランコリー』</a><a href="https://www.amazon.co.jp/dp/B08DNQF7V2?tag=events-22">『センチメンタル キス』</a><a href="https://www.amazon.co.jp/dp/B0C6DG3R65?tag=events-22">『氷の城壁 単行本版』</a><a href="https://www.amazon.co.jp/dp/B0D3LSPHBZ?tag=events-22">『片隅のハートビート』</a><a href="https://www.amazon.co.jp/dp/B0BZZ5QGHF?tag=events-22">『どうせ泣くなら恋がいい』</a><a href="https://www.amazon.co.jp/dp/B08BC26J6K?tag=events-22">『はじめての鮫島くん』</a><a href="https://www.amazon.co.jp/dp/B077BQT7XN?tag=events-22">『俺がつきあってやるよ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html">
+        <title>[Kindleセール終了] 【期間限定無料】小学館 『鬼になる』新刊配信記念フェア！ (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html">【期間限定無料】小学館 『鬼になる』新刊配信記念フェア！ (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09V2LFQXM?tag=events-22">『鬼になる』</a><a href="https://www.amazon.co.jp/dp/B0BLRN88ZG?tag=events-22">『トリああああああジ』</a><a href="https://www.amazon.co.jp/dp/B0CQ2DGY6K?tag=events-22">『堕ちる』</a><a href="https://www.amazon.co.jp/dp/B0BDRMXQ1Z?tag=events-22">『ユータナシア』</a><a href="https://www.amazon.co.jp/dp/B0BJPT6KZ2?tag=events-22">『ミレンさんの壷』</a><a href="https://www.amazon.co.jp/dp/B0BDRKSSGQ?tag=events-22">『イーヴィル』</a><a href="https://www.amazon.co.jp/dp/B09S3M3N1V?tag=events-22">『陰陽ストーカーズ』</a><a href="https://www.amazon.co.jp/dp/B08NJP7HG8?tag=events-22">『リサと人魚』</a><a href="https://www.amazon.co.jp/dp/B07KWSWHTD?tag=events-22">『さよなら10代』</a><a href="https://www.amazon.co.jp/dp/B085XQCCS5?tag=events-22">『はがゆれど』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 『ワールドトリガー』最新30巻＆『英雄機関』最新 7巻配信中！武器や装備がカッコイイマンガ特集！ (10/3〜10/16)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-buki.html">【期間限定無料】集英社 『ワールドトリガー』最新30巻＆『英雄機関』最新 7巻配信中！武器や装備がカッコイイマンガ特集！ (10/3〜10/16)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00FB9HF6M?tag=events-22">『ワールドトリガー』</a><a href="https://www.amazon.co.jp/dp/B0DRN76PDT?tag=events-22">『英雄機関』</a><a href="https://www.amazon.co.jp/dp/B009PL8264?tag=events-22">『武装錬金』</a><a href="https://www.amazon.co.jp/dp/B009PL85V6?tag=events-22">『D.Gray‐man』</a><a href="https://www.amazon.co.jp/dp/B07S92JTTY?tag=events-22">『HEART GEAR』</a><a href="https://www.amazon.co.jp/dp/B08LYSV5PL?tag=events-22">『怪獣8号』</a><a href="https://www.amazon.co.jp/dp/B00RE0G7KG?tag=events-22">『ハイファイクラスタ』</a><a href="https://www.amazon.co.jp/dp/B07VGBHT79?tag=events-22">『トーキョー忍スクワッド』</a><a href="https://www.amazon.co.jp/dp/B0BBTPFC4H?tag=events-22">『ALIENS AREA』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『マロニエ王国の七人の騎士』 アニメ放送開始記念フェア！ (10/3〜10/16)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-maro.html">【期間限定無料】小学館 『マロニエ王国の七人の騎士』 アニメ放送開始記念フェア！ (10/3〜10/16)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0FQNVVT9C?tag=events-22">『壁向こうの花園』</a><a href="https://www.amazon.co.jp/dp/B0F2HDVXTX?tag=events-22">『夜行の眼』</a><a href="https://www.amazon.co.jp/dp/B0C14DHL5Q?tag=events-22">『弱火の魔法 単話』</a><a href="https://www.amazon.co.jp/dp/B0CVLLRXGX?tag=events-22">『海が見える大井町』</a><a href="https://www.amazon.co.jp/dp/B074N5517Y?tag=events-22">『マロニエ王国の七人の騎士』</a><a href="https://www.amazon.co.jp/dp/B077882321?tag=events-22">『夢みる機械人形』</a><a href="https://www.amazon.co.jp/dp/B009SHW9GO?tag=events-22">『町でうわさの天狗の子』</a><a href="https://www.amazon.co.jp/dp/B009SHVW0S?tag=events-22">『雨無村役場産業課兼観光係』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html">
+        <title>[Kindleセール終了] 【期間限定無料】講談社 【講談社】映像化の続きを原作で！ この夏話題になった映像化を一挙おさらい特集！ (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-eizo.html">【期間限定無料】講談社 【講談社】映像化の続きを原作で！ この夏話題になった映像化を一挙おさらい特集！ (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0C6PTSN4W?tag=events-22">『クロエマ』</a><a href="https://www.amazon.co.jp/dp/B08344H7YF?tag=events-22">『山口くんはワルくない』</a><a href="https://www.amazon.co.jp/dp/B00OZ89TNC?tag=events-22">『ぐらんぶる』</a><a href="https://www.amazon.co.jp/dp/B00BUL5O9K?tag=events-22">『GTO』</a><a href="https://www.amazon.co.jp/dp/B0CCNW2V9K?tag=events-22">『ヤニねこ』</a><a href="https://www.amazon.co.jp/dp/B07YKKVFJJ?tag=events-22">『おちたらおわり』</a><a href="https://www.amazon.co.jp/dp/B07K43H7TS?tag=events-22">『ブルーロック』</a><a href="https://www.amazon.co.jp/dp/B0BHD5JW3X?tag=events-22">『サンダー3』</a><a href="https://www.amazon.co.jp/dp/B0B58GKCZL?tag=events-22">『黒猫と魔女の教室』</a><a href="https://www.amazon.co.jp/dp/B09S3HBW2L?tag=events-22">『花織さんは転生しても喧嘩がしたい』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html">
+        <title>[Kindleセール終了] 【期間限定無料】集英社 『しっぽ街のコオ先生』（たらさわみち） 最新巻配信記念！ しあわせアニマル大集合フェア (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-shippo.html">【期間限定無料】集英社 『しっぽ街のコオ先生』（たらさわみち） 最新巻配信記念！ しあわせアニマル大集合フェア (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B07785CDVQ?tag=events-22">『しっぽ街のコオ先生』</a><a href="https://www.amazon.co.jp/dp/B0B68TBJML?tag=events-22">『マチたん! 街の探偵となまけないナマケモノ』</a><a href="https://www.amazon.co.jp/dp/B08Y8F8XX6?tag=events-22">『コギカツ〜コーギー活動記録』</a><a href="https://www.amazon.co.jp/dp/B0CF8Q4F7F?tag=events-22">『シッポがともだち』</a><a href="https://www.amazon.co.jp/dp/B0DJSCVS8V?tag=events-22">『母ときどきねこ』</a><a href="https://www.amazon.co.jp/dp/B06Y2JB19D?tag=events-22">『シマウマはワンワンと鳴く』</a><a href="https://www.amazon.co.jp/dp/B00EZ1B5BS?tag=events-22">『おいでよ 動物病院!』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『らんま1/2』アニメ第3期スタートフェア！ (10/3〜10/16)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-sgk-ranma.html">【期間限定無料】小学館 『らんま1/2』アニメ第3期スタートフェア！ (10/3〜10/16)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09P51XPMH?tag=events-22">『~異伝・絵本草子』</a><a href="https://www.amazon.co.jp/dp/B09KTSK7V6?tag=events-22">『はじめラブコメ オガベベ』</a><a href="https://www.amazon.co.jp/dp/B07X7WWL91?tag=events-22">『MAO』</a><a href="https://www.amazon.co.jp/dp/B07XCNY816?tag=events-22">『ポンコツちゃん検証中』</a><a href="https://www.amazon.co.jp/dp/B06XKHLHL5?tag=events-22">『1ポンドの福音』</a><a href="https://www.amazon.co.jp/dp/B06XK88L1P?tag=events-22">『犬夜叉』</a><a href="https://www.amazon.co.jp/dp/B01D1Q4DRA?tag=events-22">『ねこったけ!』</a><a href="https://www.amazon.co.jp/dp/B01EH04BWQ?tag=events-22">『ふれるときこえる』</a><a href="https://www.amazon.co.jp/dp/B00UV5QJO0?tag=events-22">『境界のRINNE』</a><a href="https://www.amazon.co.jp/dp/B00DW6CK6G?tag=events-22">『プニャリン』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-risei.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 理性じゃ止められない恋 (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-risei.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-shuei-risei.html">【期間限定無料】集英社 理性じゃ止められない恋 (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CYC95TRJ?tag=events-22">『蜜恋絵巻』</a><a href="https://www.amazon.co.jp/dp/B0CYC8S45K?tag=events-22">『快感マジカルチェンジ』</a><a href="https://www.amazon.co.jp/dp/B00AMB4O1I?tag=events-22">『情熱のアレ』</a><a href="https://www.amazon.co.jp/dp/B09CG1C2Z5?tag=events-22">『ハタチ過ぎてもなんとかシたい』</a><a href="https://www.amazon.co.jp/dp/B0CZL7MN3P?tag=events-22">『恋の行方は気にしなくていい』</a><a href="https://www.amazon.co.jp/dp/B09MRZGV2N?tag=events-22">『キミと越えて恋になる 単行本版』</a><a href="https://www.amazon.co.jp/dp/B08WC3QN1Y?tag=events-22">『蜜蜂ライアー』</a><a href="https://www.amazon.co.jp/dp/B0CBMFTQVF?tag=events-22">『シちゃいそうなわたしたち』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
     <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-dai.html">
         <title>[Kindleセール開始] 【期間限定無料】小学館 『大賢者リドルの時間逆行』新刊配信記念フェア！ (10/4〜10/17)</title>
         <link>https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-dai.html</link>
@@ -818,11 +840,119 @@
         <dc:date>2026-10-04T00:00:00+09:00</dc:date>
     </item>
 
-    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html">
-        <title>[Kindleセール終了] 【期間限定無料】小学館 『鬼になる』新刊配信記念フェア！ (9/25〜10/8)</title>
-        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html</link>
-        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-oni.html">【期間限定無料】小学館 『鬼になる』新刊配信記念フェア！ (9/25〜10/8)</a>]]></description>
-        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09V2LFQXM?tag=events-22">『鬼になる』</a><a href="https://www.amazon.co.jp/dp/B0BLRN88ZG?tag=events-22">『トリああああああジ』</a><a href="https://www.amazon.co.jp/dp/B0CQ2DGY6K?tag=events-22">『堕ちる』</a><a href="https://www.amazon.co.jp/dp/B0BDRMXQ1Z?tag=events-22">『ユータナシア』</a><a href="https://www.amazon.co.jp/dp/B0BJPT6KZ2?tag=events-22">『ミレンさんの壷』</a><a href="https://www.amazon.co.jp/dp/B0BDRKSSGQ?tag=events-22">『イーヴィル』</a><a href="https://www.amazon.co.jp/dp/B09S3M3N1V?tag=events-22">『陰陽ストーカーズ』</a><a href="https://www.amazon.co.jp/dp/B08NJP7HG8?tag=events-22">『リサと人魚』</a><a href="https://www.amazon.co.jp/dp/B07KWSWHTD?tag=events-22">『さよなら10代』</a><a href="https://www.amazon.co.jp/dp/B085XQCCS5?tag=events-22">『はがゆれど』</a>など]]></content:encoded>
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html">
+        <title>[Kindleセール開始] 【期間限定無料】白泉社 異世界ロマンス＆刺激LOVE人気新刊 ６作品入荷!!無料試し読みフェア (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-hks-iseroma.html">【期間限定無料】白泉社 異世界ロマンス＆刺激LOVE人気新刊 ６作品入荷!!無料試し読みフェア (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CW29Q27V?tag=events-22">『乙女ゲームの最強キャラたちが私に執着する』</a><a href="https://www.amazon.co.jp/dp/B0FTYSSL8P?tag=events-22">『君を映して離さない』</a><a href="https://www.amazon.co.jp/dp/B0DYYZX4ZS?tag=events-22">『社交界の毒婦とよばれる私』</a><a href="https://www.amazon.co.jp/dp/B0D1XXGDZV?tag=events-22">『イットボーイハント』</a><a href="https://www.amazon.co.jp/dp/B0CH82L4S4?tag=events-22">『転生令嬢は腹黒騎士に攻略される』</a><a href="https://www.amazon.co.jp/dp/B0C8MZ5NFM?tag=events-22">『絶望令嬢の華麗なる離婚』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html">
+        <title>[Kindleセール開始] 【期間限定無料】講談社 新刊配信記念！ 伸び盛りのヒット作たっぷりのヤンマガ新刊特集 (10/6〜10/19)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261006-kodan-ym.html">【期間限定無料】講談社 新刊配信記念！ 伸び盛りのヒット作たっぷりのヤンマガ新刊特集 (10/6〜10/19)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CGQXTDKY?tag=events-22">『だれでも抱けるキミが好き』</a><a href="https://www.amazon.co.jp/dp/B0723G567Y?tag=events-22">『1日外出録ハンチョウ』</a><a href="https://www.amazon.co.jp/dp/B0DXZ34SB3?tag=events-22">『妹は知っている』</a><a href="https://www.amazon.co.jp/dp/B0B28RGXQQ?tag=events-22">『追放された転生重騎士はゲーム知識で無双す…』</a><a href="https://www.amazon.co.jp/dp/B00AIFYU1M?tag=events-22">『いけない!ルナ先生』</a><a href="https://www.amazon.co.jp/dp/B0F9WGY9NX?tag=events-22">『ザ・ファブル』</a><a href="https://www.amazon.co.jp/dp/B0DHTZRV45?tag=events-22">『アマチュアビジランテ』</a><a href="https://www.amazon.co.jp/dp/B0DBYBV6Q7?tag=events-22">『無敗のふたり』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-06T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-fca.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『夜ノ井月彦の幸せな地獄』完結＆『ふしぎ遊戯  白虎仙記』『狼の娘』新刊配信！ＦＣαフェア (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-fca.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-fca.html">【期間限定無料】小学館 『夜ノ井月彦の幸せな地獄』完結＆『ふしぎ遊戯  白虎仙記』『狼の娘』新刊配信！ＦＣαフェア (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0BKSJXTK7?tag=events-22">『夜ノ井月彦の幸せな地獄』</a><a href="https://www.amazon.co.jp/dp/B0DHKT8H4K?tag=events-22">『VS残念ガール』</a><a href="https://www.amazon.co.jp/dp/B0BWDMMS15?tag=events-22">『狼の娘』</a><a href="https://www.amazon.co.jp/dp/B0FSK8P313?tag=events-22">『時給3500円のカノジョ』</a><a href="https://www.amazon.co.jp/dp/B0GBVBQKVX?tag=events-22">『ただいま、椿くん』</a><a href="https://www.amazon.co.jp/dp/B0F23W52GR?tag=events-22">『だから僕たちはモテない』</a><a href="https://www.amazon.co.jp/dp/B07BPYVZX7?tag=events-22">『ふしぎ遊戯 白虎仙記』</a><a href="https://www.amazon.co.jp/dp/B0BKSLZRKQ?tag=events-22">『花と運命中毒』</a><a href="https://www.amazon.co.jp/dp/B09P1Q72Z9?tag=events-22">『清くふしだらな僕ら』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html">
+        <title>[Kindleセール終了] 【期間限定無料】小学館 『名もなき魔物と二人の騎士』＆『愛でて春』など 話題作勢揃い！ＦＣ新刊配信フェア！ (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-fc.html">【期間限定無料】小学館 『名もなき魔物と二人の騎士』＆『愛でて春』など 話題作勢揃い！ＦＣ新刊配信フェア！ (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HGM67G6X?tag=events-22">『ミルモでポン!にゅ』</a><a href="https://www.amazon.co.jp/dp/B0HCZ93XR6?tag=events-22">『死神は、また恋をする。』</a><a href="https://www.amazon.co.jp/dp/B0H9R42J9R?tag=events-22">『過ぎたる愛は猛毒』</a><a href="https://www.amazon.co.jp/dp/B0FL7DN2X9?tag=events-22">『王子と騎士は男装聖女が死ぬほど愛おしい』</a><a href="https://www.amazon.co.jp/dp/B0GF7SSZK4?tag=events-22">『名もなき魔物と二人の騎士』</a><a href="https://www.amazon.co.jp/dp/B0FK9QQF47?tag=events-22">『好きっていえなくて死ぬ!』</a><a href="https://www.amazon.co.jp/dp/B0DNMBGKCV?tag=events-22">『もう好きでしょ、オレのこと』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-tensura.html">
+        <title>[Kindleセール開始] 【期間限定無料】講談社 『転生したらスライムだった件』新刊配信記念！ 心躍る異世界マンガ特集 (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-tensura.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-kodan-tensura.html">【期間限定無料】講談社 『転生したらスライムだった件』新刊配信記念！ 心躍る異世界マンガ特集 (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B09YTY7XHL?tag=events-22">『高度に発達した医学は魔法と区別がつかない』</a><a href="https://www.amazon.co.jp/dp/B017TYYQU4?tag=events-22">『転生したらスライムだった件』</a><a href="https://www.amazon.co.jp/dp/B09R9PJSPR?tag=events-22">『追放されたチート付与魔術師は気ままなセカ…』</a><a href="https://www.amazon.co.jp/dp/B0G8R7LFRT?tag=events-22">『ルックスYを選んでしまいました』</a><a href="https://www.amazon.co.jp/dp/B0F6Y56GF8?tag=events-22">『異世界辺境メシ』</a><a href="https://www.amazon.co.jp/dp/B0DG86DK1P?tag=events-22">『異世界町工場無双』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 待望のアニメ「PSYREN」放送開始記念！ 手に汗握る能力バトルキャンペーン！ (10/5〜10/18)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261005-shuei-psyren.html">【期間限定無料】集英社 待望のアニメ「PSYREN」放送開始記念！ 手に汗握る能力バトルキャンペーン！ (10/5〜10/18)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00NXCWK6Y?tag=events-22">『血界戦線』</a><a href="https://www.amazon.co.jp/dp/B018TPYYJU?tag=events-22">『血界戦線 Back 2 Back』</a><a href="https://www.amazon.co.jp/dp/B0C691YGRL?tag=events-22">『血界戦線 Beat 3 Peat』</a><a href="https://www.amazon.co.jp/dp/B0CQY2DBW5?tag=events-22">『魔々勇々』</a><a href="https://www.amazon.co.jp/dp/B07QTFRSRD?tag=events-22">『ダークギャザリング』</a><a href="https://www.amazon.co.jp/dp/B0DVSCD21P?tag=events-22">『ギルデッドエネミー』</a><a href="https://www.amazon.co.jp/dp/B0B7RNDPJ9?tag=events-22">『戦奏教室』</a><a href="https://www.amazon.co.jp/dp/B0CW1F26S9?tag=events-22">『ゴーストフィクサーズ』</a><a href="https://www.amazon.co.jp/dp/B0D59KY3V4?tag=events-22">『願いのアストロ』</a><a href="https://www.amazon.co.jp/dp/B00BJ0F1OU?tag=events-22">『みえるひと』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-05T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『攫われた酒豪令嬢、蛮族を飲みつぶして成り上がる』＆『双子公爵の執心』新刊配信フェア！ (10/4〜10/17)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261004-sgk-shugo.html">【期間限定無料】小学館 『攫われた酒豪令嬢、蛮族を飲みつぶして成り上がる』＆『双子公爵の執心』新刊配信フェア！ (10/4〜10/17)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HK3YXBDD?tag=events-22">『断末魔のコウザイ』</a><a href="https://www.amazon.co.jp/dp/B0H3NWC47J?tag=events-22">『攫われた酒豪令嬢、蛮族を飲みつぶして成り…』</a><a href="https://www.amazon.co.jp/dp/B0HK7XYJ8P?tag=events-22">『ザコオス♂』</a><a href="https://www.amazon.co.jp/dp/B0HDNY8JZG?tag=events-22">『双子公爵の執心』</a><a href="https://www.amazon.co.jp/dp/B0HK83DTJ7?tag=events-22">『1000円ヒーロー』</a><a href="https://www.amazon.co.jp/dp/B0HK88C896?tag=events-22">『大賢者リドルの時間逆行』</a><a href="https://www.amazon.co.jp/dp/B0HJQ7Y4RD?tag=events-22">『魔女の結婚』</a><a href="https://www.amazon.co.jp/dp/B0HJQ7HJ6N?tag=events-22">『かがみさまのお屋敷』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-04T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html">
+        <title>[Kindleセール終了] 【期間限定無料】講談社 エロに“あき”は来ない！ 良作たくさん実りました。オトナ向け特集 (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-er.html">【期間限定無料】講談社 エロに“あき”は来ない！ 良作たくさん実りました。オトナ向け特集 (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0CGQXTDKY?tag=events-22">『だれでも抱けるキミが好き』</a><a href="https://www.amazon.co.jp/dp/B0747J1WYZ?tag=events-22">『パラレルパラダイス』</a><a href="https://www.amazon.co.jp/dp/B0BD48CBLC?tag=events-22">『生徒会にも穴はある!』</a><a href="https://www.amazon.co.jp/dp/B08R9TFZLC?tag=events-22">『ハピエル』</a><a href="https://www.amazon.co.jp/dp/B0811TWVQC?tag=events-22">『タマロワ』</a><a href="https://www.amazon.co.jp/dp/B07FSM2K3F?tag=events-22">『未熟なふたりでございますが』</a><a href="https://www.amazon.co.jp/dp/B0GCKMLK8B?tag=events-22">『じゅーくぼっくす』</a><a href="https://www.amazon.co.jp/dp/B0FB337J71?tag=events-22">『ハードワーカー中田』</a><a href="https://www.amazon.co.jp/dp/B0DLZKWPTM?tag=events-22">『傷口と包帯』</a><a href="https://www.amazon.co.jp/dp/B0DHV2H2VH?tag=events-22">『愛妻の裏アカ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html">
+        <title>[Kindleセール開始] 【期間限定無料】集英社 『こちら葛飾区亀有公園前派出所』最新203巻 配信開始！秋本治作品特集！ (10/3〜10/16)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261003-shuei-kochi.html">【期間限定無料】集英社 『こちら葛飾区亀有公園前派出所』最新203巻 配信開始！秋本治作品特集！ (10/3〜10/16)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B00A47VPIU?tag=events-22">『こちら葛飾区亀有公園前派出所』</a><a href="https://www.amazon.co.jp/dp/B0DJB5DK6P?tag=events-22">『TimeTuberゆかり』</a><a href="https://www.amazon.co.jp/dp/B076X3V451?tag=events-22">『Mr.Clice』</a><a href="https://www.amazon.co.jp/dp/B075SWXH5B?tag=events-22">『BLACK TIGER ブラックティガー』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-03T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-yawajo.html">
+        <title>[Kindleセール開始] 【期間限定無料】小学館 『なぞとき遺跡発掘部』『あやかし屋敷』 新刊配信記念！やわスピ女子部フェア！ (10/8〜10/21)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-yawajo.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20261008-sgk-yawajo.html">【期間限定無料】小学館 『なぞとき遺跡発掘部』『あやかし屋敷』 新刊配信記念！やわスピ女子部フェア！ (10/8〜10/21)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0GBTZPJ8C?tag=events-22">『傾国の美姫はステータス変更で素手喧嘩無敗…』</a><a href="https://www.amazon.co.jp/dp/B0H362VFM4?tag=events-22">『偽りの錬金術妃は後宮の闇を解く』</a><a href="https://www.amazon.co.jp/dp/B0HJZ7JBXW?tag=events-22">『なぞとき遺跡発掘部』</a><a href="https://www.amazon.co.jp/dp/B0F8TMDS3P?tag=events-22">『あやかし屋敷のまやかし夫婦』</a><a href="https://www.amazon.co.jp/dp/B0GSYQYW24?tag=events-22">『皇弟殿下の薬湯妃』</a><a href="https://www.amazon.co.jp/dp/B0DLWN848Z?tag=events-22">『白蛇の華燭』</a><a href="https://www.amazon.co.jp/dp/B0GTLN4S9X?tag=events-22">『追放令嬢からの手紙』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html">
+        <title>[Kindleセール終了] 【期間限定無料】講談社 『恋スルシカク』ほか 大ヒット御礼！ オトナの恋愛マンガ特集 (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-kodan-otona.html">【期間限定無料】講談社 『恋スルシカク』ほか 大ヒット御礼！ オトナの恋愛マンガ特集 (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0DQNJQS1Y?tag=events-22">『ヒーロー、独り占めしてもいいですか?』</a><a href="https://www.amazon.co.jp/dp/B0G4THCNSW?tag=events-22">『ココロ、恋にあらず。』</a><a href="https://www.amazon.co.jp/dp/B0DYV1JP5C?tag=events-22">『キスまで徒歩2秒』</a><a href="https://www.amazon.co.jp/dp/B0D6D637GZ?tag=events-22">『十九川くんが困らせてくる!』</a><a href="https://www.amazon.co.jp/dp/B08MTVVF4F?tag=events-22">『スイーツは定時のあとで』</a><a href="https://www.amazon.co.jp/dp/B08C7PJRC3?tag=events-22">『わたしのお嫁くん』</a><a href="https://www.amazon.co.jp/dp/B07HRLLRQG?tag=events-22">『あせとせっけん』</a><a href="https://www.amazon.co.jp/dp/B009KYCT6U?tag=events-22">『にこたま』</a><a href="https://www.amazon.co.jp/dp/B009KYBPWO?tag=events-22">『シマシマ』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html">
+        <title>[Kindleセール終了] 【期間限定無料】集英社 『ファントムバスターズ』アニメ化発表記念！ 男子たちの青春マンガキャンペーン！ (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-shuei-phan.html">【期間限定無料】集英社 『ファントムバスターズ』アニメ化発表記念！ 男子たちの青春マンガキャンペーン！ (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0B28PXZJG?tag=events-22">『カメリアのカーテン』</a><a href="https://www.amazon.co.jp/dp/B07MXBHQBH?tag=events-22">『ムーンランド』</a><a href="https://www.amazon.co.jp/dp/B009PL81YC?tag=events-22">『青の祓魔師 2 青の祓魔師 リマスター版』</a><a href="https://www.amazon.co.jp/dp/B00GN57EY6?tag=events-22">『SOUL CATCHER』</a><a href="https://www.amazon.co.jp/dp/B09MRZSFCV?tag=events-22">『ショーハショーテン!』</a><a href="https://www.amazon.co.jp/dp/B018TPYYWC?tag=events-22">『左門くんはサモナー』</a><a href="https://www.amazon.co.jp/dp/B009GZKOAQ?tag=events-22">『べるぜバブ モノクロ版』</a><a href="https://www.amazon.co.jp/dp/B009GZJXU8?tag=events-22">『クロガネ』</a><a href="https://www.amazon.co.jp/dp/B08R6V96JN?tag=events-22">『高校生家族』</a>など]]></content:encoded>
+        <dc:creator>yto</dc:creator>
+        <dc:date>2026-10-08T00:00:00+09:00</dc:date>
+    </item>
+
+    <item rdf:about="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html">
+        <title>[Kindleセール終了] 【期間限定無料】小学館 漫祭2026 第4弾 大ヒット作はここから生まれる。今読むべきネクストブレイク作品フェア！ (9/25〜10/8)</title>
+        <link>https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html</link>
+        <description><![CDATA[<a target="_blank" href="https://yapi.ta2o.net/kndlsl/sales/20260925-sgk-mansai.html">【期間限定無料】小学館 漫祭2026 第4弾 大ヒット作はここから生まれる。今読むべきネクストブレイク作品フェア！ (9/25〜10/8)</a>]]></description>
+        <content:encoded><![CDATA[<a href="https://www.amazon.co.jp/dp/B0HDPCPPY1?tag=events-22">『教喰』</a><a href="https://www.amazon.co.jp/dp/B0GX2YGYCP?tag=events-22">『ザコオス♂』</a><a href="https://www.amazon.co.jp/dp/B0GQ9SH1CC?tag=events-22">『吾が君散るらむ』</a><a href="https://www.amazon.co.jp/dp/B0GMDSVG9S?tag=events-22">『コンクリートの船』</a><a href="https://www.amazon.co.jp/dp/B0GHYBRWMK?tag=events-22">『深淵探偵』</a><a href="https://www.amazon.co.jp/dp/B0G51MYNP9?tag=events-22">『生まれ変わってやり直させて』</a><a href="https://www.amazon.co.jp/dp/B0FTZ15B5J?tag=events-22">『好きっていえなくて死ぬ!』</a><a href="https://www.amazon.co.jp/dp/B0FP2BCBJN?tag=events-22">『カグライ』</a><a href="https://www.amazon.co.jp/dp/B0FRF54H3L?tag=events-22">『幼児A』</a><a href="https://www.amazon.co.jp/dp/B0FP29ZJW2?tag=events-22">『シルバーマウンテン』</a>など]]></content:encoded>
         <dc:creator>yto</dc:creator>
         <dc:date>2026-10-08T00:00:00+09:00</dc:date>
     </item>
