@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1301541,
+    "len": 1087983,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
@@ -155,9 +155,7 @@
     "final": "https://kinpome.com/kindle-sale2/",
     "scripts": [],
     "hrefs": [],
-    "api_refs": [
-      "uXwIbfPEx1lr28RUlc3Y.zn2WdcwkGeSzDSH.we8-1791470660-1.2.1.1-2WzQpbKVQhh1sW7vSMeVlgwQxisRKi7axmxWwF96QCI8YjzzPNGvU8FhSQgx2nRlUNSU5pMuHS4nDDLuk8VxPj6_REapIzyhEDEsVRlE4HRg0475_5nZJ_z6J272yKtAX3qU_RWFNsZAvU8z6UIeizYBox7MGPTNCeTmT6yW2KDy15Sdzgy1OOaIZ.08o_H1QnZsyIU4sm6XikQEX63w_pwGTRtZH0qiV8RlMuAhIitbkspmVpukuGyPSx9EgzpI',};var a = document.createElement('script');a.nonce = 'ybMJMRCCwWRfP45ixkt8zL';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_"
-    ]
+    "api_refs": []
   },
   "https://r.jina.ai/https://kinpome.com/kindle-sale2/": {
     "status": 200,

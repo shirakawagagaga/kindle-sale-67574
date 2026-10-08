@@ -3,7 +3,7 @@ Title: Amazon.co.jp
 URL Source: https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051
 
 Markdown Content:
-![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:357-6650132-2709250:BA1YW70RMY75ARADTJ1M$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DBA1YW70RMY75ARADTJ1M:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
+![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:357-8115589-5367718:DTWF6FG8PYKAEQM4XYW2$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DDTWF6FG8PYKAEQM4XYW2:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 ## Skip to
 
 *   [Main content](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#skippedLink)
@@ -104,6 +104,24 @@ New Customer? [Start here](https://www.amazon.co.jp/-/en/ap/register?openid.retu
 [Sign in](https://www.amazon.co.jp/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fi%3Ddigital-text%26bbn%3D22273253051%26ref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0)
 
 New customer? [Start here.](https://www.amazon.co.jp/-/en/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fs%2F%3F_encoding%3DUTF8%26bbn%3D22273253051%26i%3Ddigital-text%26ref_%3Dnav_custrec_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0)
+
+Change language
+*   [日本語 - JA](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=ja-JP)
+*    
+*   [English - EN](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=en-US)
+*   [中文 (简体) - ZH](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=zh-CN)
+
+Change currency
+*   [$ - USD - US Dollar](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-currency=USD)
+*   [¥ - JPY - Japanese Yen](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-currency=JPY)
+
+[See all](https://www.amazon.co.jp/customer-preferences/edit?ref_=icp_cop_flyout_seeAll)You are shopping on Amazon.co.jp[Change country/region.](https://www.amazon.co.jp/customer-preferences/country?ref_=icp_lop_mop_chg_ais&preferencesReturnUrl=/)
+
+Change language[Learn more](https://www.amazon.co.jp/hz/cs/help?ref_=icp_language_help&nodeId=202029830)
+*   [日本語 - JA](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=ja-JP)
+*    
+*   [English - EN](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=en-US)
+*   [中文 (简体) - ZH](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=zh-CN)
 
 [](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 
