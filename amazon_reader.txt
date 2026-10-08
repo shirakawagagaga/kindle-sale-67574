@@ -3,7 +3,7 @@ Title: Amazon.co.jp
 URL Source: https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051
 
 Markdown Content:
-![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:356-2368676-7142845:1ANPKXAW42X6VXZKS27Q$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D1ANPKXAW42X6VXZKS27Q:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
+![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:356-6233463-8733361:PR5TWPZK02HZ312P6XMW$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DPR5TWPZK02HZ312P6XMW:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 ## Skip to
 
 *   [Main content](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#skippedLink)
@@ -48,16 +48,20 @@ Search Amazon.co.jp
 [All](javascript: void(0))
 
 *   [Amazon Points: Check your balance](https://www.amazon.co.jp/-/en/Amazon%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/b/?ie=UTF8&node=2632478051&ref_=nav_cs_jppoints_unrec) 
-*   [AmazonGlobal](https://www.amazon.co.jp/-/en/AmazonGlobal-AmazonJapan/b/?ie=UTF8&node=3534638051&ref_=nav_cs_amazon_global) 
 *   [Best Sellers](https://www.amazon.co.jp/-/en/ranking?type=top-sellers&ref_=nav_cs_bestsellers) 
-*   [Amazon Basics](https://www.amazon.co.jp/-/en/stores/page/DA8DB903-A335-4CF5-AA32-77513A17D9F8?ref_=nav_cs_amazonbasics) 
-*   [New Releases](https://www.amazon.co.jp/-/en/ranking?type=new-releases&ref_=nav_cs_newreleases) 
 *   [Today's Deals](https://www.amazon.co.jp/-/en/gp/goldbox?ref_=nav_cs_gb) 
-*   [Home & Kitchen](https://www.amazon.co.jp/-/en/%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen) 
+*   [Amazon Basics](https://www.amazon.co.jp/-/en/stores/page/DA8DB903-A335-4CF5-AA32-77513A17D9F8?ref_=nav_cs_amazonbasics) 
+*   [AmazonGlobal](https://www.amazon.co.jp/-/en/AmazonGlobal-AmazonJapan/b/?ie=UTF8&node=3534638051&ref_=nav_cs_amazon_global) 
+*   [New Releases](https://www.amazon.co.jp/-/en/ranking?type=new-releases&ref_=nav_cs_newreleases) 
+*   [Japanese Books](https://www.amazon.co.jp/-/en/%E6%9C%AC-%E6%9B%B8%E7%B1%8D-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=465392&ref_=nav_cs_books) 
+*   [Customer Service](https://www.amazon.co.jp/-/en/%E3%83%98%E3%83%AB%E3%83%97/b/?ie=UTF8&node=642938&ref_=nav_cs_help) 
 *   [Gift Cards](https://www.amazon.co.jp/-/en/gp/gc?ref_=nav_cs_gc) 
+*   [Coupons](https://www.amazon.co.jp/-/en/b/?node=3550438051&ref_=nav_cs_coupons) 
+*   [Gift Ideas](https://www.amazon.co.jp/gcx/-/gfhz/?ref_=nav_cs_giftfinder) 
 *   [Computers & Peripherals](https://www.amazon.co.jp/-/en/PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc) 
-*   [Health and Personal Care](https://www.amazon.co.jp/-/en/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E6%97%A5%E7%94%A8%E5%93%81-%E5%8C%BB%E8%96%AC%E5%93%81-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=160384011&ref_=nav_cs_hpc) 
 *   [Sell](https://www.amazon.co.jp/-/en/b/?_encoding=UTF8&ld=AZJPSOASL&node=2490612051&ref_=nav_cs_sell) 
+*   [Health and Personal Care](https://www.amazon.co.jp/-/en/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E6%97%A5%E7%94%A8%E5%93%81-%E5%8C%BB%E8%96%AC%E5%93%81-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=160384011&ref_=nav_cs_hpc) 
+*   [Home & Kitchen](https://www.amazon.co.jp/-/en/%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen) 
 
 [Kindle eBooks](https://www.amazon.co.jp/-/en/Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=topnav_storetab_nav_ebook)[![Image 3](https://m.media-amazon.com/images/G/01/Books/BooksDesignSystem/icons/deals.svg)My Books Promotions](https://www.amazon.co.jp/-/en/?_encoding=UTF8&ref_=sv_nav_ebook_1)[Comics](https://www.amazon.co.jp/-/en/manga/store/?_encoding=UTF8&ref_=sv_nav_ebook_2)[New on Amazon](https://www.amazon.co.jp/-/en/b/?ie=UTF8&node=210980246051&ref_=sv_nav_ebook_3)[Fliptoon Everyday Free Vertical Manga](https://www.amazon.co.jp/-/en/manga/store/fliptoon/?_encoding=UTF8&ref_=sv_nav_ebook_4)[Kindle Unlimited](https://www.amazon.co.jp/-/en/kindle-dbs/hz/signup/?_encoding=UTF8&ref_=sv_nav_ebook_5)[Prime Reading](https://www.amazon.co.jp/-/en/kindle-dbs/hz/bookshelf/prime/?_encoding=UTF8&ref_=sv_nav_ebook_6)[Deals](https://www.amazon.co.jp/-/en/hko/deals/?_encoding=UTF8&ref_=sv_nav_ebook_7)[Categories](https://www.amazon.co.jp/-/en/ebooks/?_encoding=UTF8&ref_=sv_nav_ebook_8)[Amazon Ranking](https://www.amazon.co.jp/-/en/gp/bestsellers/digital-text/2275256051/?ie=UTF8&ref_=sv_nav_ebook_9)[Free Reading Apps](https://www.amazon.co.jp/-/en/kindle-dbs/fd/kcp/?_encoding=UTF8&ref_=sv_nav_ebook_10)[Buy A Kindle](https://www.amazon.co.jp/-/en/Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC-%E7%AB%AF%E6%9C%AB/b/?ie=UTF8&node=3933932051&ref_=sv_nav_ebook_11)[Content and devices](https://www.amazon.co.jp/-/en/gp/digital/fiona/manage/?ie=UTF8&ref_=sv_nav_ebook_12)[Kindle Support](https://www.amazon.co.jp/-/en/gp/help/customer/contact-us/?ie=UTF8&ref_=sv_nav_ebook_13)
 
@@ -100,24 +104,6 @@ New Customer? [Start here](https://www.amazon.co.jp/-/en/ap/register?openid.retu
 [Sign in](https://www.amazon.co.jp/-/en/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fi%3Ddigital-text%26bbn%3D22273253051%26ref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0)
 
 New customer? [Start here.](https://www.amazon.co.jp/-/en/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.co.jp%2Fs%2F%3F_encoding%3DUTF8%26bbn%3D22273253051%26i%3Ddigital-text%26ref_%3Dnav_custrec_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0)
-
-Change language
-*   [日本語 - JA](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=ja-JP)
-*    
-*   [English - EN](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=en-US)
-*   [中文 (简体) - ZH](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=zh-CN)
-
-Change currency
-*   [$ - USD - US Dollar](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-currency=USD)
-*   [¥ - JPY - Japanese Yen](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-currency=JPY)
-
-[See all](https://www.amazon.co.jp/customer-preferences/edit?ref_=icp_cop_flyout_seeAll)You are shopping on Amazon.co.jp[Change country/region.](https://www.amazon.co.jp/customer-preferences/country?ref_=icp_lop_mop_chg_ais&preferencesReturnUrl=/)
-
-Change language[Learn more](https://www.amazon.co.jp/hz/cs/help?ref_=icp_language_help&nodeId=202029830)
-*   [日本語 - JA](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=ja-JP)
-*    
-*   [English - EN](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=en-US)
-*   [中文 (简体) - ZH](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#switch-lang=zh-CN)
 
 [](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 
