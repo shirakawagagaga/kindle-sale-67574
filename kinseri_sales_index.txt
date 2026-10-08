@@ -164,7 +164,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kindle-manga.html')">
         <span class="budge_new_1">æ°ç</span>
-        <span class="number-display">2996+</span>
+        <span class="number-display">3005+</span>
 	<span class="publi-display">KADOKAWA</span><span class="publi-display">...</span>
 	<span class="genre-display">ãã³ã¬</span><span class="genre-display">...</span>
 	<span style="display: none">KADOKAWA å°å­¦é¤¨ è¬è«ç¤¾ ããã¼ã¸ã£ãã³ å¾³éæ¸åº ... </span>
