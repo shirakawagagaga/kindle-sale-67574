@@ -1,7 +1,7 @@
 {
   "https://r.jina.ai/http://kintyaku.net/sale": {
     "status": 200,
-    "len": 344,
+    "len": 446,
     "final": "https://r.jina.ai/http://kintyaku.net/sale",
     "hits": []
   },
@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1197294,
+    "len": 1195741,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
