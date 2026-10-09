@@ -281,6 +281,23 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
     
       
       <li class="sale-line">
+<span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-nico4-comic.html')">
+        
+        <span class="number-display">1108+</span>
+	<span class="publi-display">KADOKAWA</span><span class="publi-display">...</span>
+	<span class="genre-display">ãã³ã¬</span><span class="genre-display">...</span>
+	<span style="display: none">KADOKAWA KADOKAWA LifeDesign </span>
+	<span style="display: none">ãã³ã¬ æ®ããã»å¥åº·ã»å­è²ã¦ </span>
+	
+	
+	
+</span>
+        <a href="https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-nico4-comic.html" title="ã50%ãªãï¼æééå®ç¡æã»1000åä»¥ä¸ãKADOKAWA ãã³ãã³ã«ãã«ã¯ç¥­ã2026  ç¬¬4å¼¾ ã³ããã¯ (10/22ã¾ã§)">ã50%ãªãï¼æééå®ç¡æã»1000åä»¥ä¸ãKADOKAWA ãã³ãã³ã«ãã«ã¯ç¥­ã2026  ç¬¬4å¼¾ ã³ããã¯ (10/22ã¾ã§)</a>
+      </li>
+      
+    
+      
+      <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-akianime.html')">
         <span class="budge_new_1">æ°ç</span>
         <span class="number-display">74</span>
