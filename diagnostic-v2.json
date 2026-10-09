@@ -1,7 +1,7 @@
 {
   "https://r.jina.ai/http://kintyaku.net/sale": {
     "status": 200,
-    "len": 344,
+    "len": 446,
     "final": "https://r.jina.ai/http://kintyaku.net/sale",
     "hits": []
   },
@@ -19,11 +19,11 @@
   },
   "https://r.jina.ai/https://kintyaku.net/sale?page=2": {
     "status": 200,
-    "len": 541,
+    "len": 455,
     "final": "https://r.jina.ai/https://kintyaku.net/sale?page=2",
     "hits": [],
-    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?page=2\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
-    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?page=2\n\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?page=2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?page=2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
     "next_contexts": [],
     "autumn_contexts": [],
     "sale_links": [],
@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1195143,
+    "len": 1195086,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
@@ -155,9 +155,7 @@
     "final": "https://kinpome.com/kindle-sale2/",
     "scripts": [],
     "hrefs": [],
-    "api_refs": [
-      "jWxGC5ParwyRq9V10jJCkC1SRd4ywJz2j1ccqfF97mrWGtdCnK7GLCO.8AJQK7h7TNvV4DSZxQvKPwDKyex6dc9ehnHkY4g4wtoQeJG81Ay1QPGR672vX96pJvjkd.6EmpQGSVdFL1Dxh1kLXxZWl0APIfjYn_4HYDxdB.6_49n_Maf98fuAZAGjOV4okNLexEjdy5BHSSNNFpygFmIRCEO4eKSE6Z5bLfVxgBoiTVsg_quoWHgOS6fnzGicxNDnZgUYa9kNenDP4aJOuJdN5lWt7DkX.bgt_fNdRBBwkKr0sabQjp8fU59116yXByLYu2QUtvaIBhisKlREJxq1kjXxAxu3a1T2zhskmW9iY.K16DWpStFIVfw5vFVkwUZANly0PGMjkt1qq2jDXqdFmtwR.wSCE_zHefJ3eFoaMhtZNrypzWdGZc019acH25rj2u06Q"
-    ]
+    "api_refs": []
   },
   "https://r.jina.ai/https://kinpome.com/kindle-sale2/": {
     "status": 200,
