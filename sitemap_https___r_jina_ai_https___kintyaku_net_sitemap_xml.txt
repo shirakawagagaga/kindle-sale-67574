@@ -6,7 +6,7 @@ Markdown Content:
 [https://kintyaku.net/](https://kintyaku.net/)  
 
 [https://kintyaku.net/daily](https://kintyaku.net/daily)  
-2026-10-10
+2026-10-11
 
 [https://kintyaku.net/monthly](https://kintyaku.net/monthly)  
 
@@ -74,8 +74,6 @@ Markdown Content:
 
 [https://kintyaku.net/free/pub/4/page/2/](https://kintyaku.net/free/pub/4/page/2/)  
 
-[https://kintyaku.net/free/pub/4/page/3/](https://kintyaku.net/free/pub/4/page/3/)  
-
 [https://kintyaku.net/free/pub/5](https://kintyaku.net/free/pub/5)  
 
 [https://kintyaku.net/free/pub/5/page/2/](https://kintyaku.net/free/pub/5/page/2/)  
@@ -128,10 +126,6 @@ Markdown Content:
 
 [https://kintyaku.net/free/page/15/](https://kintyaku.net/free/page/15/)  
 
-[https://kintyaku.net/free/page/16/](https://kintyaku.net/free/page/16/)  
-
-[https://kintyaku.net/free/page/17/](https://kintyaku.net/free/page/17/)  
-
 [https://kintyaku.net/budget](https://kintyaku.net/budget)  
 
 [https://kintyaku.net/budget/page/2/](https://kintyaku.net/budget/page/2/)  
@@ -174,6 +168,8 @@ Markdown Content:
 
 [https://kintyaku.net/new-releases/2026-10](https://kintyaku.net/new-releases/2026-10)  
 
+[https://kintyaku.net/new-releases/2026-10-11](https://kintyaku.net/new-releases/2026-10-11)  
+
 [https://kintyaku.net/new-releases/2026-10-10](https://kintyaku.net/new-releases/2026-10-10)  
 
 [https://kintyaku.net/new-releases/2026-10-09](https://kintyaku.net/new-releases/2026-10-09)  
@@ -187,8 +183,6 @@ Markdown Content:
 [https://kintyaku.net/new-releases/2026-10-05](https://kintyaku.net/new-releases/2026-10-05)  
 
 [https://kintyaku.net/new-releases/2026-10-04](https://kintyaku.net/new-releases/2026-10-04)  
-
-[https://kintyaku.net/new-releases/2026-10-03](https://kintyaku.net/new-releases/2026-10-03)  
 
 [https://kintyaku.net/ranking](https://kintyaku.net/ranking)  
 
@@ -600,24 +594,6 @@ Markdown Content:
 
 [https://kintyaku.net/pub/2026-10-05-24677c4ea4](https://kintyaku.net/pub/2026-10-05-24677c4ea4)  
 
-[https://kintyaku.net/pub/2026-10-04-2cc8a17faf](https://kintyaku.net/pub/2026-10-04-2cc8a17faf)  
-
-[https://kintyaku.net/pub/2026-10-04-730b637117](https://kintyaku.net/pub/2026-10-04-730b637117)  
-
-[https://kintyaku.net/pub/2026-10-04-c721b48e3d](https://kintyaku.net/pub/2026-10-04-c721b48e3d)  
-
-[https://kintyaku.net/pub/2026-10-04-1a6b17db01](https://kintyaku.net/pub/2026-10-04-1a6b17db01)  
-
-[https://kintyaku.net/pub/2026-10-04-3da112bacb](https://kintyaku.net/pub/2026-10-04-3da112bacb)  
-
-[https://kintyaku.net/pub/2026-10-04-ea834e2b17](https://kintyaku.net/pub/2026-10-04-ea834e2b17)  
-
-[https://kintyaku.net/pub/2026-10-04-4256e18f78](https://kintyaku.net/pub/2026-10-04-4256e18f78)  
-
-[https://kintyaku.net/pub/2026-10-04-6d1e578238](https://kintyaku.net/pub/2026-10-04-6d1e578238)  
-
-[https://kintyaku.net/pub/2026-10-04-df3e0dad80](https://kintyaku.net/pub/2026-10-04-df3e0dad80)  
-
 [https://kintyaku.net/point-search](https://kintyaku.net/point-search)  
 
 [https://kintyaku.net/manga](https://kintyaku.net/manga)  
@@ -1022,9 +998,6 @@ Markdown Content:
 [https://kintyaku.net/sale/p202610-04-07](https://kintyaku.net/sale/p202610-04-07)  
 2026-10-10
 
-[https://kintyaku.net/sale/p202610-04-08](https://kintyaku.net/sale/p202610-04-08)  
-2026-10-10
-
 [https://kintyaku.net/sale/p202610-04-10](https://kintyaku.net/sale/p202610-04-10)  
 2026-10-10
 
@@ -1176,9 +1149,6 @@ Markdown Content:
 2026-10-10
 
 [https://kintyaku.net/sale/p202610-01-44](https://kintyaku.net/sale/p202610-01-44)  
-2026-10-10
-
-[https://kintyaku.net/sale/p202610-01-43](https://kintyaku.net/sale/p202610-01-43)  
 2026-10-10
 
 [https://kintyaku.net/sale/p202610-01-26](https://kintyaku.net/sale/p202610-01-26)  
@@ -1388,13 +1358,7 @@ Markdown Content:
 [https://kintyaku.net/sale/p202609-28-08](https://kintyaku.net/sale/p202609-28-08)  
 2026-10-10
 
-[https://kintyaku.net/sale/p202609-27-01](https://kintyaku.net/sale/p202609-27-01)  
-2026-10-10
-
 [https://kintyaku.net/sale/p202609-25-38](https://kintyaku.net/sale/p202609-25-38)  
-2026-10-10
-
-[https://kintyaku.net/sale/p202609-22-07](https://kintyaku.net/sale/p202609-22-07)  
 2026-10-10
 
 [https://kintyaku.net/sale/p202609-22-06](https://kintyaku.net/sale/p202609-22-06)  
@@ -1413,7 +1377,7 @@ Markdown Content:
 2026-10-10
 
 [https://kintyaku.net/sale/pfree](https://kintyaku.net/sale/pfree)  
-2026-10-10
+2026-10-11
 
 [https://kintyaku.net/manga/anime/](https://kintyaku.net/manga/anime/)  
 
