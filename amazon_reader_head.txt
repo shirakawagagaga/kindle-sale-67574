@@ -3,7 +3,7 @@ Title: Amazon.co.jp
 URL Source: https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051
 
 Markdown Content:
-![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:355-7145182-1867415:FD9GY32CDGGVWJ3BK1FS$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DFD9GY32CDGGVWJ3BK1FS:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
+![Image 1](https://fls-fe.amazon.co.jp/1/batch/1/OP/A1VC38T7YXB528:356-5604574-6013167:T244WB73AWP5SPEWWKGW$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DT244WB73AWP5SPEWWKGW:0)![Image 2](https://m.media-amazon.com/images/G/09/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546377955_.png)[](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051)
 ## Skip to
 
 *   [Main content](https://www.amazon.co.jp/s?i=digital-text&bbn=22273253051#skippedLink)
@@ -53,8 +53,8 @@ Search Amazon.co.jp
 *   [Amazon Basics](https://www.amazon.co.jp/-/en/stores/page/DA8DB903-A335-4CF5-AA32-77513A17D9F8?ref_=nav_cs_amazonbasics) 
 *   [New Releases](https://www.amazon.co.jp/-/en/ranking?type=new-releases&ref_=nav_cs_newreleases) 
 *   [Today's Deals](https://www.amazon.co.jp/-/en/gp/goldbox?ref_=nav_cs_gb) 
-*   [Home & Kitchen](https://www.amazon.co.jp/-/en/%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen) 
 *   [Gift Cards](https://www.amazon.co.jp/-/en/gp/gc?ref_=nav_cs_gc) 
+*   [Home & Kitchen](https://www.amazon.co.jp/-/en/%E3%83%9B%E3%83%BC%E3%83%A0-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E6%B6%88%E8%80%97%E5%93%81%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA-%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3-%E7%94%9F%E6%B4%BB%E9%9B%91%E8%B2%A8/b/?ie=UTF8&node=3828871&ref_=nav_cs_home_kitchen) 
 *   [Computers & Peripherals](https://www.amazon.co.jp/-/en/PC%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%91%A8%E8%BE%BA%E6%A9%9F%E5%99%A8-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=2127209051&ref_=nav_cs_pc) 
 *   [Health and Personal Care](https://www.amazon.co.jp/-/en/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%83%88%E3%82%A2-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E6%97%A5%E7%94%A8%E5%93%81-%E5%8C%BB%E8%96%AC%E5%93%81-%E9%80%9A%E8%B2%A9/b/?ie=UTF8&node=160384011&ref_=nav_cs_hpc) 
 *   [Sell](https://www.amazon.co.jp/-/en/b/?_encoding=UTF8&ld=AZJPSOASL&node=2490612051&ref_=nav_cs_sell) 
