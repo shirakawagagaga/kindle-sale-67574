@@ -144,10 +144,7 @@
     "hits": []
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
-    "status": 200,
-    "len": 1300068,
-    "final": "https://yapi.ta2o.net/kndlsl/pickup/",
-    "hits": []
+    "error": "ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='yapi.ta2o.net', port=443): Max retries exceeded with url: /kndlsl/pickup/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f929e58a6f0>, 'Connection to yapi.ta2o.net timed out. (connect timeout=45)'))\"))"
   },
   "https://kinpome.com/kindle-sale2/": {
     "status": 403,
