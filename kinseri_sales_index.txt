@@ -163,7 +163,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       <li class="day_on_kugiri"><span class="kugiri_line"><span>10/9</span></span></li>
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-tgkr-aki.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">35</span>
 	<span class="publi-display">ãã®ã¯ã«</span>
 	<span class="genre-display">ã©ã¤ãããã«</span>
@@ -265,7 +265,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-sgk-ura.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">26</span>
 	<span class="publi-display">å°å­¦é¤¨</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -282,7 +282,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-sgk-nobu.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">56</span>
 	<span class="publi-display">å°å­¦é¤¨</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -299,7 +299,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-sgk-hotaru.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">17</span>
 	<span class="publi-display">å°å­¦é¤¨</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -333,7 +333,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-sds-okera.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">104</span>
 	<span class="publi-display">ç¥¥ä¼ç¤¾</span>
 	<span class="genre-display">æå­¦ã»è©è«</span><span class="genre-display">...</span>
@@ -350,7 +350,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-ol-kuro.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">48</span>
 	<span class="publi-display">ãªã¼ãã¼ã©ãã</span>
 	<span class="genre-display">ãã³ã¬</span><span class="genre-display">...</span>
@@ -367,7 +367,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kodan-saba.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">77</span>
 	<span class="publi-display">è¬è«ç¤¾</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -401,7 +401,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kodan-mika.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">47</span>
 	<span class="publi-display">è¬è«ç¤¾</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -435,7 +435,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kobun-shinsho.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">35</span>
 	<span class="publi-display">åæç¤¾</span>
 	<span class="genre-display">äººæã»ææ³</span><span class="genre-display">...</span>
@@ -520,7 +520,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-sasa.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">34</span>
 	<span class="publi-display">KADOKAWA</span>
 	<span class="genre-display">ã©ã¤ãããã«</span><span class="genre-display">...</span>
@@ -639,7 +639,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-kowai.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">69</span>
 	<span class="publi-display">KADOKAWA</span>
 	<span class="genre-display">çµµæ¬ã»åç«¥æ¸</span><span class="genre-display">...</span>
@@ -656,7 +656,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-dca.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">74</span>
 	<span class="publi-display">KADOKAWA</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -673,7 +673,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-books.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">138</span>
 	<span class="publi-display">KADOKAWA</span>
 	<span class="genre-display">ã©ã¤ãããã«</span><span class="genre-display">...</span>
@@ -690,7 +690,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-kdkw-bl.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">12</span>
 	<span class="publi-display">KADOKAWA</span>
 	<span class="genre-display">ãã³ã¬</span><span class="genre-display">...</span>
@@ -758,7 +758,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-hobun-kirara.html')">
-        <span class="budge_new_2">æ°ç</span>
+        <span class="budge_new_3">æ°ç</span>
         <span class="number-display">65</span>
 	<span class="publi-display">è³æç¤¾</span>
 	<span class="genre-display">ãã³ã¬</span><span class="genre-display">...</span>
