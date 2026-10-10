@@ -180,7 +180,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-starts-ze.html')">
-        <span class="budge_new_4">æ°ç</span>
+        
         <span class="number-display">30</span>
 	<span class="publi-display">ã¹ã¿ã¼ãåºç</span>
 	<span class="genre-display">ãã³ã¬</span>
@@ -248,7 +248,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-sgk-yowa.html')">
-        <span class="budge_new_4">æ°ç</span>
+        
         <span class="number-display">15</span>
 	<span class="publi-display">å°å­¦é¤¨</span>
 	<span class="genre-display">ã©ã¤ãããã«</span>
@@ -775,7 +775,7 @@ h1 { margin: 0.5em; font-size: x-large; font-weight: bold; }
       
       <li class="sale-line">
 <span onclick="open_sale_image_modal(document.querySelector('#thumbnail-popup'),'https://yapi.ta2o.net/kndlsl/sales/20261009-hks-ya20.html')">
-        <span class="budge_new_4">æ°ç</span>
+        
         <span class="number-display">29</span>
 	<span class="publi-display">ç½æ³ç¤¾</span>
 	<span class="genre-display">ãã³ã¬</span>
