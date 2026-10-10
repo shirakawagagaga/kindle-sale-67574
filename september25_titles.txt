@@ -20,7 +20,7 @@
 20	
 21	
 22	
-23	Title: Just a moment...
+23	
 24	
 25	
 26	
@@ -29,7 +29,7 @@
 29	
 30	
 31	
-32	
+32	Title: Just a moment...
 33	
 34	
 35	
