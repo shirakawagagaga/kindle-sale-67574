@@ -1,7 +1,7 @@
 {
   "https://r.jina.ai/http://kintyaku.net/sale": {
     "status": 200,
-    "len": 439,
+    "len": 446,
     "final": "https://r.jina.ai/http://kintyaku.net/sale",
     "hits": []
   },
@@ -43,11 +43,11 @@
   },
   "https://r.jina.ai/https://kintyaku.net/sale?paged=2": {
     "status": 200,
-    "len": 1570,
+    "len": 456,
     "final": "https://r.jina.ai/https://kintyaku.net/sale?paged=2",
     "hits": [],
-    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?paged=2\n\nWarning: Target URL returned error 403: Forbidden\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\n## Incompatible browser extension or network configuration\n\nYour browser extensions or network settings have blocked the security verification process required by kintyaku.net. To resolve this, try the following steps:\n\nTemporarily disable browser extensions:\n\n1.   Go to your browser settings.\n2.   Locate your browser extensions and temporarily disable them.\n3.   Once browser extensions are disabled, [refresh this page](https://kintyaku.net/sale?paged=2#).\n\nCheck your network settings:\n\n1.   Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings.\n2.   If you do not have permission to adjust network settings, try connecting to a different network.\n\nIf these steps do not resolve the issue, refer to Cloudflare's [troubleshooting documentation](https://kintyaku.net/cdn-cgi/challenge-platform/help) for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation.\n",
-    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?paged=2\n\nWarning: Target URL returned error 403: Forbidden\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\n## Incompatible browser extension or network configuration\n\nYour browser extensions or network settings have blocked the security verification process required by kintyaku.net. To resolve this, try the following steps:\n\nTemporarily disable browser extensions:\n\n1.   Go to your browser settings.\n2.   Locate your browser extensions and temporarily disable them.\n3.   Once browser extensions are disabled, [refresh this page](https://kintyaku.net/sale?paged=2#).\n\nCheck your network settings:\n\n1.   Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings.\n2.   If you do not have permission to adjust network settings, try connecting to a different network.\n\nIf these steps do not resolve the issue, refer to Cloudflare's [troubleshooting documentation](https://kintyaku.net/cdn-cgi/challenge-platform/help) for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation.\n",
+    "body_head": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?paged=2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_tail": "Title: Just a moment...\n\nURL Source: https://kintyaku.net/sale?paged=2\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kintyaku.net](https://kintyaku.net/favicon.ico)\n\n## kintyaku.net\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
     "next_contexts": [],
     "autumn_contexts": [],
     "sale_links": [],
@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1195323,
+    "len": 1293545,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
@@ -159,14 +159,14 @@
   },
   "https://r.jina.ai/https://kinpome.com/kindle-sale2/": {
     "status": 200,
-    "len": 1565,
+    "len": 453,
     "final": "https://r.jina.ai/https://kinpome.com/kindle-sale2/",
     "scripts": [],
     "hrefs": [],
     "api_refs": [],
     "hits": [],
-    "body_head": "Title: Just a moment...\n\nURL Source: https://kinpome.com/kindle-sale2/\n\nWarning: Target URL returned error 403: Forbidden\n\nMarkdown Content:\n![Image 1: Icon for kinpome.com](https://kinpome.com/favicon.ico)\n\n## kinpome.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\n## Incompatible browser extension or network configuration\n\nYour browser extensions or network settings have blocked the security verification process required by kinpome.com. To resolve this, try the following steps:\n\nTemporarily disable browser extensions:\n\n1.   Go to your browser settings.\n2.   Locate your browser extensions and temporarily disable them.\n3.   Once browser extensions are disabled, [refresh this page](https://kinpome.com/kindle-sale2/#).\n\nCheck your network settings:\n\n1.   Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings.\n2.   If you do not have permission to adjust network settings, try connecting to a different network.\n\nIf these steps do not resolve the issue, refer to Cloudflare's [troubleshooting documentation](https://kinpome.com/cdn-cgi/challenge-platform/help) for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation.\n",
-    "body_tail": "Title: Just a moment...\n\nURL Source: https://kinpome.com/kindle-sale2/\n\nWarning: Target URL returned error 403: Forbidden\n\nMarkdown Content:\n![Image 1: Icon for kinpome.com](https://kinpome.com/favicon.ico)\n\n## kinpome.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\n## Incompatible browser extension or network configuration\n\nYour browser extensions or network settings have blocked the security verification process required by kinpome.com. To resolve this, try the following steps:\n\nTemporarily disable browser extensions:\n\n1.   Go to your browser settings.\n2.   Locate your browser extensions and temporarily disable them.\n3.   Once browser extensions are disabled, [refresh this page](https://kinpome.com/kindle-sale2/#).\n\nCheck your network settings:\n\n1.   Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings.\n2.   If you do not have permission to adjust network settings, try connecting to a different network.\n\nIf these steps do not resolve the issue, refer to Cloudflare's [troubleshooting documentation](https://kinpome.com/cdn-cgi/challenge-platform/help) for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation.\n",
+    "body_head": "Title: Just a moment...\n\nURL Source: https://kinpome.com/kindle-sale2/\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kinpome.com](https://kinpome.com/favicon.ico)\n\n## kinpome.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
+    "body_tail": "Title: Just a moment...\n\nURL Source: https://kinpome.com/kindle-sale2/\n\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n\nMarkdown Content:\n![Image 1: Icon for kinpome.com](https://kinpome.com/favicon.ico)\n\n## kinpome.com\n\n## Performing security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n",
     "next_contexts": [],
     "autumn_contexts": [],
     "sale_links": [],
