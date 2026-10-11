@@ -653,6 +653,9 @@ Markdown Content:
 [https://kintyaku.net/news/2026-07-01](https://kintyaku.net/news/2026-07-01)  
 2026-07-01
 
+[https://kintyaku.net/sale/p202610-11-06](https://kintyaku.net/sale/p202610-11-06)  
+2026-10-11
+
 [https://kintyaku.net/sale/p202610-11-05](https://kintyaku.net/sale/p202610-11-05)  
 2026-10-11
 
@@ -660,9 +663,6 @@ Markdown Content:
 2026-10-11
 
 [https://kintyaku.net/sale/p202610-11-01](https://kintyaku.net/sale/p202610-11-01)  
-2026-10-11
-
-[https://kintyaku.net/sale/p202610-11-06](https://kintyaku.net/sale/p202610-11-06)  
 2026-10-11
 
 [https://kintyaku.net/sale/p202610-11-04](https://kintyaku.net/sale/p202610-11-04)  
