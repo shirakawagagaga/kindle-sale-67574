@@ -145,7 +145,7 @@
   },
   "https://yapi.ta2o.net/kndlsl/pickup/": {
     "status": 200,
-    "len": 1296347,
+    "len": 1297659,
     "final": "https://yapi.ta2o.net/kndlsl/pickup/",
     "hits": []
   },
@@ -155,7 +155,9 @@
     "final": "https://kinpome.com/kindle-sale2/",
     "scripts": [],
     "hrefs": [],
-    "api_refs": []
+    "api_refs": [
+      "qLSCiO3nCRxRfNYgd3Iqdyt4PGGwhqk9F7Nq0.0ncc1agSKxBhqp1pKVL7EHEv.inKkAoCr6nzwBIvnHe.FLwwb5K5SZLGWlCrk7O.WdOgqUrOH90LvfjTBOCzMwsOHI46bwKqbtSXaAFrYpyrYD8oapIZvIpvnOztEwCWQWVNJo7lWUBINDw8yLCLZ5wYqrx5LdgeNrOX47wy5XgVefwWIUsinq9y2TJ0.fskfg6OwjQDiXA79ogmlrmbQAnOQA.MlyBXCa3_iYF8VPXk1paMHX7UNR9y9GKkQkZf_wWzBOpRpsG69Dh1dSx40Zi9Yo5hdlWe2.wpOj3OYFkwBILBZadyp_ERIupVt9D5uQ5eaUlzEWXnqNuu78_ZNnhVbXM3z.MEhcReB.wYk6LZjQB5pc2p48xLPh7s_KVx2EkoaneSvGqRvh9I1Qio6aNWKKxd8NY"
+    ]
   },
   "https://r.jina.ai/https://kinpome.com/kindle-sale2/": {
     "status": 200,
