@@ -1,1 +1,1 @@
-{"data":null,"retryAfter":2,"retryAfterDate":"2026-10-12T21:56:00.365Z","code":429,"name":"RateLimitTriggeredError","status":42903,"message":"Per IP rate limit exceeded","readableMessage":"RateLimitTriggeredError: Per IP rate limit exceeded"}
+{"data":null,"retryAfter":3,"retryAfterDate":"2026-10-13T02:37:09.166Z","code":429,"name":"RateLimitTriggeredError","status":42903,"message":"Per IP rate limit exceeded","readableMessage":"RateLimitTriggeredError: Per IP rate limit exceeded"}
