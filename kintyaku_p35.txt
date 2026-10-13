@@ -1,79 +1,12 @@
-<!doctype html>
-<html lang="en-US">
- <head>
-  <base href="https://kintyaku.net/sale/p202609-25-35">
-  <title>Just a moment...</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="robots" content="noindex,nofollow">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta http-equiv="content-security-policy" content="default-src 'none'; script-src 'nonce-iD7Y9Zk5ypqiZxfZELi4Xi' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'">
-  <style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style>
-  <meta http-equiv="refresh" content="360">
-  <meta http-equiv="X-Translated-By" content="Google">
-  <meta http-equiv="X-Translated-To" content="en">
-  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.en_US.ivFCO35N934.O/am=QADA/d=1/rs=AN8SPfoO6K4A7-iY2AQ82X3S_qDpnUT7BA/m=corsproxy" data-sourceurl="https://kintyaku.net/sale/p202609-25-35"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
-  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.en_US.ivFCO35N934.O/am=QADA/d=1/exm=corsproxy/ed=1/rs=AN8SPfoO6K4A7-iY2AQ82X3S_qDpnUT7BA/m=phishing_protection" data-phishing-protection-enabled="false" data-forms-warning-enabled="true" data-source-url="https://kintyaku.net/sale/p202609-25-35"></script>
-  <meta name="robots" content="none">
- </head>
- <body>
-  <script type="text/javascript" src="https://www.gstatic.com/_/translate_http/_/js/k=translate_http.tr.en_US.ivFCO35N934.O/am=QADA/d=1/exm=corsproxy,phishing_protection/ed=1/rs=AN8SPfoO6K4A7-iY2AQ82X3S_qDpnUT7BA/m=navigationui" data-environment="prod" data-proxy-url="https://kintyaku-net.translate.goog" data-proxy-full-url="https://kintyaku-net.translate.goog/sale/p202609-25-35?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en" data-source-url="https://kintyaku.net/sale/p202609-25-35" data-source-language="auto" data-target-language="en" data-display-language="en" data-detected-source-language="en" data-is-source-untranslated="false" data-source-untranslated-url="https://translate.google.com/website?sl=auto&amp;tl=en&amp;hl=en&amp;u=https://kintyaku.net/sale/p202609-25-35&amp;anno=2" data-client="tr"></script>
-  <div class="main-wrapper" role="main">
-   <div class="main-content">
-    <noscript>
-     <div class="h2">
-      <span id="challenge-error-text">Enable JavaScript and cookies to continue</span>
-     </div>
-    </noscript>
-   </div>
-  </div>
-  <script nonce="iD7Y9Zk5ypqiZxfZELi4Xi">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '8Vccf5GMH.TNGDh9Ul5sIc8.FDLnxXwKzK0ByZ4lTlk-1791886417-1.2.1.1-7GMFOuSGbULtBciANK_uZJf8Rdm_9TM8ZRNfC5hostk9mwP4kSufRV4HSVxtFk3U',cITimeS: '1791886417',cN: 'iD7Y9Zk5ypqiZxfZELi4Xi',cRay: 'a49d929bdc639953',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/sale/p202609-25-35?__cf_chl_tk=BBXrIH97yUvpDED0fJ2xqwHyRldxfAn4a5..ZUPQkHQ-1791886417-1.0.1.1-TE6sDAkRvl2cFrcYEGkLPRZkBGOx.UitDZcfch3kyBM",cvId: '3',cZone: 'kintyaku.net',fa:"/sale/p202609-25-35?__cf_chl_f_tk=BBXrIH97yUvpDED0fJ2xqwHyRldxfAn4a5..ZUPQkHQ-1791886417-1.0.1.1-TE6sDAkRvl2cFrcYEGkLPRZkBGOx.UitDZcfch3kyBM",md: 'YPTkrUfbZ1vm6lFVlKIXZpzIX5Jpx3y5JdZtiCpLb18-1791886417-1.2.1.1-2Rj9A1Uf18cV84nxjDlgWSfE9JmcUv4ZhdLppOjxr9nde_IMoXH7fqDVcoFSDo_4YpR7q9FNbV1iVtposnmmP84LZXz7v1zAzSmx2c0cKjWCZG4TpsadHso74cgaejuYh.cJXc4uJPXg1twgacx34LZR.W.cdA0h5yPQk51BugRgUIzYFVG0qBNetSgB_U4HeFo1DUuxJIt83QPxulrz.ndqJFwrAcG6f65szXXXUxdISJxa_ITmpdJVq4.nXnSCpNbtCYJN_kIeQabU7_r0.02cnGZ26dEDjF7BVNV0mac0A8_miM06AvBoJuRRHbH_6TntAdjvgBP4wKkiU0VKIGVu3Xk9prlc.98XUexpLp81uiw8y53sHdXaOaxc7UzILrsoc5Mik8zar.pxEh86JzuuQ47fp5N15uTFURo0a1tMNjjUsG7y.flU3i8WeMd2nQg5awi6ramZH4axAkZo4VudIELujLWWAzUKM1FmKbNlSp_x44PHS3XbxNmdp2LuQFpoHp1anF9J2wgjsNR6Gnt9HP43mXG.Y0G7ZGyYoDPzko2cLdr6ar.uY5QbE_i6.Tq2ZRetYE28YN7mnLbnm3Su5pnRVFjM.Wm4BHj7sJ6VK7I_P3_EzzoGfYN8F5l9DD.0snc_NqUMAE_mJf_wthUy_MtX73Cec0b29SYzENXwE_rxKWP77NHS3CqC0TENoMy3tghgQiyIqi3q8BB9UGE1euvafwaeP0b7veb14CfKp_FpPGFNv4fGnOwMhPT6Nrtj5oLrO0CKKnetNjaydi8U7raBdm_Vsls7AyoNX3dCtuEGaL1W00XgSLvW7kRLIFWfMCmGy6h9ktJ6s4MXi48ImoH0kNALZiFUZm89zl.hCqJNUbBTc.pS6cV74DVBs5nm9AEZYW788lrw282FnkaMcDFT8NkUYPoKq.rTNiBID1ETV0b9BYN15Q90PlOlgVVUtWBdNLMlHC0soJnSGw',mdrd: 'zxp4MYpk608k_v2FM4YXW6a.6qmrm.H8UOm8YdTxHGQ-1791886417-1.2.1.1-PJRc4oX.9fhn7kzxj4kt9eiZDyKhspw4F_9Pb6rM5crpk9.DQkbr.0Z4XW5LVMFAOipi.QJTr2y0gJUjt0ahK4UqPCHvxCsqU1fDCNMwruRwERJTiNG2vjZ4f3tErCtY9dSu5hsxbdNrNiyRQsZzJtsNVvj3f9Xnn2A2LDTta7t4tIKRwmdJ_.o3TZayPJm_srFaDIZ9IkXlRWM83YUMN16D5LlWW2xLL.hFgBbMhyVofht7DoA05QQjhXyocOiTchen45Xo2CdGzgicQKoIimXnu24ambhibKcf8o3.BKbkuTZit1G09x7wtOT1txSMJUKBtVKmpS8Jo40k8EfvXwzs7Dihx9W9BVjmjVLoOChMt4hnNhyt4lIQHlEzaDZu',};var a = document.createElement('script');a.nonce = 'iD7Y9Zk5ypqiZxfZELi4Xi';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a49d929bdc639953';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/sale/p202609-25-35?__cf_chl_rt_tk=BBXrIH97yUvpDED0fJ2xqwHyRldxfAn4a5..ZUPQkHQ-1791886417-1.0.1.1-TE6sDAkRvl2cFrcYEGkLPRZkBGOx.UitDZcfch3kyBM"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script>
-  <script>function gtElInit() {var lib = new google.translate.TranslateService();lib.translatePage('en', 'en', function () {});}</script>
-  <script id="google-translate-element-script">
-    (function() {
-      if(!window['_DumpException']) {
-        const _DumpException = window['_DumpException'] || function(e) {
-          throw e;
-        };
-        window['_DumpException'] = _DumpException;
-      }
-
-      var _getCallbackFunction = function(name) {
-        var segments = name.split('.');
-        var w = window;
-        for (var i = 0; i < segments.length; ++i) {
-          if (!(w = w[segments[i]])) {
-            return null;
-          }
-        }
-        return w;
-      };
-
-      var _loadCss = function(url) {
-        var link = document.createElement('link');
-        link.type = 'text/css';
-        link.rel = 'stylesheet';
-        link.charset = 'UTF-8';
-        link.href = url;
-        document.head.appendChild(link);
-      };
-
-      var _loadJs = function(url) {
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.charset = 'UTF-8';
-        script.src = url;
-        document.head.appendChild(script);
-      };
-
-      // Create a function so variables do not leak into the global scope
-      var initProtoFlow = function() {
-  var configProto = JSON.parse('\x5b\x22en\x22,\x22gtElInit\x22,\x5b0,1,0,\x5b\x22es_en\x22,\x22en_zh\x22,\x22en_de\x22,\x22en_ja\x22,\x22en_es\x22,\x22de_en\x22\x5d,null,\x5b0,3,100,\x5b\x22en_hi\x22,\x22en_it\x22,\x22en_ar\x22,\x22en_ru\x22,\x22en_de\x22,\x22en_zh\x22,\x22en_es\x22,\x22en_pt\x22,\x22en_fr\x22,\x22en_ko\x22,\x22en_ja\x22,\x22en_id\x22,\x22en_fa\x22,\x22en_pl\x22,\x22en_vi\x22,\x22en_tr\x22,\x22en_th\x22,\x22en_hu\x22,\x22en_ro\x22,\x22en_zh-hant\x22\x5d\x5d,0,1,0,\x5b\x22200%\x22,100\x5d\x5d,\x22wt\x22,\x22lib\x22,\x22prod\x22,\x22INFO\x22,null,\x22497746.3679318897\x22,\x22translate.googleapis.com\x22,\x22translate-pa.googleapis.com\x22,null,\x22translate.googleapis.com\x22,\x22https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\\u003dtranslate_http.tr.zZZZhVqDDCw.L.W.O\/am\\u003dQADA\/d\\u003d0\/rs\\u003dAN8SPfrXQhGDrY9gDk7kioTTjkwh79jveg\/m\\u003del_main_css\x22,\x22translate-pa.googleapis.com\/v1\/supportedLanguages\x22,\x22translate.google.com\x22,0,null,null,null,\x22https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\\u003dtranslate_http.tr.en_US.ivFCO35N934.O\/am\\u003dQADA\/d\\u003d1\/ed\\u003d1\/rs\\u003dAN8SPfoO6K4A7-iY2AQ82X3S_qDpnUT7BA\/m\\u003del_main\x22,\x22TE_20261011\x22\x5d'); window['google'] = window['google'] || {}; window['google']['translate'] = window['google']['translate'] || {}; window['google']['translate']['_protoConfig'] = configProto;_loadCss('https:\/\/www.gstatic.com\/_\/translate_http\/_\/ss\/k\x3dtranslate_http.tr.zZZZhVqDDCw.L.W.O\/am\x3dQADA\/d\x3d0\/rs\x3dAN8SPfrXQhGDrY9gDk7kioTTjkwh79jveg\/m\x3del_main_css'); _loadJs('https:\/\/translate.googleapis.com\/_\/translate_http\/_\/js\/k\x3dtranslate_http.tr.en_US.ivFCO35N934.O\/am\x3dQADA\/d\x3d1\/ed\x3d1\/rs\x3dAN8SPfoO6K4A7-iY2AQ82X3S_qDpnUT7BA\/m\x3del_main');
-      };
-
-      initProtoFlow();
-    })();
-  </script>
- </body>
-</html>
+<!DOCTYPE html><html><head><script>window['ppConfig'] = {productName: 'a89246f01efa04d48da2a721ccb48e84', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!="undefined"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length=="number")return{next:k(a)};throw Error(String(a)+" is not an iterable or ArrayLike");}function m(a,b){var c;b&&!b.done&&(c=a["return"])&&c.call(a)}
+var n=typeof Object.defineProperties=="function"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};function p(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var q=p(this);
+function r(a,b){if(b)a:{var c=q;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&n(c,a,{configurable:!0,writable:!0,value:b})}}r("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});
+r("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});
+r("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function t(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function u(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:v}function v(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}
+function w(){var a=(x=Object.prototype)==null?void 0:x.__lookupGetter__("__proto__"),b=y,c=z;return function(){var d=a.call(this),e,f,g,h;t(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}
+function A(){var a=(B=Object.prototype)==null?void 0:B.__lookupSetter__("__proto__"),b=y,c=z;return function(d){d=a.call(this,d);var e,f,g,h;t(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function C(a,b){D(a.productName,b);setInterval(function(){D(a.productName,b)},a.periodicReportingRateMillis)}
+var E="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),F=E.concat,G=navigator.userAgent.match(/Firefox\/([0-9]+)\./),H=(!G||G.length<2?0:Number(G[1])<75)?["toSource"]:[],I;if(H instanceof Array)I=H;else{for(var J=l(H),K,L=[];!(K=J.next()).done;)L.push(K.value);I=L}var M=F.call(E,I),N=[];
+function D(a,b){var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();try{for(;!e.done;e=d.next()){var f=e.value;M.includes(f)||N.includes(f)||c.push(f)}}finally{m(d,e)}e=Object.prototype;d=[];for(f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);e=c.next();try{for(;!e.done;e=c.next())N.push(e.value.name)}finally{m(c,e)}var h;t(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?
+h:"unknown",report:{blockers:d}})}};var O=Math.random(),P=u(),Q=window.ppConfig;Q&&(Q.disableAllReporting||Q.deleteIsEnforced&&Q.sealIsEnforced||O<Q.heartbeatRate&&t(P,Q.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var z=u(),R=window.ppConfig;if(R)if(R.deleteIsEnforced)delete Object.prototype.__proto__;else if(!R.disableAllReporting){var y=R.productName;try{var x,B;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:w(),set:A()})}catch(a){}}
+(function(){var a=u(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?C(b,a):document.addEventListener("DOMContentLoaded",function(){C(b,a)})))})();}).call(this);
+</script><link rel="stylesheet" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.zZZZhVqDDCw.L.W.O/am=QADA/d=0/rs=AN8SPfrXQhGDrY9gDk7kioTTjkwh79jveg/m=website_error"><link class="favicon" rel="icon" href="//ssl.gstatic.com/translate/favicon.ico" sizes="64x64"><link href="https://fonts.googleapis.com/css?family=Google+Sans:400,500,700" rel="stylesheet"><title>Google Translate</title></head><body class=iVOczc><div class=hSuz5e><div class=uJmfCe><h1 class=ssmAnd><a href="//www.translate.google.com" class=ssmAnd><img src="//www.google.com/images/logos/google_logo_41.png" alt="Google" class=gWV3jd />Translate</a></h1></div><div class=wzrbaf><div class=gwaSc><div class=ueocBf><div class=Twv2G>Can&#39;t translate this page</div><a href="https://kintyaku.net/sale/p202609-25-35?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en" class=jYTXVd>Go to original page</a></div></div><img src="https://www.gstatic.com/translate/2x_error_dog.png" alt="Error Dog" class=SwhxDf /></div></div><div class=pS9Ebf></div></body></html>
