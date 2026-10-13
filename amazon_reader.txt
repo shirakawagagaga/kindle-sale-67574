@@ -7,4 +7,4 @@ Published Time: Tue, 28 Jan 2025 01:17:07 GMT
 Warning: This is a cached snapshot of the original page, consider retry with caching opt-out.
 
 Markdown Content:
-A progress bar with a 30% completion level
+A circle is divided into two segments by a central angle
