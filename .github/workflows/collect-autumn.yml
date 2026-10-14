@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   issues:
     types: [opened]
-  schedule:
-    - cron: "*/15 * * * *"
 
 concurrency:
   group: autumn-corpus
