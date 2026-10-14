@@ -1,14 +1,10 @@
 name: collect-autumn-corpus
 on:
-  push:
-    paths:
-      - '.github/workflows/probe-autumn.yml'
   workflow_dispatch:
-  issues:
-    types: [opened]
 
 jobs:
   collect:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
