@@ -10,6 +10,7 @@ concurrency:
 jobs:
   collect:
     if: ${{ false }}
+    if: ${{ false }}
     if: github.event_name != 'issues' || contains(github.event.issue.title, 'Autumn corpus')
     runs-on: ubuntu-latest
     permissions:
