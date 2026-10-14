@@ -1,9 +1,9 @@
 name: discover-kindle-sale
 on:
-  push:
   workflow_dispatch:
 jobs:
   discover:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
