@@ -1,11 +1,9 @@
 name: discover-kindle-sale-v2
 on:
-  push:
   workflow_dispatch:
-  issues:
-    types: [opened]
 jobs:
   discover:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
